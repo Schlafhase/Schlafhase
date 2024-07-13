@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm Linus. I'm a student in Germany and I like to build creative C# apps in my free time.
 <!--
 **Schlafhase/Schlafhase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
