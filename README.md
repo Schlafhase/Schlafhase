@@ -6,6 +6,8 @@ I am really good at writing terrible and useless commit messages.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Schlafhase&theme=transparent&langs_count=10&card_width=500)
 
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=U081Z7D7YJK&api_domain=waka.hackclub.com&theme=transparent&custom_title=Wakapi%20Week%20Stats&width=500)
+
 <!--
 **Schlafhase/Schlafhase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
