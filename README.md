@@ -4,9 +4,7 @@ I am really good at writing terrible and useless commit messages.
 
 ![Schlafhases's GitHub stats](https://github-readme-stats.vercel.app/api?username=Schlafhase&show_icons=true&theme=transparent&rank_icon=github&include_all_commits=true&ring_color=ffea00&card_width=500)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Schlafhase&theme=transparent&langs_count=10&card_width=500)
-
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=U081Z7D7YJK&api_domain=waka.hackclub.com&theme=transparent&custom_title=Wakapi%20Stats&width=500)
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=U081Z7D7YJK&api_domain=waka.hackclub.com&theme=transparent&custom_title=Wakapi%20Stats&width=500&layout=compact&display_format=percent)
 
 <!--
 **Schlafhase/Schlafhase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
