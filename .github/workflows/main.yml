@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          config_display: columns
+          config_display: large
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Europe/Berlin
           plugin_wakatime: yes
