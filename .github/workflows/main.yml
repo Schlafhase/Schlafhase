@@ -16,6 +16,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          config_display: columns
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Europe/Berlin
           plugin_wakatime: yes
@@ -28,4 +29,4 @@ jobs:
           plugin_repositories_featured: CactusMessenger, ThreeBody
           plugin_languages: yes
           plugin_languages_ignored: javascript
-          config_display: columns
+          
