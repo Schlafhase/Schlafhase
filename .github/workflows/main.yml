@@ -21,6 +21,7 @@ jobs:
           config_timezone: Europe/Berlin
           plugin_wakatime: yes
           plugin_wakatime_url: "https://hackatime.hackclub.com/api/hackatime/v1"
+          plugin_wakatime_user: "771"
           plugin_wakatime_sections: time, editors, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_habits: yes
