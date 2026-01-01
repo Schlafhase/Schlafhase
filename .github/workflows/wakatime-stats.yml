@@ -23,8 +23,7 @@ jobs:
           pip install requests
           
       - name: Fetch Wakatime stats
-        run: |
-          python scripts/fetch_wakatime.py
+        run: python scripts/fetch_wakatime.py
         env:
           WAKATIME_TOKEN: ${{ secrets.WAKATIME_TOKEN }}
           
