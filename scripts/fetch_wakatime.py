@@ -38,7 +38,7 @@ def generate_markdown(stats: dict) -> str:
     md += "## Languages\n\n"
     for lang in languages[:15]:
         percentage = (lang["total_seconds"] / total_seconds * 100) if total_seconds > 0 else 0
-        md += f"**{lang['name']}**: {format_duration(seconds)} ({percentage:.1f}%)\n"
+        md += f"**{lang['name']}**: {lang["text"]} ({percentage:.1f}%)\n"
     
     return md
 
