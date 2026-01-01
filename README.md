@@ -4,7 +4,7 @@ I'm Linus, a student from Germany. I like to develop creative C# apps in my free
 ~~I am really good at writing terrible and useless commit messages.~~ <br/>
 My commit messages are getting better.
 
-https://github.com/Schlafhase/Schlafhase/blob/e85dfecdb6124d4b2dad101049a55a956d897095/stats/wakatime.md?plain=1#L1-L21
+https://github.com/Schlafhase/Schlafhase/blob/e85dfecdb6124d4b2dad101049a55a956d897095/stats/wakatime.md?plain=1#L1-L23
 
 <!--
 **Schlafhase/Schlafhase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
