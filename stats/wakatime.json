@@ -1,0 +1,896 @@
+{
+  "data": {
+    "username": "Linus Y. Schneeberg",
+    "user_id": "771",
+    "is_coding_activity_visible": true,
+    "is_other_usage_visible": true,
+    "status": "ok",
+    "start": "2016-01-01T23:29:55Z",
+    "end": "2026-01-01T23:59:59Z",
+    "range": "all_time",
+    "human_readable_range": "All Time",
+    "total_seconds": 1384521,
+    "daily_average": 379,
+    "human_readable_total": "384h 35m 21s",
+    "human_readable_daily_average": "6m 19s",
+    "languages": [
+      {
+        "name": "C#",
+        "total_seconds": 709639,
+        "text": "197h 7m",
+        "hours": 197,
+        "minutes": 7,
+        "percent": 51.26,
+        "digital": "197:07:19"
+      },
+      {
+        "name": "Razor",
+        "total_seconds": 105315,
+        "text": "29h 15m",
+        "hours": 29,
+        "minutes": 15,
+        "percent": 7.61,
+        "digital": "29:15:15"
+      },
+      {
+        "name": "Blazor",
+        "total_seconds": 89869,
+        "text": "24h 57m",
+        "hours": 24,
+        "minutes": 57,
+        "percent": 6.49,
+        "digital": "24:57:49"
+      },
+      {
+        "name": "Python",
+        "total_seconds": 86926,
+        "text": "24h 8m",
+        "hours": 24,
+        "minutes": 8,
+        "percent": 6.28,
+        "digital": "24:08:46"
+      },
+      {
+        "name": "JavaScript",
+        "total_seconds": 72827,
+        "text": "20h 13m",
+        "hours": 20,
+        "minutes": 13,
+        "percent": 5.26,
+        "digital": "20:13:47"
+      },
+      {
+        "name": "CSS",
+        "total_seconds": 61664,
+        "text": "17h 7m",
+        "hours": 17,
+        "minutes": 7,
+        "percent": 4.45,
+        "digital": "17:07:44"
+      },
+      {
+        "name": "Go",
+        "total_seconds": 60112,
+        "text": "16h 41m",
+        "hours": 16,
+        "minutes": 41,
+        "percent": 4.34,
+        "digital": "16:41:52"
+      },
+      {
+        "name": "Tex",
+        "total_seconds": 51342,
+        "text": "14h 15m",
+        "hours": 14,
+        "minutes": 15,
+        "percent": 3.71,
+        "digital": "14:15:42"
+      },
+      {
+        "name": "Qml",
+        "total_seconds": 51247,
+        "text": "14h 14m",
+        "hours": 14,
+        "minutes": 14,
+        "percent": 3.7,
+        "digital": "14:14:07"
+      },
+      {
+        "name": "TypeScript",
+        "total_seconds": 49273,
+        "text": "13h 41m",
+        "hours": 13,
+        "minutes": 41,
+        "percent": 3.56,
+        "digital": "13:41:13"
+      },
+      {
+        "name": "C",
+        "total_seconds": 45648,
+        "text": "12h 40m",
+        "hours": 12,
+        "minutes": 40,
+        "percent": 3.3,
+        "digital": "12:40:48"
+      },
+      {
+        "name": "Markdown",
+        "total_seconds": 40464,
+        "text": "11h 14m",
+        "hours": 11,
+        "minutes": 14,
+        "percent": 2.92,
+        "digital": "11:14:24"
+      },
+      {
+        "name": "C/c++",
+        "total_seconds": 30880,
+        "text": "8h 34m",
+        "hours": 8,
+        "minutes": 34,
+        "percent": 2.23,
+        "digital": "08:34:40"
+      },
+      {
+        "name": "C++",
+        "total_seconds": 29658,
+        "text": "8h 14m",
+        "hours": 8,
+        "minutes": 14,
+        "percent": 2.14,
+        "digital": "08:14:18"
+      },
+      {
+        "name": "HTML",
+        "total_seconds": 23736,
+        "text": "6h 35m",
+        "hours": 6,
+        "minutes": 35,
+        "percent": 1.71,
+        "digital": "06:35:36"
+      },
+      {
+        "name": "Hyprlang",
+        "total_seconds": 21525,
+        "text": "5h 58m",
+        "hours": 5,
+        "minutes": 58,
+        "percent": 1.55,
+        "digital": "05:58:45"
+      },
+      {
+        "name": "Xml",
+        "total_seconds": 21349,
+        "text": "5h 55m",
+        "hours": 5,
+        "minutes": 55,
+        "percent": 1.54,
+        "digital": "05:55:49"
+      },
+      {
+        "name": "Fsharp",
+        "total_seconds": 21009,
+        "text": "5h 50m",
+        "hours": 5,
+        "minutes": 50,
+        "percent": 1.52,
+        "digital": "05:50:09"
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 19513,
+        "text": "5h 25m",
+        "hours": 5,
+        "minutes": 25,
+        "percent": 1.41,
+        "digital": "05:25:13"
+      },
+      {
+        "name": "Typescript jsx",
+        "total_seconds": 19263,
+        "text": "5h 21m",
+        "hours": 5,
+        "minutes": 21,
+        "percent": 1.39,
+        "digital": "05:21:03"
+      },
+      {
+        "name": "Coffeescript",
+        "total_seconds": 17084,
+        "text": "4h 44m",
+        "hours": 4,
+        "minutes": 44,
+        "percent": 1.23,
+        "digital": "04:44:44"
+      },
+      {
+        "name": "Sourcemap",
+        "total_seconds": 14818,
+        "text": "4h 6m",
+        "hours": 4,
+        "minutes": 6,
+        "percent": 1.07,
+        "digital": "04:06:58"
+      },
+      {
+        "name": "Plain_text",
+        "total_seconds": 13384,
+        "text": "3h 43m",
+        "hours": 3,
+        "minutes": 43,
+        "percent": 0.97,
+        "digital": "03:43:04"
+      },
+      {
+        "name": "Nushell",
+        "total_seconds": 12632,
+        "text": "3h 30m",
+        "hours": 3,
+        "minutes": 30,
+        "percent": 0.91,
+        "digital": "03:30:32"
+      },
+      {
+        "name": "Rust",
+        "total_seconds": 11590,
+        "text": "3h 13m",
+        "hours": 3,
+        "minutes": 13,
+        "percent": 0.84,
+        "digital": "03:13:10"
+      },
+      {
+        "name": "Csproj",
+        "total_seconds": 11482,
+        "text": "3h 11m",
+        "hours": 3,
+        "minutes": 11,
+        "percent": 0.83,
+        "digital": "03:11:22"
+      },
+      {
+        "name": "Cmake",
+        "total_seconds": 10882,
+        "text": "3h 1m",
+        "hours": 3,
+        "minutes": 1,
+        "percent": 0.79,
+        "digital": "03:01:22"
+      },
+      {
+        "name": "Gitignore file",
+        "total_seconds": 10612,
+        "text": "2h 56m",
+        "hours": 2,
+        "minutes": 56,
+        "percent": 0.77,
+        "digital": "02:56:52"
+      },
+      {
+        "name": "Text",
+        "total_seconds": 10466,
+        "text": "2h 54m",
+        "hours": 2,
+        "minutes": 54,
+        "percent": 0.76,
+        "digital": "02:54:26"
+      },
+      {
+        "name": "Lua",
+        "total_seconds": 9690,
+        "text": "2h 41m",
+        "hours": 2,
+        "minutes": 41,
+        "percent": 0.7,
+        "digital": "02:41:30"
+      },
+      {
+        "name": "F#",
+        "total_seconds": 9206,
+        "text": "2h 33m",
+        "hours": 2,
+        "minutes": 33,
+        "percent": 0.66,
+        "digital": "02:33:26"
+      },
+      {
+        "name": "Glsl file",
+        "total_seconds": 6329,
+        "text": "1h 45m",
+        "hours": 1,
+        "minutes": 45,
+        "percent": 0.46,
+        "digital": "01:45:29"
+      },
+      {
+        "name": "Other",
+        "total_seconds": 6242,
+        "text": "1h 44m",
+        "hours": 1,
+        "minutes": 44,
+        "percent": 0.45,
+        "digital": "01:44:02"
+      },
+      {
+        "name": "Cmakelists.txt",
+        "total_seconds": 5720,
+        "text": "1h 35m",
+        "hours": 1,
+        "minutes": 35,
+        "percent": 0.41,
+        "digital": "01:35:20"
+      },
+      {
+        "name": "Glsl",
+        "total_seconds": 5598,
+        "text": "1h 33m",
+        "hours": 1,
+        "minutes": 33,
+        "percent": 0.4,
+        "digital": "01:33:18"
+      },
+      {
+        "name": "Svg",
+        "total_seconds": 4590,
+        "text": "1h 16m",
+        "hours": 1,
+        "minutes": 16,
+        "percent": 0.33,
+        "digital": "01:16:30"
+      },
+      {
+        "name": "Ini",
+        "total_seconds": 4483,
+        "text": "1h 14m",
+        "hours": 1,
+        "minutes": 14,
+        "percent": 0.32,
+        "digital": "01:14:43"
+      },
+      {
+        "name": "Bash",
+        "total_seconds": 4269,
+        "text": "1h 11m",
+        "hours": 1,
+        "minutes": 11,
+        "percent": 0.31,
+        "digital": "01:11:09"
+      },
+      {
+        "name": "Todotxt",
+        "total_seconds": 2561,
+        "text": "42m",
+        "hours": 0,
+        "minutes": 42,
+        "percent": 0.18,
+        "digital": "00:42:41"
+      },
+      {
+        "name": "Toml",
+        "total_seconds": 2130,
+        "text": "35m",
+        "hours": 0,
+        "minutes": 35,
+        "percent": 0.15,
+        "digital": "00:35:30"
+      },
+      {
+        "name": "C/c++ header",
+        "total_seconds": 2085,
+        "text": "34m",
+        "hours": 0,
+        "minutes": 34,
+        "percent": 0.15,
+        "digital": "00:34:45"
+      },
+      {
+        "name": "Msbuild targets file",
+        "total_seconds": 2051,
+        "text": "34m",
+        "hours": 0,
+        "minutes": 34,
+        "percent": 0.15,
+        "digital": "00:34:11"
+      },
+      {
+        "name": "Config",
+        "total_seconds": 1792,
+        "text": "29m",
+        "hours": 0,
+        "minutes": 29,
+        "percent": 0.13,
+        "digital": "00:29:52"
+      },
+      {
+        "name": "Other",
+        "total_seconds": 1704,
+        "text": "28m",
+        "hours": 0,
+        "minutes": 28,
+        "percent": 0.12,
+        "digital": "00:28:24"
+      },
+      {
+        "name": "Auto_detected",
+        "total_seconds": 1673,
+        "text": "27m",
+        "hours": 0,
+        "minutes": 27,
+        "percent": 0.12,
+        "digital": "00:27:53"
+      },
+      {
+        "name": "Il",
+        "total_seconds": 1514,
+        "text": "25m",
+        "hours": 0,
+        "minutes": 25,
+        "percent": 0.11,
+        "digital": "00:25:14"
+      },
+      {
+        "name": "Conf",
+        "total_seconds": 1223,
+        "text": "20m",
+        "hours": 0,
+        "minutes": 20,
+        "percent": 0.09,
+        "digital": "00:20:23"
+      },
+      {
+        "name": "Solution file",
+        "total_seconds": 1206,
+        "text": "20m",
+        "hours": 0,
+        "minutes": 20,
+        "percent": 0.09,
+        "digital": "00:20:06"
+      },
+      {
+        "name": "Bigfile",
+        "total_seconds": 1176,
+        "text": "19m",
+        "hours": 0,
+        "minutes": 19,
+        "percent": 0.08,
+        "digital": "00:19:36"
+      },
+      {
+        "name": "Docker",
+        "total_seconds": 1142,
+        "text": "19m",
+        "hours": 0,
+        "minutes": 19,
+        "percent": 0.08,
+        "digital": "00:19:02"
+      },
+      {
+        "name": "Xaml",
+        "total_seconds": 1086,
+        "text": "18m",
+        "hours": 0,
+        "minutes": 18,
+        "percent": 0.08,
+        "digital": "00:18:06"
+      },
+      {
+        "name": "Go.mod",
+        "total_seconds": 794,
+        "text": "13m",
+        "hours": 0,
+        "minutes": 13,
+        "percent": 0.06,
+        "digital": "00:13:14"
+      },
+      {
+        "name": "YAML",
+        "total_seconds": 754,
+        "text": "12m",
+        "hours": 0,
+        "minutes": 12,
+        "percent": 0.05,
+        "digital": "00:12:34"
+      },
+      {
+        "name": "Http request",
+        "total_seconds": 710,
+        "text": "11m",
+        "hours": 0,
+        "minutes": 11,
+        "percent": 0.05,
+        "digital": "00:11:50"
+      },
+      {
+        "name": "Ini",
+        "total_seconds": 592,
+        "text": "9m",
+        "hours": 0,
+        "minutes": 9,
+        "percent": 0.04,
+        "digital": "00:09:52"
+      },
+      {
+        "name": "Solution",
+        "total_seconds": 584,
+        "text": "9m",
+        "hours": 0,
+        "minutes": 9,
+        "percent": 0.04,
+        "digital": "00:09:44"
+      },
+      {
+        "name": "Desktop file",
+        "total_seconds": 570,
+        "text": "9m",
+        "hours": 0,
+        "minutes": 9,
+        "percent": 0.04,
+        "digital": "00:09:30"
+      },
+      {
+        "name": "Dockerfile",
+        "total_seconds": 492,
+        "text": "8m",
+        "hours": 0,
+        "minutes": 8,
+        "percent": 0.04,
+        "digital": "00:08:12"
+      },
+      {
+        "name": "Objective-c",
+        "total_seconds": 480,
+        "text": "8m",
+        "hours": 0,
+        "minutes": 8,
+        "percent": 0.03,
+        "digital": "00:08:00"
+      },
+      {
+        "name": "Tsconfig",
+        "total_seconds": 452,
+        "text": "7m",
+        "hours": 0,
+        "minutes": 7,
+        "percent": 0.03,
+        "digital": "00:07:32"
+      },
+      {
+        "name": "Textmate",
+        "total_seconds": 378,
+        "text": "6m",
+        "hours": 0,
+        "minutes": 6,
+        "percent": 0.03,
+        "digital": "00:06:18"
+      },
+      {
+        "name": "Gitignore",
+        "total_seconds": 372,
+        "text": "6m",
+        "hours": 0,
+        "minutes": 6,
+        "percent": 0.03,
+        "digital": "00:06:12"
+      },
+      {
+        "name": "Dockerignore file",
+        "total_seconds": 360,
+        "text": "6m",
+        "hours": 0,
+        "minutes": 6,
+        "percent": 0.03,
+        "digital": "00:06:00"
+      },
+      {
+        "name": "Jet_client_text",
+        "total_seconds": 360,
+        "text": "6m",
+        "hours": 0,
+        "minutes": 6,
+        "percent": 0.03,
+        "digital": "00:06:00"
+      },
+      {
+        "name": "Haskell",
+        "total_seconds": 284,
+        "text": "4m",
+        "hours": 0,
+        "minutes": 4,
+        "percent": 0.02,
+        "digital": "00:04:44"
+      },
+      {
+        "name": "Makefile",
+        "total_seconds": 283,
+        "text": "4m",
+        "hours": 0,
+        "minutes": 4,
+        "percent": 0.02,
+        "digital": "00:04:43"
+      },
+      {
+        "name": "Csv",
+        "total_seconds": 257,
+        "text": "4m",
+        "hours": 0,
+        "minutes": 4,
+        "percent": 0.02,
+        "digital": "00:04:17"
+      },
+      {
+        "name": "Xaml",
+        "total_seconds": 240,
+        "text": "4m",
+        "hours": 0,
+        "minutes": 4,
+        "percent": 0.02,
+        "digital": "00:04:00"
+      },
+      {
+        "name": "Rasi",
+        "total_seconds": 177,
+        "text": "2m",
+        "hours": 0,
+        "minutes": 2,
+        "percent": 0.01,
+        "digital": "00:02:57"
+      },
+      {
+        "name": "Isabelle",
+        "total_seconds": 140,
+        "text": "2m",
+        "hours": 0,
+        "minutes": 2,
+        "percent": 0.01,
+        "digital": "00:02:20"
+      },
+      {
+        "name": "YAML",
+        "total_seconds": 134,
+        "text": "2m",
+        "hours": 0,
+        "minutes": 2,
+        "percent": 0.01,
+        "digital": "00:02:14"
+      },
+      {
+        "name": "Zsh",
+        "total_seconds": 120,
+        "text": "2m",
+        "hours": 0,
+        "minutes": 2,
+        "percent": 0.01,
+        "digital": "00:02:00"
+      },
+      {
+        "name": "Linkerscript",
+        "total_seconds": 120,
+        "text": "2m",
+        "hours": 0,
+        "minutes": 2,
+        "percent": 0.01,
+        "digital": "00:02:00"
+      },
+      {
+        "name": "Pacmanconf",
+        "total_seconds": 120,
+        "text": "2m",
+        "hours": 0,
+        "minutes": 2,
+        "percent": 0.01,
+        "digital": "00:02:00"
+      },
+      {
+        "name": "Idea_module",
+        "total_seconds": 120,
+        "text": "2m",
+        "hours": 0,
+        "minutes": 2,
+        "percent": 0.01,
+        "digital": "00:02:00"
+      },
+      {
+        "name": "Assembly",
+        "total_seconds": 120,
+        "text": "2m",
+        "hours": 0,
+        "minutes": 2,
+        "percent": 0.01,
+        "digital": "00:02:00"
+      },
+      {
+        "name": "Latex source file",
+        "total_seconds": 86,
+        "text": "1m",
+        "hours": 0,
+        "minutes": 1,
+        "percent": 0.01,
+        "digital": "00:01:26"
+      },
+      {
+        "name": "Tera",
+        "total_seconds": 67,
+        "text": "1m",
+        "hours": 0,
+        "minutes": 1,
+        "percent": 0.0,
+        "digital": "00:01:07"
+      },
+      {
+        "name": "Gitcommit",
+        "total_seconds": 18,
+        "text": "0m",
+        "hours": 0,
+        "minutes": 0,
+        "percent": 0.0,
+        "digital": "00:00:18"
+      },
+      {
+        "name": "Unityyaml",
+        "total_seconds": 14,
+        "text": "0m",
+        "hours": 0,
+        "minutes": 0,
+        "percent": 0.0,
+        "digital": "00:00:14"
+      },
+      {
+        "name": "Gomod",
+        "total_seconds": 14,
+        "text": "0m",
+        "hours": 0,
+        "minutes": 0,
+        "percent": 0.0,
+        "digital": "00:00:14"
+      },
+      {
+        "name": "Powershell",
+        "total_seconds": 13,
+        "text": "0m",
+        "hours": 0,
+        "minutes": 0,
+        "percent": 0.0,
+        "digital": "00:00:13"
+      },
+      {
+        "name": "Gitexclude file",
+        "total_seconds": 11,
+        "text": "0m",
+        "hours": 0,
+        "minutes": 0,
+        "percent": 0.0,
+        "digital": "00:00:11"
+      },
+      {
+        "name": "Spajson",
+        "total_seconds": 10,
+        "text": "0m",
+        "hours": 0,
+        "minutes": 0,
+        "percent": 0.0,
+        "digital": "00:00:10"
+      },
+      {
+        "name": "Image",
+        "total_seconds": 5,
+        "text": "0m",
+        "hours": 0,
+        "minutes": 0,
+        "percent": 0.0,
+        "digital": "00:00:05"
+      },
+      {
+        "name": "Kitty",
+        "total_seconds": 3,
+        "text": "0m",
+        "hours": 0,
+        "minutes": 0,
+        "percent": 0.0,
+        "digital": "00:00:03"
+      },
+      {
+        "name": "Java properties",
+        "total_seconds": 0,
+        "text": "0m",
+        "hours": 0,
+        "minutes": 0,
+        "percent": 0.0,
+        "digital": "00:00:00"
+      },
+      {
+        "name": "Writerside instance",
+        "total_seconds": 0,
+        "text": "0m",
+        "hours": 0,
+        "minutes": 0,
+        "percent": 0.0,
+        "digital": "00:00:00"
+      },
+      {
+        "name": "Pkgconfig",
+        "total_seconds": 0,
+        "text": "0m",
+        "hours": 0,
+        "minutes": 0,
+        "percent": 0.0,
+        "digital": "00:00:00"
+      },
+      {
+        "name": "Scdoc",
+        "total_seconds": 0,
+        "text": "0m",
+        "hours": 0,
+        "minutes": 0,
+        "percent": 0.0,
+        "digital": "00:00:00"
+      },
+      {
+        "name": "Project file properties",
+        "total_seconds": 0,
+        "text": "0m",
+        "hours": 0,
+        "minutes": 0,
+        "percent": 0.0,
+        "digital": "00:00:00"
+      },
+      {
+        "name": "Pdf",
+        "total_seconds": 0,
+        "text": "0m",
+        "hours": 0,
+        "minutes": 0,
+        "percent": 0.0,
+        "digital": "00:00:00"
+      },
+      {
+        "name": "Pythonstub",
+        "total_seconds": 0,
+        "text": "0m",
+        "hours": 0,
+        "minutes": 0,
+        "percent": 0.0,
+        "digital": "00:00:00"
+      },
+      {
+        "name": "Resources",
+        "total_seconds": 0,
+        "text": "0m",
+        "hours": 0,
+        "minutes": 0,
+        "percent": 0.0,
+        "digital": "00:00:00"
+      },
+      {
+        "name": "Asp",
+        "total_seconds": 0,
+        "text": "0m",
+        "hours": 0,
+        "minutes": 0,
+        "percent": 0.0,
+        "digital": "00:00:00"
+      },
+      {
+        "name": "Cs",
+        "total_seconds": 0,
+        "text": "0m",
+        "hours": 0,
+        "minutes": 0,
+        "percent": 0.0,
+        "digital": "00:00:00"
+      },
+      {
+        "name": "Cookie storage file",
+        "total_seconds": 0,
+        "text": "0m",
+        "hours": 0,
+        "minutes": 0,
+        "percent": 0.0,
+        "digital": "00:00:00"
+      }
+    ]
+  },
+  "trust_factor": {
+    "trust_level": "blue",
+    "trust_value": 0
+  }
+}
