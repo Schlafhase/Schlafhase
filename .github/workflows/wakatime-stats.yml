@@ -23,10 +23,10 @@ jobs:
           pip install requests
           
       - name: Fetch Wakatime stats
-        env:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_TOKEN }}
         run: |
           python scripts/fetch_wakatime.py
+        env:
+          WAKATIME_TOKEN: ${{ secrets.WAKATIME_TOKEN }}
           
       - name: Commit and push changes
         run: |
