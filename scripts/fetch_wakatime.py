@@ -46,7 +46,6 @@ def generate_markdown(stats: dict) -> str:
 def main():
     api_key = os.environ.get("WAKATIME_TOKEN")
     if not api_key:
-        print(os.environ)
         raise ValueError("WAKATIME_TOKEN environment variable not set")
     
     stats_dir = Path("stats")
