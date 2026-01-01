@@ -23,9 +23,9 @@ def generate_markdown(stats: dict) -> str:
     if not data:
         return "No data available.\n"
 
-    total_seconds = data.total_seconds
-    total_time_human = data.human_readable_total
-    languages = data.languages  
+    total_seconds = data["total_seconds"]
+    total_time_human = data["human_readable_total"]
+    languages = data["languages"]
     
     languages = sorted(languages.items(), key=lambda x: x.total_seconds, reverse=True)
     editors = sorted(editors.items(), key=lambda x: x.total_seconds, reverse=True)
