@@ -27,9 +27,7 @@ def generate_markdown(stats: dict) -> str:
     total_time_human = data["human_readable_total"]
     languages = data["languages"]
     
-    languages = sorted(languages.items(), key=lambda x: x.total_seconds, reverse=True)
-    editors = sorted(editors.items(), key=lambda x: x.total_seconds, reverse=True)
-    projects = sorted(projects.items(), key=lambda x: x.total_seconds, reverse=True)
+    languages = sorted(languages, key=lambda x: x.total_seconds, reverse=True)
     
     md += f"-# Last updated:** {datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')} UTC\n\n"
     md += f"**Total time:** {total_time_human}\n\n"
