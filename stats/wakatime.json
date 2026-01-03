@@ -5,13 +5,13 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-01-02T12:29:12Z",
-    "end": "2026-01-02T23:59:59Z",
+    "start": "2016-01-03T01:07:25Z",
+    "end": "2026-01-03T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 1384521,
+    "total_seconds": 1385151,
     "daily_average": 379,
-    "human_readable_total": "384h 35m 21s",
+    "human_readable_total": "384h 45m 51s",
     "human_readable_daily_average": "6m 19s",
     "languages": [
       {
@@ -20,7 +20,7 @@
         "text": "197h 7m",
         "hours": 197,
         "minutes": 7,
-        "percent": 51.26,
+        "percent": 51.23,
         "digital": "197:07:19"
       },
       {
@@ -29,7 +29,7 @@
         "text": "29h 15m",
         "hours": 29,
         "minutes": 15,
-        "percent": 7.61,
+        "percent": 7.6,
         "digital": "29:15:15"
       },
       {
@@ -79,12 +79,12 @@
       },
       {
         "name": "Tex",
-        "total_seconds": 51342,
-        "text": "14h 15m",
+        "total_seconds": 51582,
+        "text": "14h 19m",
         "hours": 14,
-        "minutes": 15,
-        "percent": 3.71,
-        "digital": "14:15:42"
+        "minutes": 19,
+        "percent": 3.72,
+        "digital": "14:19:42"
       },
       {
         "name": "Qml",
@@ -115,12 +115,12 @@
       },
       {
         "name": "Markdown",
-        "total_seconds": 40464,
-        "text": "11h 14m",
+        "total_seconds": 40737,
+        "text": "11h 18m",
         "hours": 11,
-        "minutes": 14,
-        "percent": 2.92,
-        "digital": "11:14:24"
+        "minutes": 18,
+        "percent": 2.94,
+        "digital": "11:18:57"
       },
       {
         "name": "C/c++",
@@ -277,12 +277,12 @@
       },
       {
         "name": "Lua",
-        "total_seconds": 9690,
-        "text": "2h 41m",
+        "total_seconds": 9912,
+        "text": "2h 45m",
         "hours": 2,
-        "minutes": 41,
-        "percent": 0.7,
-        "digital": "02:41:30"
+        "minutes": 45,
+        "percent": 0.72,
+        "digital": "02:45:12"
       },
       {
         "name": "F#",
