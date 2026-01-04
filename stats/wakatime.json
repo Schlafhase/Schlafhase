@@ -5,13 +5,13 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-01-03T12:27:47Z",
-    "end": "2026-01-03T23:59:59Z",
+    "start": "2016-01-04T01:19:22Z",
+    "end": "2026-01-04T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 1385151,
+    "total_seconds": 1385436,
     "daily_average": 379,
-    "human_readable_total": "384h 45m 51s",
+    "human_readable_total": "384h 50m 36s",
     "human_readable_daily_average": "6m 19s",
     "languages": [
       {
@@ -20,7 +20,7 @@
         "text": "197h 7m",
         "hours": 197,
         "minutes": 7,
-        "percent": 51.23,
+        "percent": 51.22,
         "digital": "197:07:19"
       },
       {
@@ -47,7 +47,7 @@
         "text": "24h 8m",
         "hours": 24,
         "minutes": 8,
-        "percent": 6.28,
+        "percent": 6.27,
         "digital": "24:08:46"
       },
       {
@@ -110,7 +110,7 @@
         "text": "12h 40m",
         "hours": 12,
         "minutes": 40,
-        "percent": 3.3,
+        "percent": 3.29,
         "digital": "12:40:48"
       },
       {
@@ -151,12 +151,12 @@
       },
       {
         "name": "Hyprlang",
-        "total_seconds": 21525,
-        "text": "5h 58m",
-        "hours": 5,
-        "minutes": 58,
-        "percent": 1.55,
-        "digital": "05:58:45"
+        "total_seconds": 21645,
+        "text": "6h",
+        "hours": 6,
+        "minutes": 0,
+        "percent": 1.56,
+        "digital": "06:00:45"
       },
       {
         "name": "Xml",
@@ -223,12 +223,12 @@
       },
       {
         "name": "Nushell",
-        "total_seconds": 12632,
-        "text": "3h 30m",
+        "total_seconds": 12797,
+        "text": "3h 33m",
         "hours": 3,
-        "minutes": 30,
-        "percent": 0.91,
-        "digital": "03:30:32"
+        "minutes": 33,
+        "percent": 0.92,
+        "digital": "03:33:17"
       },
       {
         "name": "Rust",
