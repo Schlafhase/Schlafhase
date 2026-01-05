@@ -5,13 +5,13 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-01-05T12:33:10Z",
+    "start": "2016-01-05T16:40:15Z",
     "end": "2026-01-05T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 1388537,
+    "total_seconds": 1388662,
     "daily_average": 380,
-    "human_readable_total": "385h 42m 17s",
+    "human_readable_total": "385h 44m 22s",
     "human_readable_daily_average": "6m 20s",
     "languages": [
       {
@@ -20,7 +20,7 @@
         "text": "197h 7m",
         "hours": 197,
         "minutes": 7,
-        "percent": 51.11,
+        "percent": 51.1,
         "digital": "197:07:19"
       },
       {
@@ -510,6 +510,15 @@
         "digital": "00:11:50"
       },
       {
+        "name": "Sshconfig",
+        "total_seconds": 614,
+        "text": "10m",
+        "hours": 0,
+        "minutes": 10,
+        "percent": 0.04,
+        "digital": "00:10:14"
+      },
+      {
         "name": "Ini",
         "total_seconds": 592,
         "text": "9m",
@@ -544,15 +553,6 @@
         "minutes": 8,
         "percent": 0.04,
         "digital": "00:08:12"
-      },
-      {
-        "name": "Sshconfig",
-        "total_seconds": 489,
-        "text": "8m",
-        "hours": 0,
-        "minutes": 8,
-        "percent": 0.04,
-        "digital": "00:08:09"
       },
       {
         "name": "Objective-c",
