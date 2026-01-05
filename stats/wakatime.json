@@ -5,14 +5,14 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-01-04T12:28:32Z",
-    "end": "2026-01-04T23:59:59Z",
+    "start": "2016-01-05T01:18:13Z",
+    "end": "2026-01-05T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 1385436,
-    "daily_average": 379,
-    "human_readable_total": "384h 50m 36s",
-    "human_readable_daily_average": "6m 19s",
+    "total_seconds": 1388537,
+    "daily_average": 380,
+    "human_readable_total": "385h 42m 17s",
+    "human_readable_daily_average": "6m 20s",
     "languages": [
       {
         "name": "C#",
@@ -20,7 +20,7 @@
         "text": "197h 7m",
         "hours": 197,
         "minutes": 7,
-        "percent": 51.22,
+        "percent": 51.11,
         "digital": "197:07:19"
       },
       {
@@ -29,7 +29,7 @@
         "text": "29h 15m",
         "hours": 29,
         "minutes": 15,
-        "percent": 7.6,
+        "percent": 7.58,
         "digital": "29:15:15"
       },
       {
@@ -38,7 +38,7 @@
         "text": "24h 57m",
         "hours": 24,
         "minutes": 57,
-        "percent": 6.49,
+        "percent": 6.47,
         "digital": "24:57:49"
       },
       {
@@ -47,7 +47,7 @@
         "text": "24h 8m",
         "hours": 24,
         "minutes": 8,
-        "percent": 6.27,
+        "percent": 6.26,
         "digital": "24:08:46"
       },
       {
@@ -56,7 +56,7 @@
         "text": "20h 13m",
         "hours": 20,
         "minutes": 13,
-        "percent": 5.26,
+        "percent": 5.24,
         "digital": "20:13:47"
       },
       {
@@ -65,7 +65,7 @@
         "text": "17h 7m",
         "hours": 17,
         "minutes": 7,
-        "percent": 4.45,
+        "percent": 4.44,
         "digital": "17:07:44"
       },
       {
@@ -74,7 +74,7 @@
         "text": "16h 41m",
         "hours": 16,
         "minutes": 41,
-        "percent": 4.34,
+        "percent": 4.33,
         "digital": "16:41:52"
       },
       {
@@ -83,7 +83,7 @@
         "text": "14h 19m",
         "hours": 14,
         "minutes": 19,
-        "percent": 3.72,
+        "percent": 3.71,
         "digital": "14:19:42"
       },
       {
@@ -92,7 +92,7 @@
         "text": "14h 14m",
         "hours": 14,
         "minutes": 14,
-        "percent": 3.7,
+        "percent": 3.69,
         "digital": "14:14:07"
       },
       {
@@ -101,7 +101,7 @@
         "text": "13h 41m",
         "hours": 13,
         "minutes": 41,
-        "percent": 3.56,
+        "percent": 3.55,
         "digital": "13:41:13"
       },
       {
@@ -119,7 +119,7 @@
         "text": "11h 18m",
         "hours": 11,
         "minutes": 18,
-        "percent": 2.94,
+        "percent": 2.93,
         "digital": "11:18:57"
       },
       {
@@ -128,7 +128,7 @@
         "text": "8h 34m",
         "hours": 8,
         "minutes": 34,
-        "percent": 2.23,
+        "percent": 2.22,
         "digital": "08:34:40"
       },
       {
@@ -151,12 +151,12 @@
       },
       {
         "name": "Hyprlang",
-        "total_seconds": 21645,
-        "text": "6h",
+        "total_seconds": 21885,
+        "text": "6h 4m",
         "hours": 6,
-        "minutes": 0,
-        "percent": 1.56,
-        "digital": "06:00:45"
+        "minutes": 4,
+        "percent": 1.58,
+        "digital": "06:04:45"
       },
       {
         "name": "Xml",
@@ -173,7 +173,7 @@
         "text": "5h 50m",
         "hours": 5,
         "minutes": 50,
-        "percent": 1.52,
+        "percent": 1.51,
         "digital": "05:50:09"
       },
       {
@@ -218,7 +218,7 @@
         "text": "3h 43m",
         "hours": 3,
         "minutes": 43,
-        "percent": 0.97,
+        "percent": 0.96,
         "digital": "03:43:04"
       },
       {
@@ -236,7 +236,7 @@
         "text": "3h 13m",
         "hours": 3,
         "minutes": 13,
-        "percent": 0.84,
+        "percent": 0.83,
         "digital": "03:13:10"
       },
       {
@@ -254,8 +254,17 @@
         "text": "3h 1m",
         "hours": 3,
         "minutes": 1,
-        "percent": 0.79,
+        "percent": 0.78,
         "digital": "03:01:22"
+      },
+      {
+        "name": "Lua",
+        "total_seconds": 10846,
+        "text": "3h",
+        "hours": 3,
+        "minutes": 0,
+        "percent": 0.78,
+        "digital": "03:00:46"
       },
       {
         "name": "Gitignore file",
@@ -263,7 +272,7 @@
         "text": "2h 56m",
         "hours": 2,
         "minutes": 56,
-        "percent": 0.77,
+        "percent": 0.76,
         "digital": "02:56:52"
       },
       {
@@ -272,17 +281,8 @@
         "text": "2h 54m",
         "hours": 2,
         "minutes": 54,
-        "percent": 0.76,
+        "percent": 0.75,
         "digital": "02:54:26"
-      },
-      {
-        "name": "Lua",
-        "total_seconds": 9912,
-        "text": "2h 45m",
-        "hours": 2,
-        "minutes": 45,
-        "percent": 0.72,
-        "digital": "02:45:12"
       },
       {
         "name": "F#",
@@ -294,6 +294,15 @@
         "digital": "02:33:26"
       },
       {
+        "name": "Other",
+        "total_seconds": 6893,
+        "text": "1h 54m",
+        "hours": 1,
+        "minutes": 54,
+        "percent": 0.5,
+        "digital": "01:54:53"
+      },
+      {
         "name": "Glsl file",
         "total_seconds": 6329,
         "text": "1h 45m",
@@ -301,15 +310,6 @@
         "minutes": 45,
         "percent": 0.46,
         "digital": "01:45:29"
-      },
-      {
-        "name": "Other",
-        "total_seconds": 6242,
-        "text": "1h 44m",
-        "hours": 1,
-        "minutes": 44,
-        "percent": 0.45,
-        "digital": "01:44:02"
       },
       {
         "name": "Cmakelists.txt",
@@ -465,6 +465,15 @@
         "digital": "00:19:02"
       },
       {
+        "name": "Nix",
+        "total_seconds": 1109,
+        "text": "18m",
+        "hours": 0,
+        "minutes": 18,
+        "percent": 0.08,
+        "digital": "00:18:29"
+      },
+      {
         "name": "Xaml",
         "total_seconds": 1086,
         "text": "18m",
@@ -537,6 +546,15 @@
         "digital": "00:08:12"
       },
       {
+        "name": "Sshconfig",
+        "total_seconds": 489,
+        "text": "8m",
+        "hours": 0,
+        "minutes": 8,
+        "percent": 0.04,
+        "digital": "00:08:09"
+      },
+      {
         "name": "Objective-c",
         "total_seconds": 480,
         "text": "8m",
@@ -573,7 +591,7 @@
         "digital": "00:06:12"
       },
       {
-        "name": "Dockerignore file",
+        "name": "Jet_client_text",
         "total_seconds": 360,
         "text": "6m",
         "hours": 0,
@@ -582,7 +600,7 @@
         "digital": "00:06:00"
       },
       {
-        "name": "Jet_client_text",
+        "name": "Dockerignore file",
         "total_seconds": 360,
         "text": "6m",
         "hours": 0,
@@ -607,6 +625,15 @@
         "minutes": 4,
         "percent": 0.02,
         "digital": "00:04:43"
+      },
+      {
+        "name": "Isabelle",
+        "total_seconds": 260,
+        "text": "4m",
+        "hours": 0,
+        "minutes": 4,
+        "percent": 0.02,
+        "digital": "00:04:20"
       },
       {
         "name": "Csv",
@@ -636,15 +663,6 @@
         "digital": "00:02:57"
       },
       {
-        "name": "Isabelle",
-        "total_seconds": 140,
-        "text": "2m",
-        "hours": 0,
-        "minutes": 2,
-        "percent": 0.01,
-        "digital": "00:02:20"
-      },
-      {
         "name": "YAML",
         "total_seconds": 134,
         "text": "2m",
@@ -654,7 +672,7 @@
         "digital": "00:02:14"
       },
       {
-        "name": "Zsh",
+        "name": "Pacmanconf",
         "total_seconds": 120,
         "text": "2m",
         "hours": 0,
@@ -672,16 +690,7 @@
         "digital": "00:02:00"
       },
       {
-        "name": "Pacmanconf",
-        "total_seconds": 120,
-        "text": "2m",
-        "hours": 0,
-        "minutes": 2,
-        "percent": 0.01,
-        "digital": "00:02:00"
-      },
-      {
-        "name": "Idea_module",
+        "name": "Zsh",
         "total_seconds": 120,
         "text": "2m",
         "hours": 0,
@@ -691,6 +700,15 @@
       },
       {
         "name": "Assembly",
+        "total_seconds": 120,
+        "text": "2m",
+        "hours": 0,
+        "minutes": 2,
+        "percent": 0.01,
+        "digital": "00:02:00"
+      },
+      {
+        "name": "Idea_module",
         "total_seconds": 120,
         "text": "2m",
         "hours": 0,
@@ -789,43 +807,7 @@
         "digital": "00:00:03"
       },
       {
-        "name": "Java properties",
-        "total_seconds": 0,
-        "text": "0m",
-        "hours": 0,
-        "minutes": 0,
-        "percent": 0.0,
-        "digital": "00:00:00"
-      },
-      {
-        "name": "Writerside instance",
-        "total_seconds": 0,
-        "text": "0m",
-        "hours": 0,
-        "minutes": 0,
-        "percent": 0.0,
-        "digital": "00:00:00"
-      },
-      {
-        "name": "Pkgconfig",
-        "total_seconds": 0,
-        "text": "0m",
-        "hours": 0,
-        "minutes": 0,
-        "percent": 0.0,
-        "digital": "00:00:00"
-      },
-      {
         "name": "Scdoc",
-        "total_seconds": 0,
-        "text": "0m",
-        "hours": 0,
-        "minutes": 0,
-        "percent": 0.0,
-        "digital": "00:00:00"
-      },
-      {
-        "name": "Project file properties",
         "total_seconds": 0,
         "text": "0m",
         "hours": 0,
@@ -843,7 +825,7 @@
         "digital": "00:00:00"
       },
       {
-        "name": "Pythonstub",
+        "name": "Pkgconfig",
         "total_seconds": 0,
         "text": "0m",
         "hours": 0,
@@ -852,7 +834,7 @@
         "digital": "00:00:00"
       },
       {
-        "name": "Resources",
+        "name": "Project file properties",
         "total_seconds": 0,
         "text": "0m",
         "hours": 0,
@@ -879,7 +861,52 @@
         "digital": "00:00:00"
       },
       {
+        "name": "Pythonstub",
+        "total_seconds": 0,
+        "text": "0m",
+        "hours": 0,
+        "minutes": 0,
+        "percent": 0.0,
+        "digital": "00:00:00"
+      },
+      {
+        "name": "Checkhealth",
+        "total_seconds": 0,
+        "text": "0m",
+        "hours": 0,
+        "minutes": 0,
+        "percent": 0.0,
+        "digital": "00:00:00"
+      },
+      {
+        "name": "Resources",
+        "total_seconds": 0,
+        "text": "0m",
+        "hours": 0,
+        "minutes": 0,
+        "percent": 0.0,
+        "digital": "00:00:00"
+      },
+      {
         "name": "Cookie storage file",
+        "total_seconds": 0,
+        "text": "0m",
+        "hours": 0,
+        "minutes": 0,
+        "percent": 0.0,
+        "digital": "00:00:00"
+      },
+      {
+        "name": "Java properties",
+        "total_seconds": 0,
+        "text": "0m",
+        "hours": 0,
+        "minutes": 0,
+        "percent": 0.0,
+        "digital": "00:00:00"
+      },
+      {
+        "name": "Writerside instance",
         "total_seconds": 0,
         "text": "0m",
         "hours": 0,
