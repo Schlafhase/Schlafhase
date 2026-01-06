@@ -5,13 +5,13 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-01-05T16:40:15Z",
-    "end": "2026-01-05T23:59:59Z",
+    "start": "2016-01-06T01:11:43Z",
+    "end": "2026-01-06T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 1388662,
+    "total_seconds": 1388968,
     "daily_average": 380,
-    "human_readable_total": "385h 44m 22s",
+    "human_readable_total": "385h 49m 28s",
     "human_readable_daily_average": "6m 20s",
     "languages": [
       {
@@ -20,7 +20,7 @@
         "text": "197h 7m",
         "hours": 197,
         "minutes": 7,
-        "percent": 51.1,
+        "percent": 51.09,
         "digital": "197:07:19"
       },
       {
@@ -151,12 +151,12 @@
       },
       {
         "name": "Hyprlang",
-        "total_seconds": 21885,
-        "text": "6h 4m",
+        "total_seconds": 22011,
+        "text": "6h 6m",
         "hours": 6,
-        "minutes": 4,
+        "minutes": 6,
         "percent": 1.58,
-        "digital": "06:04:45"
+        "digital": "06:06:51"
       },
       {
         "name": "Xml",
@@ -182,7 +182,7 @@
         "text": "5h 25m",
         "hours": 5,
         "minutes": 25,
-        "percent": 1.41,
+        "percent": 1.4,
         "digital": "05:25:13"
       },
       {
@@ -295,12 +295,12 @@
       },
       {
         "name": "Other",
-        "total_seconds": 6893,
-        "text": "1h 54m",
+        "total_seconds": 7199,
+        "text": "1h 59m",
         "hours": 1,
-        "minutes": 54,
-        "percent": 0.5,
-        "digital": "01:54:53"
+        "minutes": 59,
+        "percent": 0.52,
+        "digital": "01:59:59"
       },
       {
         "name": "Glsl file",
