@@ -5,13 +5,13 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-01-07T12:32:29Z",
-    "end": "2026-01-07T23:59:59Z",
+    "start": "2016-01-08T01:12:09Z",
+    "end": "2026-01-08T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 1388968,
+    "total_seconds": 1389887,
     "daily_average": 380,
-    "human_readable_total": "385h 49m 28s",
+    "human_readable_total": "386h 4m 47s",
     "human_readable_daily_average": "6m 20s",
     "languages": [
       {
@@ -20,7 +20,7 @@
         "text": "197h 7m",
         "hours": 197,
         "minutes": 7,
-        "percent": 51.09,
+        "percent": 51.06,
         "digital": "197:07:19"
       },
       {
@@ -47,7 +47,7 @@
         "text": "24h 8m",
         "hours": 24,
         "minutes": 8,
-        "percent": 6.26,
+        "percent": 6.25,
         "digital": "24:08:46"
       },
       {
@@ -74,7 +74,7 @@
         "text": "16h 41m",
         "hours": 16,
         "minutes": 41,
-        "percent": 4.33,
+        "percent": 4.32,
         "digital": "16:41:52"
       },
       {
@@ -110,7 +110,7 @@
         "text": "12h 40m",
         "hours": 12,
         "minutes": 40,
-        "percent": 3.29,
+        "percent": 3.28,
         "digital": "12:40:48"
       },
       {
@@ -137,7 +137,7 @@
         "text": "8h 14m",
         "hours": 8,
         "minutes": 14,
-        "percent": 2.14,
+        "percent": 2.13,
         "digital": "08:14:18"
       },
       {
@@ -151,12 +151,12 @@
       },
       {
         "name": "Hyprlang",
-        "total_seconds": 22011,
-        "text": "6h 6m",
+        "total_seconds": 22259,
+        "text": "6h 10m",
         "hours": 6,
-        "minutes": 6,
-        "percent": 1.58,
-        "digital": "06:06:51"
+        "minutes": 10,
+        "percent": 1.6,
+        "digital": "06:10:59"
       },
       {
         "name": "Xml",
@@ -295,12 +295,12 @@
       },
       {
         "name": "Other",
-        "total_seconds": 7199,
-        "text": "1h 59m",
-        "hours": 1,
-        "minutes": 59,
-        "percent": 0.52,
-        "digital": "01:59:59"
+        "total_seconds": 7994,
+        "text": "2h 13m",
+        "hours": 2,
+        "minutes": 13,
+        "percent": 0.58,
+        "digital": "02:13:14"
       },
       {
         "name": "Glsl file",
@@ -483,6 +483,15 @@
         "digital": "00:18:06"
       },
       {
+        "name": "YAML",
+        "total_seconds": 874,
+        "text": "14m",
+        "hours": 0,
+        "minutes": 14,
+        "percent": 0.06,
+        "digital": "00:14:34"
+      },
+      {
         "name": "Go.mod",
         "total_seconds": 794,
         "text": "13m",
@@ -490,15 +499,6 @@
         "minutes": 13,
         "percent": 0.06,
         "digital": "00:13:14"
-      },
-      {
-        "name": "YAML",
-        "total_seconds": 754,
-        "text": "12m",
-        "hours": 0,
-        "minutes": 12,
-        "percent": 0.05,
-        "digital": "00:12:34"
       },
       {
         "name": "Http request",
