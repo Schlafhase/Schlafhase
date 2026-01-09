@@ -5,13 +5,13 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-01-08T12:32:32Z",
-    "end": "2026-01-08T23:59:59Z",
+    "start": "2016-01-09T01:13:13Z",
+    "end": "2026-01-09T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 1389887,
+    "total_seconds": 1390141,
     "daily_average": 380,
-    "human_readable_total": "386h 4m 47s",
+    "human_readable_total": "386h 9m 1s",
     "human_readable_daily_average": "6m 20s",
     "languages": [
       {
@@ -20,7 +20,7 @@
         "text": "197h 7m",
         "hours": 197,
         "minutes": 7,
-        "percent": 51.06,
+        "percent": 51.05,
         "digital": "197:07:19"
       },
       {
@@ -38,7 +38,7 @@
         "text": "24h 57m",
         "hours": 24,
         "minutes": 57,
-        "percent": 6.47,
+        "percent": 6.46,
         "digital": "24:57:49"
       },
       {
@@ -101,7 +101,7 @@
         "text": "13h 41m",
         "hours": 13,
         "minutes": 41,
-        "percent": 3.55,
+        "percent": 3.54,
         "digital": "13:41:13"
       },
       {
@@ -151,12 +151,12 @@
       },
       {
         "name": "Hyprlang",
-        "total_seconds": 22259,
-        "text": "6h 10m",
+        "total_seconds": 22384,
+        "text": "6h 13m",
         "hours": 6,
-        "minutes": 10,
-        "percent": 1.6,
-        "digital": "06:10:59"
+        "minutes": 13,
+        "percent": 1.61,
+        "digital": "06:13:04"
       },
       {
         "name": "Xml",
@@ -295,12 +295,12 @@
       },
       {
         "name": "Other",
-        "total_seconds": 7994,
-        "text": "2h 13m",
+        "total_seconds": 8122,
+        "text": "2h 15m",
         "hours": 2,
-        "minutes": 13,
+        "minutes": 15,
         "percent": 0.58,
-        "digital": "02:13:14"
+        "digital": "02:15:22"
       },
       {
         "name": "Glsl file",
@@ -429,6 +429,15 @@
         "digital": "00:25:14"
       },
       {
+        "name": "Nix",
+        "total_seconds": 1229,
+        "text": "20m",
+        "hours": 0,
+        "minutes": 20,
+        "percent": 0.09,
+        "digital": "00:20:29"
+      },
+      {
         "name": "Conf",
         "total_seconds": 1223,
         "text": "20m",
@@ -463,15 +472,6 @@
         "minutes": 19,
         "percent": 0.08,
         "digital": "00:19:02"
-      },
-      {
-        "name": "Nix",
-        "total_seconds": 1109,
-        "text": "18m",
-        "hours": 0,
-        "minutes": 18,
-        "percent": 0.08,
-        "digital": "00:18:29"
       },
       {
         "name": "Xaml",
