@@ -5,14 +5,14 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-01-09T12:31:48Z",
-    "end": "2026-01-09T23:59:59Z",
+    "start": "2016-01-10T01:10:03Z",
+    "end": "2026-01-10T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 1390397,
-    "daily_average": 380,
-    "human_readable_total": "386h 13m 17s",
-    "human_readable_daily_average": "6m 20s",
+    "total_seconds": 1393756,
+    "daily_average": 381,
+    "human_readable_total": "387h 9m 16s",
+    "human_readable_daily_average": "6m 21s",
     "languages": [
       {
         "name": "C#",
@@ -20,7 +20,7 @@
         "text": "197h 7m",
         "hours": 197,
         "minutes": 7,
-        "percent": 51.04,
+        "percent": 50.92,
         "digital": "197:07:19"
       },
       {
@@ -29,7 +29,7 @@
         "text": "29h 15m",
         "hours": 29,
         "minutes": 15,
-        "percent": 7.57,
+        "percent": 7.56,
         "digital": "29:15:15"
       },
       {
@@ -38,7 +38,7 @@
         "text": "24h 57m",
         "hours": 24,
         "minutes": 57,
-        "percent": 6.46,
+        "percent": 6.45,
         "digital": "24:57:49"
       },
       {
@@ -47,7 +47,7 @@
         "text": "24h 8m",
         "hours": 24,
         "minutes": 8,
-        "percent": 6.25,
+        "percent": 6.24,
         "digital": "24:08:46"
       },
       {
@@ -56,7 +56,7 @@
         "text": "20h 13m",
         "hours": 20,
         "minutes": 13,
-        "percent": 5.24,
+        "percent": 5.23,
         "digital": "20:13:47"
       },
       {
@@ -65,7 +65,7 @@
         "text": "17h 7m",
         "hours": 17,
         "minutes": 7,
-        "percent": 4.43,
+        "percent": 4.42,
         "digital": "17:07:44"
       },
       {
@@ -74,7 +74,7 @@
         "text": "16h 41m",
         "hours": 16,
         "minutes": 41,
-        "percent": 4.32,
+        "percent": 4.31,
         "digital": "16:41:52"
       },
       {
@@ -83,7 +83,7 @@
         "text": "14h 19m",
         "hours": 14,
         "minutes": 19,
-        "percent": 3.71,
+        "percent": 3.7,
         "digital": "14:19:42"
       },
       {
@@ -92,7 +92,7 @@
         "text": "14h 14m",
         "hours": 14,
         "minutes": 14,
-        "percent": 3.69,
+        "percent": 3.68,
         "digital": "14:14:07"
       },
       {
@@ -119,7 +119,7 @@
         "text": "11h 18m",
         "hours": 11,
         "minutes": 18,
-        "percent": 2.93,
+        "percent": 2.92,
         "digital": "11:18:57"
       },
       {
@@ -146,17 +146,17 @@
         "text": "6h 35m",
         "hours": 6,
         "minutes": 35,
-        "percent": 1.71,
+        "percent": 1.7,
         "digital": "06:35:36"
       },
       {
         "name": "Hyprlang",
-        "total_seconds": 22384,
-        "text": "6h 13m",
+        "total_seconds": 23643,
+        "text": "6h 34m",
         "hours": 6,
-        "minutes": 13,
-        "percent": 1.61,
-        "digital": "06:13:04"
+        "minutes": 34,
+        "percent": 1.7,
+        "digital": "06:34:03"
       },
       {
         "name": "Xml",
@@ -164,7 +164,7 @@
         "text": "5h 55m",
         "hours": 5,
         "minutes": 55,
-        "percent": 1.54,
+        "percent": 1.53,
         "digital": "05:55:49"
       },
       {
@@ -191,7 +191,7 @@
         "text": "5h 21m",
         "hours": 5,
         "minutes": 21,
-        "percent": 1.39,
+        "percent": 1.38,
         "digital": "05:21:03"
       },
       {
@@ -209,7 +209,7 @@
         "text": "4h 6m",
         "hours": 4,
         "minutes": 6,
-        "percent": 1.07,
+        "percent": 1.06,
         "digital": "04:06:58"
       },
       {
@@ -223,12 +223,12 @@
       },
       {
         "name": "Nushell",
-        "total_seconds": 12797,
-        "text": "3h 33m",
+        "total_seconds": 12948,
+        "text": "3h 35m",
         "hours": 3,
-        "minutes": 33,
-        "percent": 0.92,
-        "digital": "03:33:17"
+        "minutes": 35,
+        "percent": 0.93,
+        "digital": "03:35:48"
       },
       {
         "name": "Rust",
@@ -245,7 +245,7 @@
         "text": "3h 11m",
         "hours": 3,
         "minutes": 11,
-        "percent": 0.83,
+        "percent": 0.82,
         "digital": "03:11:22"
       },
       {
@@ -285,6 +285,15 @@
         "digital": "02:54:26"
       },
       {
+        "name": "Other",
+        "total_seconds": 9949,
+        "text": "2h 45m",
+        "hours": 2,
+        "minutes": 45,
+        "percent": 0.71,
+        "digital": "02:45:49"
+      },
+      {
         "name": "F#",
         "total_seconds": 9206,
         "text": "2h 33m",
@@ -294,21 +303,12 @@
         "digital": "02:33:26"
       },
       {
-        "name": "Other",
-        "total_seconds": 8378,
-        "text": "2h 19m",
-        "hours": 2,
-        "minutes": 19,
-        "percent": 0.6,
-        "digital": "02:19:38"
-      },
-      {
         "name": "Glsl file",
         "total_seconds": 6329,
         "text": "1h 45m",
         "hours": 1,
         "minutes": 45,
-        "percent": 0.46,
+        "percent": 0.45,
         "digital": "01:45:29"
       },
       {
@@ -357,6 +357,15 @@
         "digital": "01:11:09"
       },
       {
+        "name": "Toml",
+        "total_seconds": 3083,
+        "text": "51m",
+        "hours": 0,
+        "minutes": 51,
+        "percent": 0.22,
+        "digital": "00:51:23"
+      },
+      {
         "name": "Todotxt",
         "total_seconds": 2561,
         "text": "42m",
@@ -364,15 +373,6 @@
         "minutes": 42,
         "percent": 0.18,
         "digital": "00:42:41"
-      },
-      {
-        "name": "Toml",
-        "total_seconds": 2130,
-        "text": "35m",
-        "hours": 0,
-        "minutes": 35,
-        "percent": 0.15,
-        "digital": "00:35:30"
       },
       {
         "name": "C/c++ header",
@@ -672,7 +672,7 @@
         "digital": "00:02:14"
       },
       {
-        "name": "Pacmanconf",
+        "name": "Zsh",
         "total_seconds": 120,
         "text": "2m",
         "hours": 0,
@@ -690,16 +690,7 @@
         "digital": "00:02:00"
       },
       {
-        "name": "Zsh",
-        "total_seconds": 120,
-        "text": "2m",
-        "hours": 0,
-        "minutes": 2,
-        "percent": 0.01,
-        "digital": "00:02:00"
-      },
-      {
-        "name": "Assembly",
+        "name": "Pacmanconf",
         "total_seconds": 120,
         "text": "2m",
         "hours": 0,
@@ -709,6 +700,15 @@
       },
       {
         "name": "Idea_module",
+        "total_seconds": 120,
+        "text": "2m",
+        "hours": 0,
+        "minutes": 2,
+        "percent": 0.01,
+        "digital": "00:02:00"
+      },
+      {
+        "name": "Assembly",
         "total_seconds": 120,
         "text": "2m",
         "hours": 0,
@@ -727,6 +727,15 @@
       },
       {
         "name": "Tera",
+        "total_seconds": 67,
+        "text": "1m",
+        "hours": 0,
+        "minutes": 1,
+        "percent": 0.0,
+        "digital": "00:01:07"
+      },
+      {
+        "name": "Sh",
         "total_seconds": 67,
         "text": "1m",
         "hours": 0,
@@ -807,7 +816,34 @@
         "digital": "00:00:03"
       },
       {
+        "name": "Writerside instance",
+        "total_seconds": 0,
+        "text": "0m",
+        "hours": 0,
+        "minutes": 0,
+        "percent": 0.0,
+        "digital": "00:00:00"
+      },
+      {
+        "name": "Java properties",
+        "total_seconds": 0,
+        "text": "0m",
+        "hours": 0,
+        "minutes": 0,
+        "percent": 0.0,
+        "digital": "00:00:00"
+      },
+      {
         "name": "Scdoc",
+        "total_seconds": 0,
+        "text": "0m",
+        "hours": 0,
+        "minutes": 0,
+        "percent": 0.0,
+        "digital": "00:00:00"
+      },
+      {
+        "name": "Cookie storage file",
         "total_seconds": 0,
         "text": "0m",
         "hours": 0,
@@ -880,33 +916,6 @@
       },
       {
         "name": "Resources",
-        "total_seconds": 0,
-        "text": "0m",
-        "hours": 0,
-        "minutes": 0,
-        "percent": 0.0,
-        "digital": "00:00:00"
-      },
-      {
-        "name": "Cookie storage file",
-        "total_seconds": 0,
-        "text": "0m",
-        "hours": 0,
-        "minutes": 0,
-        "percent": 0.0,
-        "digital": "00:00:00"
-      },
-      {
-        "name": "Java properties",
-        "total_seconds": 0,
-        "text": "0m",
-        "hours": 0,
-        "minutes": 0,
-        "percent": 0.0,
-        "digital": "00:00:00"
-      },
-      {
-        "name": "Writerside instance",
         "total_seconds": 0,
         "text": "0m",
         "hours": 0,
