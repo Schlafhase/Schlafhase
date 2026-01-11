@@ -5,13 +5,13 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-01-11T01:19:15Z",
+    "start": "2016-01-11T12:28:41Z",
     "end": "2026-01-11T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 1395525,
+    "total_seconds": 1396188,
     "daily_average": 382,
-    "human_readable_total": "387h 38m 45s",
+    "human_readable_total": "387h 49m 48s",
     "human_readable_daily_average": "6m 22s",
     "languages": [
       {
@@ -20,7 +20,7 @@
         "text": "197h 7m",
         "hours": 197,
         "minutes": 7,
-        "percent": 50.85,
+        "percent": 50.83,
         "digital": "197:07:19"
       },
       {
@@ -29,7 +29,7 @@
         "text": "29h 15m",
         "hours": 29,
         "minutes": 15,
-        "percent": 7.55,
+        "percent": 7.54,
         "digital": "29:15:15"
       },
       {
@@ -83,7 +83,7 @@
         "text": "14h 19m",
         "hours": 14,
         "minutes": 19,
-        "percent": 3.7,
+        "percent": 3.69,
         "digital": "14:19:42"
       },
       {
@@ -137,17 +137,17 @@
         "text": "8h 14m",
         "hours": 8,
         "minutes": 14,
-        "percent": 2.13,
+        "percent": 2.12,
         "digital": "08:14:18"
       },
       {
         "name": "Hyprlang",
-        "total_seconds": 24127,
-        "text": "6h 42m",
+        "total_seconds": 24316,
+        "text": "6h 45m",
         "hours": 6,
-        "minutes": 42,
-        "percent": 1.73,
-        "digital": "06:42:07"
+        "minutes": 45,
+        "percent": 1.74,
+        "digital": "06:45:16"
       },
       {
         "name": "HTML",
@@ -173,7 +173,7 @@
         "text": "5h 50m",
         "hours": 5,
         "minutes": 50,
-        "percent": 1.51,
+        "percent": 1.5,
         "digital": "05:50:09"
       },
       {
@@ -223,12 +223,12 @@
       },
       {
         "name": "Nushell",
-        "total_seconds": 13164,
-        "text": "3h 39m",
+        "total_seconds": 13295,
+        "text": "3h 41m",
         "hours": 3,
-        "minutes": 39,
-        "percent": 0.94,
-        "digital": "03:39:24"
+        "minutes": 41,
+        "percent": 0.95,
+        "digital": "03:41:35"
       },
       {
         "name": "Rust",
@@ -250,12 +250,12 @@
       },
       {
         "name": "Other",
-        "total_seconds": 11186,
-        "text": "3h 6m",
+        "total_seconds": 11378,
+        "text": "3h 9m",
         "hours": 3,
-        "minutes": 6,
-        "percent": 0.8,
-        "digital": "03:06:26"
+        "minutes": 9,
+        "percent": 0.81,
+        "digital": "03:09:38"
       },
       {
         "name": "Cmake",
@@ -429,6 +429,15 @@
         "digital": "00:25:14"
       },
       {
+        "name": "Conf",
+        "total_seconds": 1360,
+        "text": "22m",
+        "hours": 0,
+        "minutes": 22,
+        "percent": 0.1,
+        "digital": "00:22:40"
+      },
+      {
         "name": "Nix",
         "total_seconds": 1349,
         "text": "22m",
@@ -436,15 +445,6 @@
         "minutes": 22,
         "percent": 0.1,
         "digital": "00:22:29"
-      },
-      {
-        "name": "Conf",
-        "total_seconds": 1223,
-        "text": "20m",
-        "hours": 0,
-        "minutes": 20,
-        "percent": 0.09,
-        "digital": "00:20:23"
       },
       {
         "name": "Solution file",
@@ -591,7 +591,7 @@
         "digital": "00:06:12"
       },
       {
-        "name": "Jet_client_text",
+        "name": "Dockerignore file",
         "total_seconds": 360,
         "text": "6m",
         "hours": 0,
@@ -600,7 +600,7 @@
         "digital": "00:06:00"
       },
       {
-        "name": "Dockerignore file",
+        "name": "Jet_client_text",
         "total_seconds": 360,
         "text": "6m",
         "hours": 0,
@@ -726,7 +726,7 @@
         "digital": "00:01:26"
       },
       {
-        "name": "Sh",
+        "name": "Tera",
         "total_seconds": 67,
         "text": "1m",
         "hours": 0,
@@ -735,7 +735,7 @@
         "digital": "00:01:07"
       },
       {
-        "name": "Tera",
+        "name": "Sh",
         "total_seconds": 67,
         "text": "1m",
         "hours": 0,
@@ -753,7 +753,7 @@
         "digital": "00:00:18"
       },
       {
-        "name": "Gomod",
+        "name": "Unityyaml",
         "total_seconds": 14,
         "text": "0m",
         "hours": 0,
@@ -762,7 +762,7 @@
         "digital": "00:00:14"
       },
       {
-        "name": "Unityyaml",
+        "name": "Gomod",
         "total_seconds": 14,
         "text": "0m",
         "hours": 0,
@@ -778,6 +778,15 @@
         "minutes": 0,
         "percent": 0.0,
         "digital": "00:00:13"
+      },
+      {
+        "name": "Systemd",
+        "total_seconds": 12,
+        "text": "0m",
+        "hours": 0,
+        "minutes": 0,
+        "percent": 0.0,
+        "digital": "00:00:12"
       },
       {
         "name": "Gitexclude file",
@@ -816,7 +825,16 @@
         "digital": "00:00:03"
       },
       {
-        "name": "Java properties",
+        "name": "Pdf",
+        "total_seconds": 0,
+        "text": "0m",
+        "hours": 0,
+        "minutes": 0,
+        "percent": 0.0,
+        "digital": "00:00:00"
+      },
+      {
+        "name": "Scdoc",
         "total_seconds": 0,
         "text": "0m",
         "hours": 0,
@@ -852,52 +870,7 @@
         "digital": "00:00:00"
       },
       {
-        "name": "Cookie storage file",
-        "total_seconds": 0,
-        "text": "0m",
-        "hours": 0,
-        "minutes": 0,
-        "percent": 0.0,
-        "digital": "00:00:00"
-      },
-      {
-        "name": "Resources",
-        "total_seconds": 0,
-        "text": "0m",
-        "hours": 0,
-        "minutes": 0,
-        "percent": 0.0,
-        "digital": "00:00:00"
-      },
-      {
-        "name": "Scdoc",
-        "total_seconds": 0,
-        "text": "0m",
-        "hours": 0,
-        "minutes": 0,
-        "percent": 0.0,
-        "digital": "00:00:00"
-      },
-      {
-        "name": "Writerside instance",
-        "total_seconds": 0,
-        "text": "0m",
-        "hours": 0,
-        "minutes": 0,
-        "percent": 0.0,
-        "digital": "00:00:00"
-      },
-      {
-        "name": "Pdf",
-        "total_seconds": 0,
-        "text": "0m",
-        "hours": 0,
-        "minutes": 0,
-        "percent": 0.0,
-        "digital": "00:00:00"
-      },
-      {
-        "name": "Checkhealth",
+        "name": "Asp",
         "total_seconds": 0,
         "text": "0m",
         "hours": 0,
@@ -915,7 +888,43 @@
         "digital": "00:00:00"
       },
       {
-        "name": "Asp",
+        "name": "Java properties",
+        "total_seconds": 0,
+        "text": "0m",
+        "hours": 0,
+        "minutes": 0,
+        "percent": 0.0,
+        "digital": "00:00:00"
+      },
+      {
+        "name": "Checkhealth",
+        "total_seconds": 0,
+        "text": "0m",
+        "hours": 0,
+        "minutes": 0,
+        "percent": 0.0,
+        "digital": "00:00:00"
+      },
+      {
+        "name": "Resources",
+        "total_seconds": 0,
+        "text": "0m",
+        "hours": 0,
+        "minutes": 0,
+        "percent": 0.0,
+        "digital": "00:00:00"
+      },
+      {
+        "name": "Cookie storage file",
+        "total_seconds": 0,
+        "text": "0m",
+        "hours": 0,
+        "minutes": 0,
+        "percent": 0.0,
+        "digital": "00:00:00"
+      },
+      {
+        "name": "Writerside instance",
         "total_seconds": 0,
         "text": "0m",
         "hours": 0,
