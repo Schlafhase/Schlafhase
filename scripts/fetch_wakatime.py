@@ -47,7 +47,7 @@ def generate_markdown(stats: dict) -> str:
         percentage = (lang["total_seconds"] / total_seconds * 100) if total_seconds > 0 else 0
         md += f"- **{lang['name']}**: {lang['text']} ({percentage:.1f}%)\n"
         
-    md += f"> **Last updated:** {os.environ.get('HUMAN_DATETIME')} UTC\n\n"
+    md += f"> **Last updated:** {datetime.today().strftime('%Y-%m-%d %H:%M')} UTC\n\n"
     
     return md
 
