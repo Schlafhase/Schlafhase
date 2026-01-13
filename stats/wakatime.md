@@ -1,10 +1,10 @@
-**Total time:** 387h 51m 55s
+**Total time:** 388h 53m 57s
 
 **Current editor:** [Neovim](https://neovim.io/)
 
 **Languages**
 
-- **C#**: 197h 7m (50.8%)
+- **C#**: 197h 7m (50.7%)
 - **Razor**: 29h 15m (7.5%)
 - **Blazor**: 24h 57m (6.4%)
 - **Python**: 24h 8m (6.2%)
@@ -18,6 +18,6 @@
 - **Markdown**: 11h 18m (2.9%)
 - **C/c++**: 8h 34m (2.2%)
 - **C++**: 8h 14m (2.1%)
-- **Hyprlang**: 6h 45m (1.7%)
+- **HTML**: 7h 1m (1.8%)
 > **Last updated:** None UTC
 
