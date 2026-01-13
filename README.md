@@ -1,22 +1,31 @@
-## Hi there 👋
-I'm Linus, a student from Germany. I like to develop creative C# apps in my free time.
 
-~~I am really good at writing terrible and useless commit messages.~~ <br/>
-My commit messages are getting better.
+        ## Hi there 👋
+        I'm Linus, a student from Germany. I like to develop creative C# apps in my free time.
+        
+        ~~I am really good at writing terrible and useless commit messages.~~ <br/>
+        My commit messages are getting better.
 
-https://github.com/Schlafhase/Schlafhase/blob/e85dfecdb6124d4b2dad101049a55a956d897095/stats/wakatime.md?plain=1#L1-L23
+        ### Statistics 😀
+        **Total time:** 388h 53m 57s
 
-<!--
-**Schlafhase/Schlafhase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Current editor:** [Neovim](https://neovim.io/)
 
-Here are some ideas to get you started:
+**Languages**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **C#**: 197h 7m (50.7%)
+- **Razor**: 29h 15m (7.5%)
+- **Blazor**: 24h 57m (6.4%)
+- **Python**: 24h 8m (6.2%)
+- **JavaScript**: 20h 13m (5.2%)
+- **CSS**: 17h 7m (4.4%)
+- **Go**: 16h 41m (4.3%)
+- **Tex**: 14h 19m (3.7%)
+- **Qml**: 14h 14m (3.7%)
+- **TypeScript**: 13h 41m (3.5%)
+- **C**: 12h 40m (3.3%)
+- **Markdown**: 11h 18m (2.9%)
+- **C/c++**: 8h 34m (2.2%)
+- **C++**: 8h 14m (2.1%)
+- **HTML**: 7h 1m (1.8%)
+> **Last updated:** 2026-01-13 19:30 UTC
+
