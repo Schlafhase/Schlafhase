@@ -37,7 +37,7 @@ I'm Linus, a student from Germany. I like to develop creative C# apps in my free
 My commit messages are getting better.
 
 ### Statistics 😀
-        """
+"""
     
     md += f"**Total time:** {total_time_human}\n\n"
     md += "**Current editor:** [Neovim](https://neovim.io/)\n\n"
