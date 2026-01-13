@@ -29,7 +29,15 @@ def generate_markdown(stats: dict) -> str:
     
     languages = sorted(languages, key=lambda x: x["total_seconds"], reverse=True)
 
-    md = ""
+    md = """
+        ## Hi there 👋
+        I'm Linus, a student from Germany. I like to develop creative C# apps in my free time.
+        
+        ~~I am really good at writing terrible and useless commit messages.~~ <br/>
+        My commit messages are getting better.
+
+        ### Statistics 😀
+        """
     
     md += f"**Total time:** {total_time_human}\n\n"
     md += "**Current editor:** [Neovim](https://neovim.io/)\n\n"
@@ -62,7 +70,7 @@ def main():
     
     # Generate and save markdown
     markdown = generate_markdown(stats)
-    md_path = stats_dir / "wakatime.md"
+    md_path = "README.md"
     with open(md_path, "w") as f:
         f.write(markdown)
     print(f"Saved markdown to {md_path}")
