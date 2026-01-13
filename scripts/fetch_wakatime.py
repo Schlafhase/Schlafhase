@@ -30,13 +30,13 @@ def generate_markdown(stats: dict) -> str:
     languages = sorted(languages, key=lambda x: x["total_seconds"], reverse=True)
 
     md = """
-        ## Hi there 👋
-        I'm Linus, a student from Germany. I like to develop creative C# apps in my free time.
-        
-        ~~I am really good at writing terrible and useless commit messages.~~ <br/>
-        My commit messages are getting better.
+## Hi there 👋
+I'm Linus, a student from Germany. I like to develop creative C# apps in my free time.
 
-        ### Statistics 😀
+~~I am really good at writing terrible and useless commit messages.~~ <br/>
+My commit messages are getting better.
+
+### Statistics 😀
         """
     
     md += f"**Total time:** {total_time_human}\n\n"
