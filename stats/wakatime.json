@@ -5,14 +5,14 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-01-17T12:27:58Z",
-    "end": "2026-01-17T23:59:59Z",
+    "start": "2016-01-18T01:18:12Z",
+    "end": "2026-01-18T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 1405807,
-    "daily_average": 384,
-    "human_readable_total": "390h 30m 7s",
-    "human_readable_daily_average": "6m 24s",
+    "total_seconds": 1407471,
+    "daily_average": 385,
+    "human_readable_total": "390h 57m 51s",
+    "human_readable_daily_average": "6m 25s",
     "languages": [
       {
         "name": "C#",
@@ -20,7 +20,7 @@
         "text": "197h 7m",
         "hours": 197,
         "minutes": 7,
-        "percent": 50.48,
+        "percent": 50.42,
         "digital": "197:07:19"
       },
       {
@@ -29,7 +29,7 @@
         "text": "29h 15m",
         "hours": 29,
         "minutes": 15,
-        "percent": 7.49,
+        "percent": 7.48,
         "digital": "29:15:15"
       },
       {
@@ -56,7 +56,7 @@
         "text": "20h 13m",
         "hours": 20,
         "minutes": 13,
-        "percent": 5.18,
+        "percent": 5.17,
         "digital": "20:13:47"
       },
       {
@@ -65,7 +65,7 @@
         "text": "17h 7m",
         "hours": 17,
         "minutes": 7,
-        "percent": 4.39,
+        "percent": 4.38,
         "digital": "17:07:44"
       },
       {
@@ -74,7 +74,7 @@
         "text": "16h 41m",
         "hours": 16,
         "minutes": 41,
-        "percent": 4.28,
+        "percent": 4.27,
         "digital": "16:41:52"
       },
       {
@@ -83,7 +83,7 @@
         "text": "14h 19m",
         "hours": 14,
         "minutes": 19,
-        "percent": 3.67,
+        "percent": 3.66,
         "digital": "14:19:42"
       },
       {
@@ -92,7 +92,7 @@
         "text": "14h 14m",
         "hours": 14,
         "minutes": 14,
-        "percent": 3.65,
+        "percent": 3.64,
         "digital": "14:14:07"
       },
       {
@@ -110,7 +110,7 @@
         "text": "12h 40m",
         "hours": 12,
         "minutes": 40,
-        "percent": 3.25,
+        "percent": 3.24,
         "digital": "12:40:48"
       },
       {
@@ -119,7 +119,7 @@
         "text": "11h 18m",
         "hours": 11,
         "minutes": 18,
-        "percent": 2.9,
+        "percent": 2.89,
         "digital": "11:18:57"
       },
       {
@@ -128,7 +128,7 @@
         "text": "8h 34m",
         "hours": 8,
         "minutes": 34,
-        "percent": 2.2,
+        "percent": 2.19,
         "digital": "08:34:40"
       },
       {
@@ -200,7 +200,7 @@
         "text": "4h 44m",
         "hours": 4,
         "minutes": 44,
-        "percent": 1.22,
+        "percent": 1.21,
         "digital": "04:44:44"
       },
       {
@@ -227,7 +227,7 @@
         "text": "3h 44m",
         "hours": 3,
         "minutes": 44,
-        "percent": 0.96,
+        "percent": 0.95,
         "digital": "03:44:01"
       },
       {
@@ -303,6 +303,15 @@
         "digital": "02:33:26"
       },
       {
+        "name": "Typst",
+        "total_seconds": 6709,
+        "text": "1h 51m",
+        "hours": 1,
+        "minutes": 51,
+        "percent": 0.48,
+        "digital": "01:51:49"
+      },
+      {
         "name": "Glsl file",
         "total_seconds": 6329,
         "text": "1h 45m",
@@ -328,15 +337,6 @@
         "minutes": 33,
         "percent": 0.4,
         "digital": "01:33:18"
-      },
-      {
-        "name": "Typst",
-        "total_seconds": 5045,
-        "text": "1h 24m",
-        "hours": 1,
-        "minutes": 24,
-        "percent": 0.36,
-        "digital": "01:24:05"
       },
       {
         "name": "Svg",
