@@ -5,13 +5,13 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-01-18T12:28:05Z",
-    "end": "2026-01-18T23:59:59Z",
+    "start": "2016-01-19T01:17:03Z",
+    "end": "2026-01-19T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 1407471,
+    "total_seconds": 1407876,
     "daily_average": 385,
-    "human_readable_total": "390h 57m 51s",
+    "human_readable_total": "391h 4m 36s",
     "human_readable_daily_average": "6m 25s",
     "languages": [
       {
@@ -20,7 +20,7 @@
         "text": "197h 7m",
         "hours": 197,
         "minutes": 7,
-        "percent": 50.42,
+        "percent": 50.4,
         "digital": "197:07:19"
       },
       {
@@ -38,7 +38,7 @@
         "text": "24h 57m",
         "hours": 24,
         "minutes": 57,
-        "percent": 6.39,
+        "percent": 6.38,
         "digital": "24:57:49"
       },
       {
@@ -47,7 +47,7 @@
         "text": "24h 8m",
         "hours": 24,
         "minutes": 8,
-        "percent": 6.18,
+        "percent": 6.17,
         "digital": "24:08:46"
       },
       {
@@ -155,7 +155,7 @@
         "text": "6h 51m",
         "hours": 6,
         "minutes": 51,
-        "percent": 1.76,
+        "percent": 1.75,
         "digital": "06:51:44"
       },
       {
@@ -304,12 +304,12 @@
       },
       {
         "name": "Typst",
-        "total_seconds": 6709,
-        "text": "1h 51m",
+        "total_seconds": 7114,
+        "text": "1h 58m",
         "hours": 1,
-        "minutes": 51,
-        "percent": 0.48,
-        "digital": "01:51:49"
+        "minutes": 58,
+        "percent": 0.51,
+        "digital": "01:58:34"
       },
       {
         "name": "Glsl file",
