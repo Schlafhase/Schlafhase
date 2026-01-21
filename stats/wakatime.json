@@ -5,13 +5,13 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-01-20T12:35:55Z",
-    "end": "2026-01-20T23:59:59Z",
+    "start": "2016-01-21T01:14:33Z",
+    "end": "2026-01-21T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 1407876,
+    "total_seconds": 1407996,
     "daily_average": 385,
-    "human_readable_total": "391h 4m 36s",
+    "human_readable_total": "391h 6m 36s",
     "human_readable_daily_average": "6m 25s",
     "languages": [
       {
@@ -214,12 +214,12 @@
       },
       {
         "name": "Other",
-        "total_seconds": 13607,
-        "text": "3h 46m",
+        "total_seconds": 13727,
+        "text": "3h 48m",
         "hours": 3,
-        "minutes": 46,
+        "minutes": 48,
         "percent": 0.97,
-        "digital": "03:46:47"
+        "digital": "03:48:47"
       },
       {
         "name": "Nushell",
