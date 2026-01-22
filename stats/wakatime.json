@@ -5,23 +5,23 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-01-21T12:35:42Z",
-    "end": "2026-01-21T23:59:59Z",
+    "start": "2016-01-22T01:14:38Z",
+    "end": "2026-01-22T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 1407996,
-    "daily_average": 385,
-    "human_readable_total": "391h 6m 36s",
-    "human_readable_daily_average": "6m 25s",
+    "total_seconds": 1415809,
+    "daily_average": 387,
+    "human_readable_total": "393h 16m 49s",
+    "human_readable_daily_average": "6m 27s",
     "languages": [
       {
         "name": "C#",
-        "total_seconds": 709639,
-        "text": "197h 7m",
-        "hours": 197,
-        "minutes": 7,
-        "percent": 50.4,
-        "digital": "197:07:19"
+        "total_seconds": 716085,
+        "text": "198h 54m",
+        "hours": 198,
+        "minutes": 54,
+        "percent": 50.58,
+        "digital": "198:54:45"
       },
       {
         "name": "Razor",
@@ -29,7 +29,7 @@
         "text": "29h 15m",
         "hours": 29,
         "minutes": 15,
-        "percent": 7.48,
+        "percent": 7.44,
         "digital": "29:15:15"
       },
       {
@@ -38,7 +38,7 @@
         "text": "24h 57m",
         "hours": 24,
         "minutes": 57,
-        "percent": 6.38,
+        "percent": 6.35,
         "digital": "24:57:49"
       },
       {
@@ -47,7 +47,7 @@
         "text": "24h 8m",
         "hours": 24,
         "minutes": 8,
-        "percent": 6.17,
+        "percent": 6.14,
         "digital": "24:08:46"
       },
       {
@@ -56,7 +56,7 @@
         "text": "20h 13m",
         "hours": 20,
         "minutes": 13,
-        "percent": 5.17,
+        "percent": 5.14,
         "digital": "20:13:47"
       },
       {
@@ -65,7 +65,7 @@
         "text": "17h 7m",
         "hours": 17,
         "minutes": 7,
-        "percent": 4.38,
+        "percent": 4.36,
         "digital": "17:07:44"
       },
       {
@@ -74,7 +74,7 @@
         "text": "16h 41m",
         "hours": 16,
         "minutes": 41,
-        "percent": 4.27,
+        "percent": 4.25,
         "digital": "16:41:52"
       },
       {
@@ -83,7 +83,7 @@
         "text": "14h 19m",
         "hours": 14,
         "minutes": 19,
-        "percent": 3.66,
+        "percent": 3.64,
         "digital": "14:19:42"
       },
       {
@@ -92,7 +92,7 @@
         "text": "14h 14m",
         "hours": 14,
         "minutes": 14,
-        "percent": 3.64,
+        "percent": 3.62,
         "digital": "14:14:07"
       },
       {
@@ -101,7 +101,7 @@
         "text": "13h 41m",
         "hours": 13,
         "minutes": 41,
-        "percent": 3.5,
+        "percent": 3.48,
         "digital": "13:41:13"
       },
       {
@@ -110,7 +110,7 @@
         "text": "12h 40m",
         "hours": 12,
         "minutes": 40,
-        "percent": 3.24,
+        "percent": 3.22,
         "digital": "12:40:48"
       },
       {
@@ -119,7 +119,7 @@
         "text": "11h 18m",
         "hours": 11,
         "minutes": 18,
-        "percent": 2.89,
+        "percent": 2.88,
         "digital": "11:18:57"
       },
       {
@@ -128,7 +128,7 @@
         "text": "8h 34m",
         "hours": 8,
         "minutes": 34,
-        "percent": 2.19,
+        "percent": 2.18,
         "digital": "08:34:40"
       },
       {
@@ -137,7 +137,7 @@
         "text": "8h 14m",
         "hours": 8,
         "minutes": 14,
-        "percent": 2.11,
+        "percent": 2.09,
         "digital": "08:14:18"
       },
       {
@@ -146,7 +146,7 @@
         "text": "7h 3m",
         "hours": 7,
         "minutes": 3,
-        "percent": 1.81,
+        "percent": 1.8,
         "digital": "07:03:36"
       },
       {
@@ -155,17 +155,17 @@
         "text": "6h 51m",
         "hours": 6,
         "minutes": 51,
-        "percent": 1.75,
+        "percent": 1.74,
         "digital": "06:51:44"
       },
       {
         "name": "Xml",
-        "total_seconds": 21349,
-        "text": "5h 55m",
+        "total_seconds": 21469,
+        "text": "5h 57m",
         "hours": 5,
-        "minutes": 55,
+        "minutes": 57,
         "percent": 1.52,
-        "digital": "05:55:49"
+        "digital": "05:57:49"
       },
       {
         "name": "Fsharp",
@@ -173,7 +173,7 @@
         "text": "5h 50m",
         "hours": 5,
         "minutes": 50,
-        "percent": 1.49,
+        "percent": 1.48,
         "digital": "05:50:09"
       },
       {
@@ -182,7 +182,7 @@
         "text": "5h 25m",
         "hours": 5,
         "minutes": 25,
-        "percent": 1.39,
+        "percent": 1.38,
         "digital": "05:25:13"
       },
       {
@@ -191,7 +191,7 @@
         "text": "5h 21m",
         "hours": 5,
         "minutes": 21,
-        "percent": 1.37,
+        "percent": 1.36,
         "digital": "05:21:03"
       },
       {
@@ -213,6 +213,15 @@
         "digital": "04:06:58"
       },
       {
+        "name": "Nushell",
+        "total_seconds": 13735,
+        "text": "3h 48m",
+        "hours": 3,
+        "minutes": 48,
+        "percent": 0.97,
+        "digital": "03:48:55"
+      },
+      {
         "name": "Other",
         "total_seconds": 13727,
         "text": "3h 48m",
@@ -222,15 +231,6 @@
         "digital": "03:48:47"
       },
       {
-        "name": "Nushell",
-        "total_seconds": 13441,
-        "text": "3h 44m",
-        "hours": 3,
-        "minutes": 44,
-        "percent": 0.95,
-        "digital": "03:44:01"
-      },
-      {
         "name": "Plain_text",
         "total_seconds": 13384,
         "text": "3h 43m",
@@ -238,6 +238,15 @@
         "minutes": 43,
         "percent": 0.95,
         "digital": "03:43:04"
+      },
+      {
+        "name": "Lua",
+        "total_seconds": 12782,
+        "text": "3h 33m",
+        "hours": 3,
+        "minutes": 33,
+        "percent": 0.9,
+        "digital": "03:33:02"
       },
       {
         "name": "Rust",
@@ -254,17 +263,17 @@
         "text": "3h 11m",
         "hours": 3,
         "minutes": 11,
-        "percent": 0.82,
+        "percent": 0.81,
         "digital": "03:11:22"
       },
       {
-        "name": "Lua",
-        "total_seconds": 10966,
-        "text": "3h 2m",
+        "name": "Text",
+        "total_seconds": 11306,
+        "text": "3h 8m",
         "hours": 3,
-        "minutes": 2,
-        "percent": 0.78,
-        "digital": "03:02:46"
+        "minutes": 8,
+        "percent": 0.8,
+        "digital": "03:08:26"
       },
       {
         "name": "Cmake",
@@ -285,15 +294,6 @@
         "digital": "02:56:52"
       },
       {
-        "name": "Text",
-        "total_seconds": 10466,
-        "text": "2h 54m",
-        "hours": 2,
-        "minutes": 54,
-        "percent": 0.74,
-        "digital": "02:54:26"
-      },
-      {
         "name": "F#",
         "total_seconds": 9206,
         "text": "2h 33m",
@@ -308,7 +308,7 @@
         "text": "1h 58m",
         "hours": 1,
         "minutes": 58,
-        "percent": 0.51,
+        "percent": 0.5,
         "digital": "01:58:34"
       },
       {
@@ -326,7 +326,7 @@
         "text": "1h 35m",
         "hours": 1,
         "minutes": 35,
-        "percent": 0.41,
+        "percent": 0.4,
         "digital": "01:35:20"
       },
       {
@@ -344,7 +344,7 @@
         "text": "1h 16m",
         "hours": 1,
         "minutes": 16,
-        "percent": 0.33,
+        "percent": 0.32,
         "digital": "01:16:30"
       },
       {
@@ -398,7 +398,7 @@
         "text": "34m",
         "hours": 0,
         "minutes": 34,
-        "percent": 0.15,
+        "percent": 0.14,
         "digital": "00:34:11"
       },
       {
@@ -447,6 +447,15 @@
         "digital": "00:25:14"
       },
       {
+        "name": "Bigfile",
+        "total_seconds": 1424,
+        "text": "23m",
+        "hours": 0,
+        "minutes": 23,
+        "percent": 0.1,
+        "digital": "00:23:44"
+      },
+      {
         "name": "Nix",
         "total_seconds": 1349,
         "text": "22m",
@@ -463,15 +472,6 @@
         "minutes": 20,
         "percent": 0.09,
         "digital": "00:20:06"
-      },
-      {
-        "name": "Bigfile",
-        "total_seconds": 1176,
-        "text": "19m",
-        "hours": 0,
-        "minutes": 19,
-        "percent": 0.08,
-        "digital": "00:19:36"
       },
       {
         "name": "Docker",
