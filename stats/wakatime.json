@@ -5,23 +5,23 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-01-22T12:34:24Z",
-    "end": "2026-01-22T23:59:59Z",
+    "start": "2016-01-23T01:13:22Z",
+    "end": "2026-01-23T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 1415809,
-    "daily_average": 387,
-    "human_readable_total": "393h 16m 49s",
-    "human_readable_daily_average": "6m 27s",
+    "total_seconds": 1420362,
+    "daily_average": 388,
+    "human_readable_total": "394h 32m 42s",
+    "human_readable_daily_average": "6m 28s",
     "languages": [
       {
         "name": "C#",
-        "total_seconds": 716085,
-        "text": "198h 54m",
-        "hours": 198,
-        "minutes": 54,
-        "percent": 50.58,
-        "digital": "198:54:45"
+        "total_seconds": 720638,
+        "text": "200h 10m",
+        "hours": 200,
+        "minutes": 10,
+        "percent": 50.74,
+        "digital": "200:10:38"
       },
       {
         "name": "Razor",
@@ -29,7 +29,7 @@
         "text": "29h 15m",
         "hours": 29,
         "minutes": 15,
-        "percent": 7.44,
+        "percent": 7.41,
         "digital": "29:15:15"
       },
       {
@@ -38,7 +38,7 @@
         "text": "24h 57m",
         "hours": 24,
         "minutes": 57,
-        "percent": 6.35,
+        "percent": 6.33,
         "digital": "24:57:49"
       },
       {
@@ -47,7 +47,7 @@
         "text": "24h 8m",
         "hours": 24,
         "minutes": 8,
-        "percent": 6.14,
+        "percent": 6.12,
         "digital": "24:08:46"
       },
       {
@@ -56,7 +56,7 @@
         "text": "20h 13m",
         "hours": 20,
         "minutes": 13,
-        "percent": 5.14,
+        "percent": 5.13,
         "digital": "20:13:47"
       },
       {
@@ -65,7 +65,7 @@
         "text": "17h 7m",
         "hours": 17,
         "minutes": 7,
-        "percent": 4.36,
+        "percent": 4.34,
         "digital": "17:07:44"
       },
       {
@@ -74,7 +74,7 @@
         "text": "16h 41m",
         "hours": 16,
         "minutes": 41,
-        "percent": 4.25,
+        "percent": 4.23,
         "digital": "16:41:52"
       },
       {
@@ -83,7 +83,7 @@
         "text": "14h 19m",
         "hours": 14,
         "minutes": 19,
-        "percent": 3.64,
+        "percent": 3.63,
         "digital": "14:19:42"
       },
       {
@@ -92,7 +92,7 @@
         "text": "14h 14m",
         "hours": 14,
         "minutes": 14,
-        "percent": 3.62,
+        "percent": 3.61,
         "digital": "14:14:07"
       },
       {
@@ -101,7 +101,7 @@
         "text": "13h 41m",
         "hours": 13,
         "minutes": 41,
-        "percent": 3.48,
+        "percent": 3.47,
         "digital": "13:41:13"
       },
       {
@@ -110,7 +110,7 @@
         "text": "12h 40m",
         "hours": 12,
         "minutes": 40,
-        "percent": 3.22,
+        "percent": 3.21,
         "digital": "12:40:48"
       },
       {
@@ -119,7 +119,7 @@
         "text": "11h 18m",
         "hours": 11,
         "minutes": 18,
-        "percent": 2.88,
+        "percent": 2.87,
         "digital": "11:18:57"
       },
       {
@@ -128,7 +128,7 @@
         "text": "8h 34m",
         "hours": 8,
         "minutes": 34,
-        "percent": 2.18,
+        "percent": 2.17,
         "digital": "08:34:40"
       },
       {
@@ -146,7 +146,7 @@
         "text": "7h 3m",
         "hours": 7,
         "minutes": 3,
-        "percent": 1.8,
+        "percent": 1.79,
         "digital": "07:03:36"
       },
       {
@@ -164,7 +164,7 @@
         "text": "5h 57m",
         "hours": 5,
         "minutes": 57,
-        "percent": 1.52,
+        "percent": 1.51,
         "digital": "05:57:49"
       },
       {
@@ -182,7 +182,7 @@
         "text": "5h 25m",
         "hours": 5,
         "minutes": 25,
-        "percent": 1.38,
+        "percent": 1.37,
         "digital": "05:25:13"
       },
       {
@@ -200,7 +200,7 @@
         "text": "4h 44m",
         "hours": 4,
         "minutes": 44,
-        "percent": 1.21,
+        "percent": 1.2,
         "digital": "04:44:44"
       },
       {
@@ -209,7 +209,7 @@
         "text": "4h 6m",
         "hours": 4,
         "minutes": 6,
-        "percent": 1.05,
+        "percent": 1.04,
         "digital": "04:06:58"
       },
       {
@@ -236,7 +236,7 @@
         "text": "3h 43m",
         "hours": 3,
         "minutes": 43,
-        "percent": 0.95,
+        "percent": 0.94,
         "digital": "03:43:04"
       },
       {
@@ -335,7 +335,7 @@
         "text": "1h 33m",
         "hours": 1,
         "minutes": 33,
-        "percent": 0.4,
+        "percent": 0.39,
         "digital": "01:33:18"
       },
       {
@@ -461,7 +461,7 @@
         "text": "22m",
         "hours": 0,
         "minutes": 22,
-        "percent": 0.1,
+        "percent": 0.09,
         "digital": "00:22:29"
       },
       {
@@ -470,7 +470,7 @@
         "text": "20m",
         "hours": 0,
         "minutes": 20,
-        "percent": 0.09,
+        "percent": 0.08,
         "digital": "00:20:06"
       },
       {
