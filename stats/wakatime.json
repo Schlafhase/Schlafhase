@@ -5,23 +5,23 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-01-24T12:28:37Z",
-    "end": "2026-01-24T23:59:59Z",
+    "start": "2016-01-25T01:20:14Z",
+    "end": "2026-01-25T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 1423172,
-    "daily_average": 389,
-    "human_readable_total": "395h 19m 32s",
-    "human_readable_daily_average": "6m 29s",
+    "total_seconds": 1426460,
+    "daily_average": 390,
+    "human_readable_total": "396h 14m 20s",
+    "human_readable_daily_average": "6m 30s",
     "languages": [
       {
         "name": "C#",
-        "total_seconds": 723269,
-        "text": "200h 54m",
-        "hours": 200,
-        "minutes": 54,
-        "percent": 50.82,
-        "digital": "200:54:29"
+        "total_seconds": 725971,
+        "text": "201h 39m",
+        "hours": 201,
+        "minutes": 39,
+        "percent": 50.89,
+        "digital": "201:39:31"
       },
       {
         "name": "Razor",
@@ -29,7 +29,7 @@
         "text": "29h 15m",
         "hours": 29,
         "minutes": 15,
-        "percent": 7.4,
+        "percent": 7.38,
         "digital": "29:15:15"
       },
       {
@@ -38,7 +38,7 @@
         "text": "24h 57m",
         "hours": 24,
         "minutes": 57,
-        "percent": 6.31,
+        "percent": 6.3,
         "digital": "24:57:49"
       },
       {
@@ -47,7 +47,7 @@
         "text": "24h 8m",
         "hours": 24,
         "minutes": 8,
-        "percent": 6.11,
+        "percent": 6.09,
         "digital": "24:08:46"
       },
       {
@@ -56,7 +56,7 @@
         "text": "20h 13m",
         "hours": 20,
         "minutes": 13,
-        "percent": 5.12,
+        "percent": 5.11,
         "digital": "20:13:47"
       },
       {
@@ -65,7 +65,7 @@
         "text": "17h 7m",
         "hours": 17,
         "minutes": 7,
-        "percent": 4.33,
+        "percent": 4.32,
         "digital": "17:07:44"
       },
       {
@@ -74,7 +74,7 @@
         "text": "16h 41m",
         "hours": 16,
         "minutes": 41,
-        "percent": 4.22,
+        "percent": 4.21,
         "digital": "16:41:52"
       },
       {
@@ -92,7 +92,7 @@
         "text": "14h 14m",
         "hours": 14,
         "minutes": 14,
-        "percent": 3.6,
+        "percent": 3.59,
         "digital": "14:14:07"
       },
       {
@@ -101,7 +101,7 @@
         "text": "13h 41m",
         "hours": 13,
         "minutes": 41,
-        "percent": 3.46,
+        "percent": 3.45,
         "digital": "13:41:13"
       },
       {
@@ -110,7 +110,7 @@
         "text": "12h 40m",
         "hours": 12,
         "minutes": 40,
-        "percent": 3.21,
+        "percent": 3.2,
         "digital": "12:40:48"
       },
       {
@@ -128,7 +128,7 @@
         "text": "8h 34m",
         "hours": 8,
         "minutes": 34,
-        "percent": 2.17,
+        "percent": 2.16,
         "digital": "08:34:40"
       },
       {
@@ -146,7 +146,7 @@
         "text": "7h 3m",
         "hours": 7,
         "minutes": 3,
-        "percent": 1.79,
+        "percent": 1.78,
         "digital": "07:03:36"
       },
       {
@@ -155,17 +155,17 @@
         "text": "6h 51m",
         "hours": 6,
         "minutes": 51,
-        "percent": 1.74,
+        "percent": 1.73,
         "digital": "06:51:44"
       },
       {
         "name": "Xml",
-        "total_seconds": 21625,
-        "text": "6h",
+        "total_seconds": 21919,
+        "text": "6h 5m",
         "hours": 6,
-        "minutes": 0,
-        "percent": 1.52,
-        "digital": "06:00:25"
+        "minutes": 5,
+        "percent": 1.54,
+        "digital": "06:05:19"
       },
       {
         "name": "Fsharp",
@@ -173,7 +173,7 @@
         "text": "5h 50m",
         "hours": 5,
         "minutes": 50,
-        "percent": 1.48,
+        "percent": 1.47,
         "digital": "05:50:09"
       },
       {
@@ -214,12 +214,12 @@
       },
       {
         "name": "Nushell",
-        "total_seconds": 13735,
-        "text": "3h 48m",
+        "total_seconds": 14023,
+        "text": "3h 53m",
         "hours": 3,
-        "minutes": 48,
-        "percent": 0.97,
-        "digital": "03:48:55"
+        "minutes": 53,
+        "percent": 0.98,
+        "digital": "03:53:43"
       },
       {
         "name": "Other",
@@ -263,7 +263,7 @@
         "text": "3h 11m",
         "hours": 3,
         "minutes": 11,
-        "percent": 0.81,
+        "percent": 0.8,
         "digital": "03:11:22"
       },
       {
@@ -290,7 +290,7 @@
         "text": "2h 56m",
         "hours": 2,
         "minutes": 56,
-        "percent": 0.75,
+        "percent": 0.74,
         "digital": "02:56:52"
       },
       {
@@ -362,7 +362,7 @@
         "text": "1h 14m",
         "hours": 1,
         "minutes": 14,
-        "percent": 0.32,
+        "percent": 0.31,
         "digital": "01:14:43"
       },
       {
@@ -492,6 +492,15 @@
         "digital": "00:18:06"
       },
       {
+        "name": "Gitignore",
+        "total_seconds": 916,
+        "text": "15m",
+        "hours": 0,
+        "minutes": 15,
+        "percent": 0.06,
+        "digital": "00:15:16"
+      },
+      {
         "name": "YAML",
         "total_seconds": 874,
         "text": "14m",
@@ -517,15 +526,6 @@
         "minutes": 11,
         "percent": 0.05,
         "digital": "00:11:50"
-      },
-      {
-        "name": "Gitignore",
-        "total_seconds": 694,
-        "text": "11m",
-        "hours": 0,
-        "minutes": 11,
-        "percent": 0.05,
-        "digital": "00:11:34"
       },
       {
         "name": "Sshconfig",
