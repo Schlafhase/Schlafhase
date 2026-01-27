@@ -5,23 +5,23 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-01-26T12:34:19Z",
-    "end": "2026-01-26T23:59:59Z",
+    "start": "2016-01-27T01:18:20Z",
+    "end": "2026-01-27T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 1438012,
-    "daily_average": 393,
-    "human_readable_total": "399h 26m 52s",
-    "human_readable_daily_average": "6m 33s",
+    "total_seconds": 1439546,
+    "daily_average": 394,
+    "human_readable_total": "399h 52m 26s",
+    "human_readable_daily_average": "6m 34s",
     "languages": [
       {
         "name": "C#",
-        "total_seconds": 734787,
-        "text": "204h 6m",
+        "total_seconds": 736201,
+        "text": "204h 30m",
         "hours": 204,
-        "minutes": 6,
-        "percent": 51.1,
-        "digital": "204:06:27"
+        "minutes": 30,
+        "percent": 51.14,
+        "digital": "204:30:01"
       },
       {
         "name": "Razor",
@@ -38,7 +38,7 @@
         "text": "24h 57m",
         "hours": 24,
         "minutes": 57,
-        "percent": 6.25,
+        "percent": 6.24,
         "digital": "24:57:49"
       },
       {
@@ -65,7 +65,7 @@
         "text": "17h 7m",
         "hours": 17,
         "minutes": 7,
-        "percent": 4.29,
+        "percent": 4.28,
         "digital": "17:07:44"
       },
       {
@@ -83,7 +83,7 @@
         "text": "14h 19m",
         "hours": 14,
         "minutes": 19,
-        "percent": 3.59,
+        "percent": 3.58,
         "digital": "14:19:42"
       },
       {
@@ -101,7 +101,7 @@
         "text": "13h 41m",
         "hours": 13,
         "minutes": 41,
-        "percent": 3.43,
+        "percent": 3.42,
         "digital": "13:41:13"
       },
       {
@@ -232,12 +232,12 @@
       },
       {
         "name": "Nushell",
-        "total_seconds": 14023,
-        "text": "3h 53m",
+        "total_seconds": 14143,
+        "text": "3h 55m",
         "hours": 3,
-        "minutes": 53,
+        "minutes": 55,
         "percent": 0.98,
-        "digital": "03:53:43"
+        "digital": "03:55:43"
       },
       {
         "name": "Plain_text",
@@ -398,7 +398,7 @@
         "text": "34m",
         "hours": 0,
         "minutes": 34,
-        "percent": 0.15,
+        "percent": 0.14,
         "digital": "00:34:47"
       },
       {

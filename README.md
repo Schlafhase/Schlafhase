@@ -6,13 +6,13 @@ I'm Linus, a student from Germany. I like to develop creative C# apps in my free
 My commit messages are getting better.
 
 ### Statistics 😀
-**Total time:** 399h 26m 52s
+**Total time:** 399h 52m 26s
 
 **Current editor:** [Neovim](https://neovim.io/)
 
 **Languages**
 
-- **C#**: 204h 6m (51.1%)
+- **C#**: 204h 30m (51.1%)
 - **Razor**: 29h 15m (7.3%)
 - **Blazor**: 24h 57m (6.2%)
 - **Python**: 24h 8m (6.0%)
@@ -27,5 +27,5 @@ My commit messages are getting better.
 - **C/c++**: 8h 34m (2.1%)
 - **C++**: 8h 14m (2.1%)
 - **HTML**: 7h 3m (1.8%)
-> **Last updated:** 2026-01-26 12:34 UTC
+> **Last updated:** 2026-01-27 01:18 UTC
 
