@@ -5,23 +5,23 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-01-27T12:34:38Z",
-    "end": "2026-01-27T23:59:59Z",
+    "start": "2016-01-28T01:14:01Z",
+    "end": "2026-01-28T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 1439546,
-    "daily_average": 394,
-    "human_readable_total": "399h 52m 26s",
-    "human_readable_daily_average": "6m 34s",
+    "total_seconds": 1445829,
+    "daily_average": 395,
+    "human_readable_total": "401h 37m 9s",
+    "human_readable_daily_average": "6m 35s",
     "languages": [
       {
         "name": "C#",
-        "total_seconds": 736201,
-        "text": "204h 30m",
-        "hours": 204,
-        "minutes": 30,
-        "percent": 51.14,
-        "digital": "204:30:01"
+        "total_seconds": 738116,
+        "text": "205h 1m",
+        "hours": 205,
+        "minutes": 1,
+        "percent": 51.05,
+        "digital": "205:01:56"
       },
       {
         "name": "Razor",
@@ -29,7 +29,7 @@
         "text": "29h 15m",
         "hours": 29,
         "minutes": 15,
-        "percent": 7.32,
+        "percent": 7.28,
         "digital": "29:15:15"
       },
       {
@@ -38,7 +38,7 @@
         "text": "24h 57m",
         "hours": 24,
         "minutes": 57,
-        "percent": 6.24,
+        "percent": 6.22,
         "digital": "24:57:49"
       },
       {
@@ -47,7 +47,7 @@
         "text": "24h 8m",
         "hours": 24,
         "minutes": 8,
-        "percent": 6.04,
+        "percent": 6.01,
         "digital": "24:08:46"
       },
       {
@@ -56,7 +56,7 @@
         "text": "20h 13m",
         "hours": 20,
         "minutes": 13,
-        "percent": 5.06,
+        "percent": 5.04,
         "digital": "20:13:47"
       },
       {
@@ -65,7 +65,7 @@
         "text": "17h 7m",
         "hours": 17,
         "minutes": 7,
-        "percent": 4.28,
+        "percent": 4.26,
         "digital": "17:07:44"
       },
       {
@@ -74,7 +74,7 @@
         "text": "16h 41m",
         "hours": 16,
         "minutes": 41,
-        "percent": 4.18,
+        "percent": 4.16,
         "digital": "16:41:52"
       },
       {
@@ -83,7 +83,7 @@
         "text": "14h 19m",
         "hours": 14,
         "minutes": 19,
-        "percent": 3.58,
+        "percent": 3.57,
         "digital": "14:19:42"
       },
       {
@@ -92,7 +92,7 @@
         "text": "14h 14m",
         "hours": 14,
         "minutes": 14,
-        "percent": 3.56,
+        "percent": 3.54,
         "digital": "14:14:07"
       },
       {
@@ -101,7 +101,7 @@
         "text": "13h 41m",
         "hours": 13,
         "minutes": 41,
-        "percent": 3.42,
+        "percent": 3.41,
         "digital": "13:41:13"
       },
       {
@@ -110,7 +110,7 @@
         "text": "12h 40m",
         "hours": 12,
         "minutes": 40,
-        "percent": 3.17,
+        "percent": 3.16,
         "digital": "12:40:48"
       },
       {
@@ -119,7 +119,7 @@
         "text": "11h 18m",
         "hours": 11,
         "minutes": 18,
-        "percent": 2.83,
+        "percent": 2.82,
         "digital": "11:18:57"
       },
       {
@@ -128,7 +128,7 @@
         "text": "8h 34m",
         "hours": 8,
         "minutes": 34,
-        "percent": 2.15,
+        "percent": 2.14,
         "digital": "08:34:40"
       },
       {
@@ -137,7 +137,7 @@
         "text": "8h 14m",
         "hours": 8,
         "minutes": 14,
-        "percent": 2.06,
+        "percent": 2.05,
         "digital": "08:14:18"
       },
       {
@@ -146,26 +146,26 @@
         "text": "7h 3m",
         "hours": 7,
         "minutes": 3,
-        "percent": 1.77,
+        "percent": 1.76,
         "digital": "07:03:36"
       },
       {
-        "name": "Hyprlang",
-        "total_seconds": 24704,
-        "text": "6h 51m",
-        "hours": 6,
-        "minutes": 51,
-        "percent": 1.72,
-        "digital": "06:51:44"
+        "name": "Xml",
+        "total_seconds": 25225,
+        "text": "7h",
+        "hours": 7,
+        "minutes": 0,
+        "percent": 1.74,
+        "digital": "07:00:25"
       },
       {
-        "name": "Xml",
-        "total_seconds": 24366,
-        "text": "6h 46m",
+        "name": "Hyprlang",
+        "total_seconds": 24824,
+        "text": "6h 53m",
         "hours": 6,
-        "minutes": 46,
-        "percent": 1.69,
-        "digital": "06:46:06"
+        "minutes": 53,
+        "percent": 1.72,
+        "digital": "06:53:44"
       },
       {
         "name": "Fsharp",
@@ -173,17 +173,17 @@
         "text": "5h 50m",
         "hours": 5,
         "minutes": 50,
-        "percent": 1.46,
+        "percent": 1.45,
         "digital": "05:50:09"
       },
       {
         "name": "JSON",
-        "total_seconds": 19675,
-        "text": "5h 27m",
+        "total_seconds": 19795,
+        "text": "5h 29m",
         "hours": 5,
-        "minutes": 27,
+        "minutes": 29,
         "percent": 1.37,
-        "digital": "05:27:55"
+        "digital": "05:29:55"
       },
       {
         "name": "Typescript jsx",
@@ -191,7 +191,7 @@
         "text": "5h 21m",
         "hours": 5,
         "minutes": 21,
-        "percent": 1.34,
+        "percent": 1.33,
         "digital": "05:21:03"
       },
       {
@@ -200,7 +200,7 @@
         "text": "4h 44m",
         "hours": 4,
         "minutes": 44,
-        "percent": 1.19,
+        "percent": 1.18,
         "digital": "04:44:44"
       },
       {
@@ -209,7 +209,7 @@
         "text": "4h 26m",
         "hours": 4,
         "minutes": 26,
-        "percent": 1.11,
+        "percent": 1.1,
         "digital": "04:26:14"
       },
       {
@@ -227,7 +227,7 @@
         "text": "4h 6m",
         "hours": 4,
         "minutes": 6,
-        "percent": 1.03,
+        "percent": 1.02,
         "digital": "04:06:58"
       },
       {
@@ -254,7 +254,7 @@
         "text": "3h 13m",
         "hours": 3,
         "minutes": 13,
-        "percent": 0.81,
+        "percent": 0.8,
         "digital": "03:13:10"
       },
       {
@@ -263,7 +263,7 @@
         "text": "3h 11m",
         "hours": 3,
         "minutes": 11,
-        "percent": 0.8,
+        "percent": 0.79,
         "digital": "03:11:22"
       },
       {
@@ -272,7 +272,7 @@
         "text": "3h 8m",
         "hours": 3,
         "minutes": 8,
-        "percent": 0.79,
+        "percent": 0.78,
         "digital": "03:08:26"
       },
       {
@@ -281,7 +281,7 @@
         "text": "3h 1m",
         "hours": 3,
         "minutes": 1,
-        "percent": 0.76,
+        "percent": 0.75,
         "digital": "03:01:22"
       },
       {
@@ -290,7 +290,7 @@
         "text": "2h 56m",
         "hours": 2,
         "minutes": 56,
-        "percent": 0.74,
+        "percent": 0.73,
         "digital": "02:56:52"
       },
       {
@@ -301,6 +301,15 @@
         "minutes": 33,
         "percent": 0.64,
         "digital": "02:33:26"
+      },
+      {
+        "name": "Xml",
+        "total_seconds": 7204,
+        "text": "2h",
+        "hours": 2,
+        "minutes": 0,
+        "percent": 0.5,
+        "digital": "02:00:04"
       },
       {
         "name": "Typst",
@@ -373,15 +382,6 @@
         "minutes": 55,
         "percent": 0.23,
         "digital": "00:55:55"
-      },
-      {
-        "name": "Xml",
-        "total_seconds": 3226,
-        "text": "53m",
-        "hours": 0,
-        "minutes": 53,
-        "percent": 0.22,
-        "digital": "00:53:46"
       },
       {
         "name": "Todotxt",
@@ -461,7 +461,7 @@
         "text": "25m",
         "hours": 0,
         "minutes": 25,
-        "percent": 0.11,
+        "percent": 0.1,
         "digital": "00:25:14"
       },
       {
@@ -533,7 +533,7 @@
         "text": "13m",
         "hours": 0,
         "minutes": 13,
-        "percent": 0.06,
+        "percent": 0.05,
         "digital": "00:13:14"
       },
       {
@@ -614,7 +614,16 @@
         "text": "6m",
         "hours": 0,
         "minutes": 6,
-        "percent": 0.03,
+        "percent": 0.02,
+        "digital": "00:06:00"
+      },
+      {
+        "name": "Cs",
+        "total_seconds": 360,
+        "text": "6m",
+        "hours": 0,
+        "minutes": 6,
+        "percent": 0.02,
         "digital": "00:06:00"
       },
       {
@@ -623,7 +632,7 @@
         "text": "6m",
         "hours": 0,
         "minutes": 6,
-        "percent": 0.03,
+        "percent": 0.02,
         "digital": "00:06:00"
       },
       {
@@ -690,7 +699,16 @@
         "digital": "00:02:14"
       },
       {
-        "name": "Assembly",
+        "name": "Powershell",
+        "total_seconds": 133,
+        "text": "2m",
+        "hours": 0,
+        "minutes": 2,
+        "percent": 0.01,
+        "digital": "00:02:13"
+      },
+      {
+        "name": "Pdf",
         "total_seconds": 120,
         "text": "2m",
         "hours": 0,
@@ -699,7 +717,7 @@
         "digital": "00:02:00"
       },
       {
-        "name": "Pdf",
+        "name": "Assembly",
         "total_seconds": 120,
         "text": "2m",
         "hours": 0,
@@ -753,7 +771,7 @@
         "digital": "00:01:26"
       },
       {
-        "name": "Sh",
+        "name": "Tera",
         "total_seconds": 67,
         "text": "1m",
         "hours": 0,
@@ -762,7 +780,7 @@
         "digital": "00:01:07"
       },
       {
-        "name": "Tera",
+        "name": "Sh",
         "total_seconds": 67,
         "text": "1m",
         "hours": 0,
@@ -780,15 +798,6 @@
         "digital": "00:00:18"
       },
       {
-        "name": "Unityyaml",
-        "total_seconds": 14,
-        "text": "0m",
-        "hours": 0,
-        "minutes": 0,
-        "percent": 0.0,
-        "digital": "00:00:14"
-      },
-      {
         "name": "Gomod",
         "total_seconds": 14,
         "text": "0m",
@@ -798,13 +807,13 @@
         "digital": "00:00:14"
       },
       {
-        "name": "Powershell",
-        "total_seconds": 13,
+        "name": "Unityyaml",
+        "total_seconds": 14,
         "text": "0m",
         "hours": 0,
         "minutes": 0,
         "percent": 0.0,
-        "digital": "00:00:13"
+        "digital": "00:00:14"
       },
       {
         "name": "Systemd",
@@ -852,79 +861,7 @@
         "digital": "00:00:03"
       },
       {
-        "name": "Project file properties",
-        "total_seconds": 0,
-        "text": "0m",
-        "hours": 0,
-        "minutes": 0,
-        "percent": 0.0,
-        "digital": "00:00:00"
-      },
-      {
-        "name": "Pkgconfig",
-        "total_seconds": 0,
-        "text": "0m",
-        "hours": 0,
-        "minutes": 0,
-        "percent": 0.0,
-        "digital": "00:00:00"
-      },
-      {
-        "name": "Pythonstub",
-        "total_seconds": 0,
-        "text": "0m",
-        "hours": 0,
-        "minutes": 0,
-        "percent": 0.0,
-        "digital": "00:00:00"
-      },
-      {
-        "name": "Java properties",
-        "total_seconds": 0,
-        "text": "0m",
-        "hours": 0,
-        "minutes": 0,
-        "percent": 0.0,
-        "digital": "00:00:00"
-      },
-      {
-        "name": "Scdoc",
-        "total_seconds": 0,
-        "text": "0m",
-        "hours": 0,
-        "minutes": 0,
-        "percent": 0.0,
-        "digital": "00:00:00"
-      },
-      {
-        "name": "Resources",
-        "total_seconds": 0,
-        "text": "0m",
-        "hours": 0,
-        "minutes": 0,
-        "percent": 0.0,
-        "digital": "00:00:00"
-      },
-      {
-        "name": "Asp",
-        "total_seconds": 0,
-        "text": "0m",
-        "hours": 0,
-        "minutes": 0,
-        "percent": 0.0,
-        "digital": "00:00:00"
-      },
-      {
-        "name": "Writerside instance",
-        "total_seconds": 0,
-        "text": "0m",
-        "hours": 0,
-        "minutes": 0,
-        "percent": 0.0,
-        "digital": "00:00:00"
-      },
-      {
-        "name": "Cs",
+        "name": "Checkhealth",
         "total_seconds": 0,
         "text": "0m",
         "hours": 0,
@@ -942,7 +879,70 @@
         "digital": "00:00:00"
       },
       {
-        "name": "Checkhealth",
+        "name": "Pkgconfig",
+        "total_seconds": 0,
+        "text": "0m",
+        "hours": 0,
+        "minutes": 0,
+        "percent": 0.0,
+        "digital": "00:00:00"
+      },
+      {
+        "name": "Project file properties",
+        "total_seconds": 0,
+        "text": "0m",
+        "hours": 0,
+        "minutes": 0,
+        "percent": 0.0,
+        "digital": "00:00:00"
+      },
+      {
+        "name": "Pythonstub",
+        "total_seconds": 0,
+        "text": "0m",
+        "hours": 0,
+        "minutes": 0,
+        "percent": 0.0,
+        "digital": "00:00:00"
+      },
+      {
+        "name": "Writerside instance",
+        "total_seconds": 0,
+        "text": "0m",
+        "hours": 0,
+        "minutes": 0,
+        "percent": 0.0,
+        "digital": "00:00:00"
+      },
+      {
+        "name": "Java properties",
+        "total_seconds": 0,
+        "text": "0m",
+        "hours": 0,
+        "minutes": 0,
+        "percent": 0.0,
+        "digital": "00:00:00"
+      },
+      {
+        "name": "Resources",
+        "total_seconds": 0,
+        "text": "0m",
+        "hours": 0,
+        "minutes": 0,
+        "percent": 0.0,
+        "digital": "00:00:00"
+      },
+      {
+        "name": "Scdoc",
+        "total_seconds": 0,
+        "text": "0m",
+        "hours": 0,
+        "minutes": 0,
+        "percent": 0.0,
+        "digital": "00:00:00"
+      },
+      {
+        "name": "Asp",
         "total_seconds": 0,
         "text": "0m",
         "hours": 0,
