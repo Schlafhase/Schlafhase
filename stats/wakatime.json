@@ -5,23 +5,23 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-01-29T12:41:09Z",
-    "end": "2026-01-29T23:59:59Z",
+    "start": "2016-01-30T01:23:14Z",
+    "end": "2026-01-30T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 1449978,
-    "daily_average": 396,
-    "human_readable_total": "402h 46m 18s",
-    "human_readable_daily_average": "6m 36s",
+    "total_seconds": 1456828,
+    "daily_average": 398,
+    "human_readable_total": "404h 40m 28s",
+    "human_readable_daily_average": "6m 38s",
     "languages": [
       {
         "name": "C#",
-        "total_seconds": 740517,
-        "text": "205h 41m",
-        "hours": 205,
-        "minutes": 41,
-        "percent": 51.07,
-        "digital": "205:41:57"
+        "total_seconds": 745274,
+        "text": "207h 1m",
+        "hours": 207,
+        "minutes": 1,
+        "percent": 51.16,
+        "digital": "207:01:14"
       },
       {
         "name": "Razor",
@@ -29,7 +29,7 @@
         "text": "29h 15m",
         "hours": 29,
         "minutes": 15,
-        "percent": 7.26,
+        "percent": 7.23,
         "digital": "29:15:15"
       },
       {
@@ -38,7 +38,7 @@
         "text": "24h 57m",
         "hours": 24,
         "minutes": 57,
-        "percent": 6.2,
+        "percent": 6.17,
         "digital": "24:57:49"
       },
       {
@@ -47,7 +47,7 @@
         "text": "24h 8m",
         "hours": 24,
         "minutes": 8,
-        "percent": 5.99,
+        "percent": 5.97,
         "digital": "24:08:46"
       },
       {
@@ -56,7 +56,7 @@
         "text": "20h 13m",
         "hours": 20,
         "minutes": 13,
-        "percent": 5.02,
+        "percent": 5.0,
         "digital": "20:13:47"
       },
       {
@@ -65,7 +65,7 @@
         "text": "17h 7m",
         "hours": 17,
         "minutes": 7,
-        "percent": 4.25,
+        "percent": 4.23,
         "digital": "17:07:44"
       },
       {
@@ -74,7 +74,7 @@
         "text": "16h 41m",
         "hours": 16,
         "minutes": 41,
-        "percent": 4.15,
+        "percent": 4.13,
         "digital": "16:41:52"
       },
       {
@@ -83,7 +83,7 @@
         "text": "14h 19m",
         "hours": 14,
         "minutes": 19,
-        "percent": 3.56,
+        "percent": 3.54,
         "digital": "14:19:42"
       },
       {
@@ -92,7 +92,7 @@
         "text": "14h 14m",
         "hours": 14,
         "minutes": 14,
-        "percent": 3.53,
+        "percent": 3.52,
         "digital": "14:14:07"
       },
       {
@@ -101,7 +101,7 @@
         "text": "13h 41m",
         "hours": 13,
         "minutes": 41,
-        "percent": 3.4,
+        "percent": 3.38,
         "digital": "13:41:13"
       },
       {
@@ -110,7 +110,7 @@
         "text": "12h 40m",
         "hours": 12,
         "minutes": 40,
-        "percent": 3.15,
+        "percent": 3.13,
         "digital": "12:40:48"
       },
       {
@@ -119,7 +119,7 @@
         "text": "11h 18m",
         "hours": 11,
         "minutes": 18,
-        "percent": 2.81,
+        "percent": 2.8,
         "digital": "11:18:57"
       },
       {
@@ -128,7 +128,7 @@
         "text": "8h 34m",
         "hours": 8,
         "minutes": 34,
-        "percent": 2.13,
+        "percent": 2.12,
         "digital": "08:34:40"
       },
       {
@@ -137,7 +137,7 @@
         "text": "8h 14m",
         "hours": 8,
         "minutes": 14,
-        "percent": 2.05,
+        "percent": 2.04,
         "digital": "08:14:18"
       },
       {
@@ -146,7 +146,7 @@
         "text": "7h 3m",
         "hours": 7,
         "minutes": 3,
-        "percent": 1.75,
+        "percent": 1.74,
         "digital": "07:03:36"
       },
       {
@@ -155,7 +155,7 @@
         "text": "7h",
         "hours": 7,
         "minutes": 0,
-        "percent": 1.74,
+        "percent": 1.73,
         "digital": "07:00:25"
       },
       {
@@ -164,7 +164,7 @@
         "text": "6h 55m",
         "hours": 6,
         "minutes": 55,
-        "percent": 1.72,
+        "percent": 1.71,
         "digital": "06:55:44"
       },
       {
@@ -173,17 +173,17 @@
         "text": "5h 50m",
         "hours": 5,
         "minutes": 50,
-        "percent": 1.45,
+        "percent": 1.44,
         "digital": "05:50:09"
       },
       {
         "name": "JSON",
-        "total_seconds": 19795,
-        "text": "5h 29m",
+        "total_seconds": 20035,
+        "text": "5h 33m",
         "hours": 5,
-        "minutes": 29,
-        "percent": 1.37,
-        "digital": "05:29:55"
+        "minutes": 33,
+        "percent": 1.38,
+        "digital": "05:33:55"
       },
       {
         "name": "Typescript jsx",
@@ -191,7 +191,7 @@
         "text": "5h 21m",
         "hours": 5,
         "minutes": 21,
-        "percent": 1.33,
+        "percent": 1.32,
         "digital": "05:21:03"
       },
       {
@@ -200,7 +200,7 @@
         "text": "4h 44m",
         "hours": 4,
         "minutes": 44,
-        "percent": 1.18,
+        "percent": 1.17,
         "digital": "04:44:44"
       },
       {
@@ -211,6 +211,15 @@
         "minutes": 26,
         "percent": 1.1,
         "digital": "04:26:14"
+      },
+      {
+        "name": "Xml",
+        "total_seconds": 15521,
+        "text": "4h 18m",
+        "hours": 4,
+        "minutes": 18,
+        "percent": 1.07,
+        "digital": "04:18:41"
       },
       {
         "name": "Other",
@@ -236,7 +245,7 @@
         "text": "3h 55m",
         "hours": 3,
         "minutes": 55,
-        "percent": 0.98,
+        "percent": 0.97,
         "digital": "03:55:43"
       },
       {
@@ -294,15 +303,6 @@
         "digital": "02:56:52"
       },
       {
-        "name": "Xml",
-        "total_seconds": 10296,
-        "text": "2h 51m",
-        "hours": 2,
-        "minutes": 51,
-        "percent": 0.71,
-        "digital": "02:51:36"
-      },
-      {
         "name": "F#",
         "total_seconds": 9206,
         "text": "2h 33m",
@@ -326,7 +326,7 @@
         "text": "1h 45m",
         "hours": 1,
         "minutes": 45,
-        "percent": 0.44,
+        "percent": 0.43,
         "digital": "01:45:29"
       },
       {
@@ -344,7 +344,7 @@
         "text": "1h 33m",
         "hours": 1,
         "minutes": 33,
-        "percent": 0.39,
+        "percent": 0.38,
         "digital": "01:33:18"
       },
       {
@@ -353,7 +353,7 @@
         "text": "1h 18m",
         "hours": 1,
         "minutes": 18,
-        "percent": 0.33,
+        "percent": 0.32,
         "digital": "01:18:35"
       },
       {
@@ -452,7 +452,7 @@
         "text": "27m",
         "hours": 0,
         "minutes": 27,
-        "percent": 0.12,
+        "percent": 0.11,
         "digital": "00:27:53"
       },
       {
