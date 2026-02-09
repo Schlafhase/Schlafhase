@@ -5,13 +5,13 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-02-08T12:34:06Z",
-    "end": "2026-02-08T23:59:59Z",
+    "start": "2016-02-09T01:29:47Z",
+    "end": "2026-02-09T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 1466938,
+    "total_seconds": 1467194,
     "daily_average": 401,
-    "human_readable_total": "407h 28m 58s",
+    "human_readable_total": "407h 33m 14s",
     "human_readable_daily_average": "6m 41s",
     "languages": [
       {
@@ -20,7 +20,7 @@
         "text": "208h 32m",
         "hours": 208,
         "minutes": 32,
-        "percent": 51.18,
+        "percent": 51.17,
         "digital": "208:32:05"
       },
       {
@@ -47,7 +47,7 @@
         "text": "24h 8m",
         "hours": 24,
         "minutes": 8,
-        "percent": 5.93,
+        "percent": 5.92,
         "digital": "24:08:46"
       },
       {
@@ -128,7 +128,7 @@
         "text": "8h 34m",
         "hours": 8,
         "minutes": 34,
-        "percent": 2.11,
+        "percent": 2.1,
         "digital": "08:34:40"
       },
       {
@@ -214,12 +214,12 @@
       },
       {
         "name": "Lua",
-        "total_seconds": 16094,
-        "text": "4h 28m",
+        "total_seconds": 16214,
+        "text": "4h 30m",
         "hours": 4,
-        "minutes": 28,
-        "percent": 1.1,
-        "digital": "04:28:14"
+        "minutes": 30,
+        "percent": 1.11,
+        "digital": "04:30:14"
       },
       {
         "name": "Other",
@@ -241,12 +241,12 @@
       },
       {
         "name": "Nushell",
-        "total_seconds": 14143,
-        "text": "3h 55m",
+        "total_seconds": 14279,
+        "text": "3h 57m",
         "hours": 3,
-        "minutes": 55,
-        "percent": 0.96,
-        "digital": "03:55:43"
+        "minutes": 57,
+        "percent": 0.97,
+        "digital": "03:57:59"
       },
       {
         "name": "Plain_text",
