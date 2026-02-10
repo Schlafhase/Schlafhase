@@ -5,23 +5,23 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-02-09T12:54:36Z",
-    "end": "2026-02-09T23:59:59Z",
+    "start": "2016-02-10T01:52:28Z",
+    "end": "2026-02-10T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 1467194,
+    "total_seconds": 1467483,
     "daily_average": 401,
-    "human_readable_total": "407h 33m 14s",
+    "human_readable_total": "407h 38m 3s",
     "human_readable_daily_average": "6m 41s",
     "languages": [
       {
         "name": "C#",
-        "total_seconds": 750725,
-        "text": "208h 32m",
+        "total_seconds": 750965,
+        "text": "208h 36m",
         "hours": 208,
-        "minutes": 32,
+        "minutes": 36,
         "percent": 51.17,
-        "digital": "208:32:05"
+        "digital": "208:36:05"
       },
       {
         "name": "Razor",
@@ -38,7 +38,7 @@
         "text": "24h 57m",
         "hours": 24,
         "minutes": 57,
-        "percent": 6.13,
+        "percent": 6.12,
         "digital": "24:57:49"
       },
       {
@@ -83,7 +83,7 @@
         "text": "14h 19m",
         "hours": 14,
         "minutes": 19,
-        "percent": 3.52,
+        "percent": 3.51,
         "digital": "14:19:42"
       },
       {
@@ -214,12 +214,12 @@
       },
       {
         "name": "Lua",
-        "total_seconds": 16214,
-        "text": "4h 30m",
+        "total_seconds": 16334,
+        "text": "4h 32m",
         "hours": 4,
-        "minutes": 30,
+        "minutes": 32,
         "percent": 1.11,
-        "digital": "04:30:14"
+        "digital": "04:32:14"
       },
       {
         "name": "Other",
@@ -241,12 +241,12 @@
       },
       {
         "name": "Nushell",
-        "total_seconds": 14279,
-        "text": "3h 57m",
+        "total_seconds": 14302,
+        "text": "3h 58m",
         "hours": 3,
-        "minutes": 57,
+        "minutes": 58,
         "percent": 0.97,
-        "digital": "03:57:59"
+        "digital": "03:58:22"
       },
       {
         "name": "Plain_text",
