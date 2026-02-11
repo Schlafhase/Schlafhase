@@ -5,14 +5,14 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-02-10T12:58:36Z",
-    "end": "2026-02-10T23:59:59Z",
+    "start": "2016-02-11T01:49:20Z",
+    "end": "2026-02-11T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 1467483,
-    "daily_average": 401,
-    "human_readable_total": "407h 38m 3s",
-    "human_readable_daily_average": "6m 41s",
+    "total_seconds": 1469369,
+    "daily_average": 402,
+    "human_readable_total": "408h 9m 29s",
+    "human_readable_daily_average": "6m 42s",
     "languages": [
       {
         "name": "C#",
@@ -20,7 +20,7 @@
         "text": "208h 36m",
         "hours": 208,
         "minutes": 36,
-        "percent": 51.17,
+        "percent": 51.11,
         "digital": "208:36:05"
       },
       {
@@ -29,7 +29,7 @@
         "text": "29h 15m",
         "hours": 29,
         "minutes": 15,
-        "percent": 7.18,
+        "percent": 7.17,
         "digital": "29:15:15"
       },
       {
@@ -74,7 +74,7 @@
         "text": "16h 41m",
         "hours": 16,
         "minutes": 41,
-        "percent": 4.1,
+        "percent": 4.09,
         "digital": "16:41:52"
       },
       {
@@ -101,7 +101,7 @@
         "text": "13h 41m",
         "hours": 13,
         "minutes": 41,
-        "percent": 3.36,
+        "percent": 3.35,
         "digital": "13:41:13"
       },
       {
@@ -119,7 +119,7 @@
         "text": "11h 18m",
         "hours": 11,
         "minutes": 18,
-        "percent": 2.78,
+        "percent": 2.77,
         "digital": "11:18:57"
       },
       {
@@ -178,12 +178,12 @@
       },
       {
         "name": "JSON",
-        "total_seconds": 21516,
-        "text": "5h 58m",
-        "hours": 5,
-        "minutes": 58,
+        "total_seconds": 21636,
+        "text": "6h",
+        "hours": 6,
+        "minutes": 0,
         "percent": 1.47,
-        "digital": "05:58:36"
+        "digital": "06:00:36"
       },
       {
         "name": "Fsharp",
@@ -214,21 +214,21 @@
       },
       {
         "name": "Lua",
-        "total_seconds": 16334,
+        "total_seconds": 16698,
+        "text": "4h 38m",
+        "hours": 4,
+        "minutes": 38,
+        "percent": 1.14,
+        "digital": "04:38:18"
+      },
+      {
+        "name": "Other",
+        "total_seconds": 16377,
         "text": "4h 32m",
         "hours": 4,
         "minutes": 32,
         "percent": 1.11,
-        "digital": "04:32:14"
-      },
-      {
-        "name": "Other",
-        "total_seconds": 15111,
-        "text": "4h 11m",
-        "hours": 4,
-        "minutes": 11,
-        "percent": 1.03,
-        "digital": "04:11:51"
+        "digital": "04:32:57"
       },
       {
         "name": "Sourcemap",
@@ -411,6 +411,15 @@
         "digital": "00:34:45"
       },
       {
+        "name": "Conf",
+        "total_seconds": 2069,
+        "text": "34m",
+        "hours": 0,
+        "minutes": 34,
+        "percent": 0.14,
+        "digital": "00:34:29"
+      },
+      {
         "name": "Msbuild targets file",
         "total_seconds": 2051,
         "text": "34m",
@@ -418,15 +427,6 @@
         "minutes": 34,
         "percent": 0.14,
         "digital": "00:34:11"
-      },
-      {
-        "name": "Conf",
-        "total_seconds": 1827,
-        "text": "30m",
-        "hours": 0,
-        "minutes": 30,
-        "percent": 0.12,
-        "digital": "00:30:27"
       },
       {
         "name": "Config",
