@@ -5,13 +5,13 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-02-14T12:32:43Z",
-    "end": "2026-02-14T23:59:59Z",
+    "start": "2016-02-15T01:44:17Z",
+    "end": "2026-02-15T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 1469369,
+    "total_seconds": 1469949,
     "daily_average": 402,
-    "human_readable_total": "408h 9m 29s",
+    "human_readable_total": "408h 19m 9s",
     "human_readable_daily_average": "6m 42s",
     "languages": [
       {
@@ -20,7 +20,7 @@
         "text": "208h 36m",
         "hours": 208,
         "minutes": 36,
-        "percent": 51.11,
+        "percent": 51.09,
         "digital": "208:36:05"
       },
       {
@@ -29,7 +29,7 @@
         "text": "29h 15m",
         "hours": 29,
         "minutes": 15,
-        "percent": 7.17,
+        "percent": 7.16,
         "digital": "29:15:15"
       },
       {
@@ -38,7 +38,7 @@
         "text": "24h 57m",
         "hours": 24,
         "minutes": 57,
-        "percent": 6.12,
+        "percent": 6.11,
         "digital": "24:57:49"
       },
       {
@@ -47,7 +47,7 @@
         "text": "24h 8m",
         "hours": 24,
         "minutes": 8,
-        "percent": 5.92,
+        "percent": 5.91,
         "digital": "24:08:46"
       },
       {
@@ -56,7 +56,7 @@
         "text": "20h 13m",
         "hours": 20,
         "minutes": 13,
-        "percent": 4.96,
+        "percent": 4.95,
         "digital": "20:13:47"
       },
       {
@@ -65,7 +65,7 @@
         "text": "17h 7m",
         "hours": 17,
         "minutes": 7,
-        "percent": 4.2,
+        "percent": 4.19,
         "digital": "17:07:44"
       },
       {
@@ -173,17 +173,17 @@
         "text": "6h 23m",
         "hours": 6,
         "minutes": 23,
-        "percent": 1.57,
+        "percent": 1.56,
         "digital": "06:23:24"
       },
       {
         "name": "JSON",
-        "total_seconds": 21636,
-        "text": "6h",
+        "total_seconds": 22116,
+        "text": "6h 8m",
         "hours": 6,
-        "minutes": 0,
-        "percent": 1.47,
-        "digital": "06:00:36"
+        "minutes": 8,
+        "percent": 1.5,
+        "digital": "06:08:36"
       },
       {
         "name": "Fsharp",
@@ -371,7 +371,7 @@
         "text": "1h 14m",
         "hours": 1,
         "minutes": 14,
-        "percent": 0.31,
+        "percent": 0.3,
         "digital": "01:14:43"
       },
       {
@@ -393,6 +393,15 @@
         "digital": "00:42:41"
       },
       {
+        "name": "Conf",
+        "total_seconds": 2092,
+        "text": "34m",
+        "hours": 0,
+        "minutes": 34,
+        "percent": 0.14,
+        "digital": "00:34:52"
+      },
+      {
         "name": "Bigfile",
         "total_seconds": 2087,
         "text": "34m",
@@ -409,15 +418,6 @@
         "minutes": 34,
         "percent": 0.14,
         "digital": "00:34:45"
-      },
-      {
-        "name": "Conf",
-        "total_seconds": 2069,
-        "text": "34m",
-        "hours": 0,
-        "minutes": 34,
-        "percent": 0.14,
-        "digital": "00:34:29"
       },
       {
         "name": "Msbuild targets file",
@@ -609,15 +609,6 @@
         "digital": "00:06:18"
       },
       {
-        "name": "Jet_client_text",
-        "total_seconds": 360,
-        "text": "6m",
-        "hours": 0,
-        "minutes": 6,
-        "percent": 0.02,
-        "digital": "00:06:00"
-      },
-      {
         "name": "Cs",
         "total_seconds": 360,
         "text": "6m",
@@ -628,6 +619,15 @@
       },
       {
         "name": "Dockerignore file",
+        "total_seconds": 360,
+        "text": "6m",
+        "hours": 0,
+        "minutes": 6,
+        "percent": 0.02,
+        "digital": "00:06:00"
+      },
+      {
+        "name": "Jet_client_text",
         "total_seconds": 360,
         "text": "6m",
         "hours": 0,
@@ -706,6 +706,15 @@
         "minutes": 2,
         "percent": 0.01,
         "digital": "00:02:13"
+      },
+      {
+        "name": "Kitty",
+        "total_seconds": 129,
+        "text": "2m",
+        "hours": 0,
+        "minutes": 2,
+        "percent": 0.01,
+        "digital": "00:02:09"
       },
       {
         "name": "Pdf",
@@ -798,7 +807,7 @@
         "digital": "00:00:18"
       },
       {
-        "name": "Gomod",
+        "name": "Unityyaml",
         "total_seconds": 14,
         "text": "0m",
         "hours": 0,
@@ -807,7 +816,7 @@
         "digital": "00:00:14"
       },
       {
-        "name": "Unityyaml",
+        "name": "Gomod",
         "total_seconds": 14,
         "text": "0m",
         "hours": 0,
@@ -852,25 +861,7 @@
         "digital": "00:00:05"
       },
       {
-        "name": "Kitty",
-        "total_seconds": 3,
-        "text": "0m",
-        "hours": 0,
-        "minutes": 0,
-        "percent": 0.0,
-        "digital": "00:00:03"
-      },
-      {
         "name": "Checkhealth",
-        "total_seconds": 0,
-        "text": "0m",
-        "hours": 0,
-        "minutes": 0,
-        "percent": 0.0,
-        "digital": "00:00:00"
-      },
-      {
-        "name": "Cookie storage file",
         "total_seconds": 0,
         "text": "0m",
         "hours": 0,
@@ -889,6 +880,15 @@
       },
       {
         "name": "Project file properties",
+        "total_seconds": 0,
+        "text": "0m",
+        "hours": 0,
+        "minutes": 0,
+        "percent": 0.0,
+        "digital": "00:00:00"
+      },
+      {
+        "name": "Cookie storage file",
         "total_seconds": 0,
         "text": "0m",
         "hours": 0,
