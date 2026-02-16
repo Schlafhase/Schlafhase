@@ -5,23 +5,23 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-02-16T01:28:03Z",
+    "start": "2016-02-16T12:46:33Z",
     "end": "2026-02-16T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 1473938,
+    "total_seconds": 1474993,
     "daily_average": 403,
-    "human_readable_total": "409h 25m 38s",
+    "human_readable_total": "409h 43m 13s",
     "human_readable_daily_average": "6m 43s",
     "languages": [
       {
         "name": "C#",
-        "total_seconds": 753037,
-        "text": "209h 10m",
+        "total_seconds": 753216,
+        "text": "209h 13m",
         "hours": 209,
-        "minutes": 10,
-        "percent": 51.09,
-        "digital": "209:10:37"
+        "minutes": 13,
+        "percent": 51.07,
+        "digital": "209:13:36"
       },
       {
         "name": "Razor",
@@ -29,7 +29,7 @@
         "text": "29h 18m",
         "hours": 29,
         "minutes": 18,
-        "percent": 7.16,
+        "percent": 7.15,
         "digital": "29:18:25"
       },
       {
@@ -38,7 +38,7 @@
         "text": "24h 57m",
         "hours": 24,
         "minutes": 57,
-        "percent": 6.1,
+        "percent": 6.09,
         "digital": "24:57:49"
       },
       {
@@ -47,7 +47,7 @@
         "text": "24h 8m",
         "hours": 24,
         "minutes": 8,
-        "percent": 5.9,
+        "percent": 5.89,
         "digital": "24:08:46"
       },
       {
@@ -92,7 +92,7 @@
         "text": "14h 14m",
         "hours": 14,
         "minutes": 14,
-        "percent": 3.48,
+        "percent": 3.47,
         "digital": "14:14:07"
       },
       {
@@ -110,17 +110,17 @@
         "text": "12h 40m",
         "hours": 12,
         "minutes": 40,
-        "percent": 3.1,
+        "percent": 3.09,
         "digital": "12:40:48"
       },
       {
         "name": "Markdown",
-        "total_seconds": 40737,
-        "text": "11h 18m",
+        "total_seconds": 41428,
+        "text": "11h 30m",
         "hours": 11,
-        "minutes": 18,
-        "percent": 2.76,
-        "digital": "11:18:57"
+        "minutes": 30,
+        "percent": 2.81,
+        "digital": "11:30:28"
       },
       {
         "name": "C/c++",
@@ -128,7 +128,7 @@
         "text": "8h 34m",
         "hours": 8,
         "minutes": 34,
-        "percent": 2.1,
+        "percent": 2.09,
         "digital": "08:34:40"
       },
       {
@@ -182,7 +182,7 @@
         "text": "6h 14m",
         "hours": 6,
         "minutes": 14,
-        "percent": 1.53,
+        "percent": 1.52,
         "digital": "06:14:45"
       },
       {
@@ -191,7 +191,7 @@
         "text": "5h 50m",
         "hours": 5,
         "minutes": 50,
-        "percent": 1.43,
+        "percent": 1.42,
         "digital": "05:50:09"
       },
       {
@@ -204,6 +204,15 @@
         "digital": "05:21:03"
       },
       {
+        "name": "Lua",
+        "total_seconds": 17139,
+        "text": "4h 45m",
+        "hours": 4,
+        "minutes": 45,
+        "percent": 1.16,
+        "digital": "04:45:39"
+      },
+      {
         "name": "Coffeescript",
         "total_seconds": 17084,
         "text": "4h 44m",
@@ -213,22 +222,13 @@
         "digital": "04:44:44"
       },
       {
-        "name": "Lua",
-        "total_seconds": 17019,
-        "text": "4h 43m",
-        "hours": 4,
-        "minutes": 43,
-        "percent": 1.15,
-        "digital": "04:43:39"
-      },
-      {
         "name": "Other",
-        "total_seconds": 16377,
-        "text": "4h 32m",
+        "total_seconds": 16504,
+        "text": "4h 35m",
         "hours": 4,
-        "minutes": 32,
-        "percent": 1.11,
-        "digital": "04:32:57"
+        "minutes": 35,
+        "percent": 1.12,
+        "digital": "04:35:04"
       },
       {
         "name": "Sourcemap",
@@ -236,7 +236,7 @@
         "text": "4h 6m",
         "hours": 4,
         "minutes": 6,
-        "percent": 1.01,
+        "percent": 1.0,
         "digital": "04:06:58"
       },
       {
@@ -258,6 +258,15 @@
         "digital": "03:43:04"
       },
       {
+        "name": "Text",
+        "total_seconds": 11666,
+        "text": "3h 14m",
+        "hours": 3,
+        "minutes": 14,
+        "percent": 0.79,
+        "digital": "03:14:26"
+      },
+      {
         "name": "Rust",
         "total_seconds": 11590,
         "text": "3h 13m",
@@ -274,15 +283,6 @@
         "minutes": 11,
         "percent": 0.78,
         "digital": "03:11:22"
-      },
-      {
-        "name": "Text",
-        "total_seconds": 11426,
-        "text": "3h 10m",
-        "hours": 3,
-        "minutes": 10,
-        "percent": 0.78,
-        "digital": "03:10:26"
       },
       {
         "name": "Cmake",
@@ -394,12 +394,12 @@
       },
       {
         "name": "Bigfile",
-        "total_seconds": 2207,
-        "text": "36m",
+        "total_seconds": 2327,
+        "text": "38m",
         "hours": 0,
-        "minutes": 36,
-        "percent": 0.15,
-        "digital": "00:36:47"
+        "minutes": 38,
+        "percent": 0.16,
+        "digital": "00:38:47"
       },
       {
         "name": "Conf",
@@ -591,6 +591,15 @@
         "digital": "00:08:12"
       },
       {
+        "name": "Pdf",
+        "total_seconds": 489,
+        "text": "8m",
+        "hours": 0,
+        "minutes": 8,
+        "percent": 0.03,
+        "digital": "00:08:09"
+      },
+      {
         "name": "Objective-c",
         "total_seconds": 480,
         "text": "8m",
@@ -679,15 +688,6 @@
         "minutes": 4,
         "percent": 0.02,
         "digital": "00:04:17"
-      },
-      {
-        "name": "Pdf",
-        "total_seconds": 240,
-        "text": "4m",
-        "hours": 0,
-        "minutes": 4,
-        "percent": 0.02,
-        "digital": "00:04:00"
       },
       {
         "name": "Xaml",
