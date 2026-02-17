@@ -5,14 +5,14 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-02-16T12:46:33Z",
-    "end": "2026-02-16T23:59:59Z",
+    "start": "2016-02-17T01:27:32Z",
+    "end": "2026-02-17T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 1474993,
-    "daily_average": 403,
-    "human_readable_total": "409h 43m 13s",
-    "human_readable_daily_average": "6m 43s",
+    "total_seconds": 1477525,
+    "daily_average": 404,
+    "human_readable_total": "410h 25m 25s",
+    "human_readable_daily_average": "6m 44s",
     "languages": [
       {
         "name": "C#",
@@ -20,7 +20,7 @@
         "text": "209h 13m",
         "hours": 209,
         "minutes": 13,
-        "percent": 51.07,
+        "percent": 50.98,
         "digital": "209:13:36"
       },
       {
@@ -29,7 +29,7 @@
         "text": "29h 18m",
         "hours": 29,
         "minutes": 18,
-        "percent": 7.15,
+        "percent": 7.14,
         "digital": "29:18:25"
       },
       {
@@ -38,7 +38,7 @@
         "text": "24h 57m",
         "hours": 24,
         "minutes": 57,
-        "percent": 6.09,
+        "percent": 6.08,
         "digital": "24:57:49"
       },
       {
@@ -47,17 +47,17 @@
         "text": "24h 8m",
         "hours": 24,
         "minutes": 8,
-        "percent": 5.89,
+        "percent": 5.88,
         "digital": "24:08:46"
       },
       {
         "name": "JavaScript",
-        "total_seconds": 72827,
-        "text": "20h 13m",
+        "total_seconds": 72947,
+        "text": "20h 15m",
         "hours": 20,
-        "minutes": 13,
+        "minutes": 15,
         "percent": 4.94,
-        "digital": "20:13:47"
+        "digital": "20:15:47"
       },
       {
         "name": "CSS",
@@ -65,7 +65,7 @@
         "text": "17h 9m",
         "hours": 17,
         "minutes": 9,
-        "percent": 4.19,
+        "percent": 4.18,
         "digital": "17:09:44"
       },
       {
@@ -74,7 +74,7 @@
         "text": "16h 41m",
         "hours": 16,
         "minutes": 41,
-        "percent": 4.08,
+        "percent": 4.07,
         "digital": "16:41:52"
       },
       {
@@ -83,7 +83,7 @@
         "text": "14h 19m",
         "hours": 14,
         "minutes": 19,
-        "percent": 3.5,
+        "percent": 3.49,
         "digital": "14:19:42"
       },
       {
@@ -101,7 +101,7 @@
         "text": "13h 41m",
         "hours": 13,
         "minutes": 41,
-        "percent": 3.34,
+        "percent": 3.33,
         "digital": "13:41:13"
       },
       {
@@ -115,12 +115,12 @@
       },
       {
         "name": "Markdown",
-        "total_seconds": 41428,
-        "text": "11h 30m",
-        "hours": 11,
-        "minutes": 30,
-        "percent": 2.81,
-        "digital": "11:30:28"
+        "total_seconds": 43648,
+        "text": "12h 7m",
+        "hours": 12,
+        "minutes": 7,
+        "percent": 2.95,
+        "digital": "12:07:28"
       },
       {
         "name": "C/c++",
@@ -178,12 +178,12 @@
       },
       {
         "name": "JSON",
-        "total_seconds": 22485,
-        "text": "6h 14m",
+        "total_seconds": 22653,
+        "text": "6h 17m",
         "hours": 6,
-        "minutes": 14,
-        "percent": 1.52,
-        "digital": "06:14:45"
+        "minutes": 17,
+        "percent": 1.53,
+        "digital": "06:17:33"
       },
       {
         "name": "Fsharp",
@@ -200,17 +200,17 @@
         "text": "5h 21m",
         "hours": 5,
         "minutes": 21,
-        "percent": 1.31,
+        "percent": 1.3,
         "digital": "05:21:03"
       },
       {
         "name": "Lua",
-        "total_seconds": 17139,
-        "text": "4h 45m",
+        "total_seconds": 17725,
+        "text": "4h 55m",
         "hours": 4,
-        "minutes": 45,
-        "percent": 1.16,
-        "digital": "04:45:39"
+        "minutes": 55,
+        "percent": 1.2,
+        "digital": "04:55:25"
       },
       {
         "name": "Coffeescript",
@@ -272,7 +272,7 @@
         "text": "3h 13m",
         "hours": 3,
         "minutes": 13,
-        "percent": 0.79,
+        "percent": 0.78,
         "digital": "03:13:10"
       },
       {
@@ -394,21 +394,21 @@
       },
       {
         "name": "Bigfile",
-        "total_seconds": 2327,
-        "text": "38m",
+        "total_seconds": 2487,
+        "text": "41m",
         "hours": 0,
-        "minutes": 38,
-        "percent": 0.16,
-        "digital": "00:38:47"
+        "minutes": 41,
+        "percent": 0.17,
+        "digital": "00:41:27"
       },
       {
         "name": "Conf",
-        "total_seconds": 2092,
-        "text": "34m",
+        "total_seconds": 2426,
+        "text": "40m",
         "hours": 0,
-        "minutes": 34,
-        "percent": 0.14,
-        "digital": "00:34:52"
+        "minutes": 40,
+        "percent": 0.16,
+        "digital": "00:40:26"
       },
       {
         "name": "C/c++ header",
