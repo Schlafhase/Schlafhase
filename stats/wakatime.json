@@ -5,13 +5,13 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-02-17T12:46:23Z",
-    "end": "2026-02-17T23:59:59Z",
+    "start": "2016-02-18T01:42:09Z",
+    "end": "2026-02-18T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 1477525,
+    "total_seconds": 1478341,
     "daily_average": 404,
-    "human_readable_total": "410h 25m 25s",
+    "human_readable_total": "410h 39m 1s",
     "human_readable_daily_average": "6m 44s",
     "languages": [
       {
@@ -20,7 +20,7 @@
         "text": "209h 13m",
         "hours": 209,
         "minutes": 13,
-        "percent": 50.98,
+        "percent": 50.95,
         "digital": "209:13:36"
       },
       {
@@ -56,7 +56,7 @@
         "text": "20h 15m",
         "hours": 20,
         "minutes": 15,
-        "percent": 4.94,
+        "percent": 4.93,
         "digital": "20:15:47"
       },
       {
@@ -115,12 +115,12 @@
       },
       {
         "name": "Markdown",
-        "total_seconds": 43648,
-        "text": "12h 7m",
+        "total_seconds": 44344,
+        "text": "12h 19m",
         "hours": 12,
-        "minutes": 7,
-        "percent": 2.95,
-        "digital": "12:07:28"
+        "minutes": 19,
+        "percent": 3.0,
+        "digital": "12:19:04"
       },
       {
         "name": "C/c++",
@@ -164,7 +164,7 @@
         "text": "7h 2m",
         "hours": 7,
         "minutes": 2,
-        "percent": 1.72,
+        "percent": 1.71,
         "digital": "07:02:25"
       },
       {
@@ -241,12 +241,12 @@
       },
       {
         "name": "Nushell",
-        "total_seconds": 14302,
-        "text": "3h 58m",
-        "hours": 3,
-        "minutes": 58,
-        "percent": 0.97,
-        "digital": "03:58:22"
+        "total_seconds": 14422,
+        "text": "4h",
+        "hours": 4,
+        "minutes": 0,
+        "percent": 0.98,
+        "digital": "04:00:22"
       },
       {
         "name": "Plain_text",
