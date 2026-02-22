@@ -5,23 +5,23 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-02-21T12:32:45Z",
-    "end": "2026-02-21T23:59:59Z",
+    "start": "2016-02-22T01:28:52Z",
+    "end": "2026-02-22T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 1479095,
-    "daily_average": 404,
-    "human_readable_total": "410h 51m 35s",
-    "human_readable_daily_average": "6m 44s",
+    "total_seconds": 1479489,
+    "daily_average": 405,
+    "human_readable_total": "410h 58m 9s",
+    "human_readable_daily_average": "6m 45s",
     "languages": [
       {
         "name": "C#",
-        "total_seconds": 753216,
-        "text": "209h 13m",
+        "total_seconds": 753420,
+        "text": "209h 17m",
         "hours": 209,
-        "minutes": 13,
+        "minutes": 17,
         "percent": 50.92,
-        "digital": "209:13:36"
+        "digital": "209:17:00"
       },
       {
         "name": "Razor",
@@ -38,7 +38,7 @@
         "text": "24h 57m",
         "hours": 24,
         "minutes": 57,
-        "percent": 6.08,
+        "percent": 6.07,
         "digital": "24:57:49"
       },
       {
@@ -137,7 +137,7 @@
         "text": "8h 14m",
         "hours": 8,
         "minutes": 14,
-        "percent": 2.01,
+        "percent": 2.0,
         "digital": "08:14:18"
       },
       {
@@ -173,7 +173,7 @@
         "text": "6h 23m",
         "hours": 6,
         "minutes": 23,
-        "percent": 1.56,
+        "percent": 1.55,
         "digital": "06:23:24"
       },
       {
@@ -218,7 +218,7 @@
         "text": "4h 44m",
         "hours": 4,
         "minutes": 44,
-        "percent": 1.16,
+        "percent": 1.15,
         "digital": "04:44:44"
       },
       {
@@ -245,7 +245,7 @@
         "text": "4h",
         "hours": 4,
         "minutes": 0,
-        "percent": 0.98,
+        "percent": 0.97,
         "digital": "04:00:22"
       },
       {
@@ -456,6 +456,15 @@
         "digital": "00:27:53"
       },
       {
+        "name": "Nix",
+        "total_seconds": 1539,
+        "text": "25m",
+        "hours": 0,
+        "minutes": 25,
+        "percent": 0.1,
+        "digital": "00:25:39"
+      },
+      {
         "name": "Il",
         "total_seconds": 1514,
         "text": "25m",
@@ -463,15 +472,6 @@
         "minutes": 25,
         "percent": 0.1,
         "digital": "00:25:14"
-      },
-      {
-        "name": "Nix",
-        "total_seconds": 1349,
-        "text": "22m",
-        "hours": 0,
-        "minutes": 22,
-        "percent": 0.09,
-        "digital": "00:22:29"
       },
       {
         "name": "Solution file",
@@ -627,7 +627,7 @@
         "digital": "00:06:18"
       },
       {
-        "name": "Dockerignore file",
+        "name": "Cs",
         "total_seconds": 360,
         "text": "6m",
         "hours": 0,
@@ -636,7 +636,7 @@
         "digital": "00:06:00"
       },
       {
-        "name": "Cs",
+        "name": "Dockerignore file",
         "total_seconds": 360,
         "text": "6m",
         "hours": 0,
@@ -726,7 +726,16 @@
         "digital": "00:02:13"
       },
       {
-        "name": "Assembly",
+        "name": "Linkerscript",
+        "total_seconds": 120,
+        "text": "2m",
+        "hours": 0,
+        "minutes": 2,
+        "percent": 0.01,
+        "digital": "00:02:00"
+      },
+      {
+        "name": "Idea_module",
         "total_seconds": 120,
         "text": "2m",
         "hours": 0,
@@ -744,25 +753,16 @@
         "digital": "00:02:00"
       },
       {
+        "name": "Assembly",
+        "total_seconds": 120,
+        "text": "2m",
+        "hours": 0,
+        "minutes": 2,
+        "percent": 0.01,
+        "digital": "00:02:00"
+      },
+      {
         "name": "Zsh",
-        "total_seconds": 120,
-        "text": "2m",
-        "hours": 0,
-        "minutes": 2,
-        "percent": 0.01,
-        "digital": "00:02:00"
-      },
-      {
-        "name": "Linkerscript",
-        "total_seconds": 120,
-        "text": "2m",
-        "hours": 0,
-        "minutes": 2,
-        "percent": 0.01,
-        "digital": "00:02:00"
-      },
-      {
-        "name": "Idea_module",
         "total_seconds": 120,
         "text": "2m",
         "hours": 0,
@@ -861,15 +861,6 @@
         "digital": "00:00:05"
       },
       {
-        "name": "Java properties",
-        "total_seconds": 0,
-        "text": "0m",
-        "hours": 0,
-        "minutes": 0,
-        "percent": 0.0,
-        "digital": "00:00:00"
-      },
-      {
         "name": "Resources",
         "total_seconds": 0,
         "text": "0m",
@@ -879,34 +870,7 @@
         "digital": "00:00:00"
       },
       {
-        "name": "Pythonstub",
-        "total_seconds": 0,
-        "text": "0m",
-        "hours": 0,
-        "minutes": 0,
-        "percent": 0.0,
-        "digital": "00:00:00"
-      },
-      {
-        "name": "Pkgconfig",
-        "total_seconds": 0,
-        "text": "0m",
-        "hours": 0,
-        "minutes": 0,
-        "percent": 0.0,
-        "digital": "00:00:00"
-      },
-      {
-        "name": "Checkhealth",
-        "total_seconds": 0,
-        "text": "0m",
-        "hours": 0,
-        "minutes": 0,
-        "percent": 0.0,
-        "digital": "00:00:00"
-      },
-      {
-        "name": "Viml",
+        "name": "Java properties",
         "total_seconds": 0,
         "text": "0m",
         "hours": 0,
@@ -924,7 +888,7 @@
         "digital": "00:00:00"
       },
       {
-        "name": "Writerside instance",
+        "name": "Pythonstub",
         "total_seconds": 0,
         "text": "0m",
         "hours": 0,
@@ -933,7 +897,16 @@
         "digital": "00:00:00"
       },
       {
-        "name": "Project file properties",
+        "name": "Asp",
+        "total_seconds": 0,
+        "text": "0m",
+        "hours": 0,
+        "minutes": 0,
+        "percent": 0.0,
+        "digital": "00:00:00"
+      },
+      {
+        "name": "Checkhealth",
         "total_seconds": 0,
         "text": "0m",
         "hours": 0,
@@ -951,7 +924,34 @@
         "digital": "00:00:00"
       },
       {
-        "name": "Asp",
+        "name": "Pkgconfig",
+        "total_seconds": 0,
+        "text": "0m",
+        "hours": 0,
+        "minutes": 0,
+        "percent": 0.0,
+        "digital": "00:00:00"
+      },
+      {
+        "name": "Writerside instance",
+        "total_seconds": 0,
+        "text": "0m",
+        "hours": 0,
+        "minutes": 0,
+        "percent": 0.0,
+        "digital": "00:00:00"
+      },
+      {
+        "name": "Viml",
+        "total_seconds": 0,
+        "text": "0m",
+        "hours": 0,
+        "minutes": 0,
+        "percent": 0.0,
+        "digital": "00:00:00"
+      },
+      {
+        "name": "Project file properties",
         "total_seconds": 0,
         "text": "0m",
         "hours": 0,
