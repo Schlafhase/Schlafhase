@@ -13,19 +13,19 @@ My commit messages are getting better.
 **Languages**
 
 - **C#**: 209h 26m (50.9%)
-- **Razor**: 29h 18m (7.1%)
+- **HTML+Razor**: 29h 18m (7.1%)
 - **Blazor**: 24h 57m (6.1%)
 - **Python**: 24h 8m (5.9%)
 - **JavaScript**: 20h 15m (4.9%)
 - **CSS**: 17h 9m (4.2%)
 - **Go**: 16h 41m (4.1%)
-- **Tex**: 14h 19m (3.5%)
-- **Qml**: 14h 14m (3.5%)
+- **TeX**: 14h 19m (3.5%)
+- **QML**: 14h 14m (3.5%)
 - **TypeScript**: 13h 41m (3.3%)
 - **C**: 12h 40m (3.1%)
 - **Markdown**: 12h 25m (3.0%)
-- **C/c++**: 8h 34m (2.1%)
+- **C/C++**: 8h 34m (2.1%)
 - **C++**: 8h 14m (2.0%)
-- **Hyprlang**: 7h 15m (1.8%)
-> **Last updated:** 2026-02-24 12:51 UTC
+- **hyprlang**: 7h 15m (1.8%)
+> **Last updated:** 2026-02-25 01:29 UTC
 

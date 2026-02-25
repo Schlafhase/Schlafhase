@@ -5,8 +5,8 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-02-24T12:51:00Z",
-    "end": "2026-02-24T23:59:59Z",
+    "start": "2016-02-25T01:29:15Z",
+    "end": "2026-02-25T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
     "total_seconds": 1481346,
@@ -21,16 +21,18 @@
         "hours": 209,
         "minutes": 26,
         "percent": 50.9,
-        "digital": "209:26:14"
+        "digital": "209:26:14",
+        "color": "#178600"
       },
       {
-        "name": "Razor",
+        "name": "HTML+Razor",
         "total_seconds": 105505,
         "text": "29h 18m",
         "hours": 29,
         "minutes": 18,
         "percent": 7.12,
-        "digital": "29:18:25"
+        "digital": "29:18:25",
+        "color": "#512be4"
       },
       {
         "name": "Blazor",
@@ -39,7 +41,8 @@
         "hours": 24,
         "minutes": 57,
         "percent": 6.07,
-        "digital": "24:57:49"
+        "digital": "24:57:49",
+        "color": "#888888"
       },
       {
         "name": "Python",
@@ -48,7 +51,8 @@
         "hours": 24,
         "minutes": 8,
         "percent": 5.87,
-        "digital": "24:08:46"
+        "digital": "24:08:46",
+        "color": "#3572A5"
       },
       {
         "name": "JavaScript",
@@ -57,7 +61,8 @@
         "hours": 20,
         "minutes": 15,
         "percent": 4.92,
-        "digital": "20:15:47"
+        "digital": "20:15:47",
+        "color": "#f1e05a"
       },
       {
         "name": "CSS",
@@ -66,7 +71,8 @@
         "hours": 17,
         "minutes": 9,
         "percent": 4.17,
-        "digital": "17:09:44"
+        "digital": "17:09:44",
+        "color": "#663399"
       },
       {
         "name": "Go",
@@ -75,25 +81,28 @@
         "hours": 16,
         "minutes": 41,
         "percent": 4.06,
-        "digital": "16:41:52"
+        "digital": "16:41:52",
+        "color": "#00ADD8"
       },
       {
-        "name": "Tex",
+        "name": "TeX",
         "total_seconds": 51582,
         "text": "14h 19m",
         "hours": 14,
         "minutes": 19,
         "percent": 3.48,
-        "digital": "14:19:42"
+        "digital": "14:19:42",
+        "color": "#3D6117"
       },
       {
-        "name": "Qml",
+        "name": "QML",
         "total_seconds": 51247,
         "text": "14h 14m",
         "hours": 14,
         "minutes": 14,
         "percent": 3.46,
-        "digital": "14:14:07"
+        "digital": "14:14:07",
+        "color": "#44a51c"
       },
       {
         "name": "TypeScript",
@@ -102,7 +111,8 @@
         "hours": 13,
         "minutes": 41,
         "percent": 3.33,
-        "digital": "13:41:13"
+        "digital": "13:41:13",
+        "color": "#3178c6"
       },
       {
         "name": "C",
@@ -111,7 +121,8 @@
         "hours": 12,
         "minutes": 40,
         "percent": 3.08,
-        "digital": "12:40:48"
+        "digital": "12:40:48",
+        "color": "#555555"
       },
       {
         "name": "Markdown",
@@ -120,16 +131,18 @@
         "hours": 12,
         "minutes": 25,
         "percent": 3.02,
-        "digital": "12:25:38"
+        "digital": "12:25:38",
+        "color": "#083fa1"
       },
       {
-        "name": "C/c++",
+        "name": "C/C++",
         "total_seconds": 30880,
         "text": "8h 34m",
         "hours": 8,
         "minutes": 34,
         "percent": 2.08,
-        "digital": "08:34:40"
+        "digital": "08:34:40",
+        "color": "#888888"
       },
       {
         "name": "C++",
@@ -138,16 +151,18 @@
         "hours": 8,
         "minutes": 14,
         "percent": 2.0,
-        "digital": "08:14:18"
+        "digital": "08:14:18",
+        "color": "#f34b7d"
       },
       {
-        "name": "Hyprlang",
+        "name": "hyprlang",
         "total_seconds": 26147,
         "text": "7h 15m",
         "hours": 7,
         "minutes": 15,
         "percent": 1.77,
-        "digital": "07:15:47"
+        "digital": "07:15:47",
+        "color": "#888888"
       },
       {
         "name": "HTML",
@@ -156,25 +171,28 @@
         "hours": 7,
         "minutes": 3,
         "percent": 1.72,
-        "digital": "07:03:36"
+        "digital": "07:03:36",
+        "color": "#e34c26"
       },
       {
-        "name": "Xml",
+        "name": "XML",
         "total_seconds": 25345,
         "text": "7h 2m",
         "hours": 7,
         "minutes": 2,
         "percent": 1.71,
-        "digital": "07:02:25"
+        "digital": "07:02:25",
+        "color": "#0060ac"
       },
       {
-        "name": "Xml",
+        "name": "XML",
         "total_seconds": 23127,
         "text": "6h 25m",
         "hours": 6,
         "minutes": 25,
         "percent": 1.56,
-        "digital": "06:25:27"
+        "digital": "06:25:27",
+        "color": "#0060ac"
       },
       {
         "name": "JSON",
@@ -183,25 +201,28 @@
         "hours": 6,
         "minutes": 17,
         "percent": 1.53,
-        "digital": "06:17:33"
+        "digital": "06:17:33",
+        "color": "#292929"
       },
       {
-        "name": "Fsharp",
+        "name": "F#",
         "total_seconds": 21009,
         "text": "5h 50m",
         "hours": 5,
         "minutes": 50,
         "percent": 1.42,
-        "digital": "05:50:09"
+        "digital": "05:50:09",
+        "color": "#b845fc"
       },
       {
-        "name": "Typescript jsx",
+        "name": "TypeScript JSX",
         "total_seconds": 19263,
         "text": "5h 21m",
         "hours": 5,
         "minutes": 21,
         "percent": 1.3,
-        "digital": "05:21:03"
+        "digital": "05:21:03",
+        "color": "#888888"
       },
       {
         "name": "Lua",
@@ -210,16 +231,18 @@
         "hours": 5,
         "minutes": 2,
         "percent": 1.22,
-        "digital": "05:02:26"
+        "digital": "05:02:26",
+        "color": "#000080"
       },
       {
-        "name": "Coffeescript",
+        "name": "CoffeeScript",
         "total_seconds": 17084,
         "text": "4h 44m",
         "hours": 4,
         "minutes": 44,
         "percent": 1.15,
-        "digital": "04:44:44"
+        "digital": "04:44:44",
+        "color": "#244776"
       },
       {
         "name": "Other",
@@ -228,16 +251,18 @@
         "hours": 4,
         "minutes": 35,
         "percent": 1.11,
-        "digital": "04:35:04"
+        "digital": "04:35:04",
+        "color": "#888888"
       },
       {
-        "name": "Sourcemap",
+        "name": "SourceMap",
         "total_seconds": 14818,
         "text": "4h 6m",
         "hours": 4,
         "minutes": 6,
         "percent": 1.0,
-        "digital": "04:06:58"
+        "digital": "04:06:58",
+        "color": "#888888"
       },
       {
         "name": "Nushell",
@@ -246,16 +271,18 @@
         "hours": 4,
         "minutes": 0,
         "percent": 0.97,
-        "digital": "04:00:22"
+        "digital": "04:00:22",
+        "color": "#4E9906"
       },
       {
-        "name": "Plain_text",
+        "name": "PLAIN_TEXT",
         "total_seconds": 13384,
         "text": "3h 43m",
         "hours": 3,
         "minutes": 43,
         "percent": 0.9,
-        "digital": "03:43:04"
+        "digital": "03:43:04",
+        "color": "#888888"
       },
       {
         "name": "Text",
@@ -264,7 +291,8 @@
         "hours": 3,
         "minutes": 16,
         "percent": 0.8,
-        "digital": "03:16:26"
+        "digital": "03:16:26",
+        "color": "#888888"
       },
       {
         "name": "Rust",
@@ -273,7 +301,8 @@
         "hours": 3,
         "minutes": 13,
         "percent": 0.78,
-        "digital": "03:13:10"
+        "digital": "03:13:10",
+        "color": "#dea584"
       },
       {
         "name": "Csproj",
@@ -282,25 +311,28 @@
         "hours": 3,
         "minutes": 11,
         "percent": 0.78,
-        "digital": "03:11:22"
+        "digital": "03:11:22",
+        "color": "#888888"
       },
       {
-        "name": "Cmake",
+        "name": "CMake",
         "total_seconds": 10882,
         "text": "3h 1m",
         "hours": 3,
         "minutes": 1,
         "percent": 0.73,
-        "digital": "03:01:22"
+        "digital": "03:01:22",
+        "color": "#DA3434"
       },
       {
-        "name": "Gitignore file",
+        "name": "GitIgnore file",
         "total_seconds": 10612,
         "text": "2h 56m",
         "hours": 2,
         "minutes": 56,
         "percent": 0.72,
-        "digital": "02:56:52"
+        "digital": "02:56:52",
+        "color": "#888888"
       },
       {
         "name": "F#",
@@ -309,7 +341,8 @@
         "hours": 2,
         "minutes": 33,
         "percent": 0.62,
-        "digital": "02:33:26"
+        "digital": "02:33:26",
+        "color": "#b845fc"
       },
       {
         "name": "Typst",
@@ -318,79 +351,88 @@
         "hours": 1,
         "minutes": 58,
         "percent": 0.48,
-        "digital": "01:58:34"
+        "digital": "01:58:34",
+        "color": "#239dad"
       },
       {
-        "name": "Glsl file",
+        "name": "Glsl File",
         "total_seconds": 6329,
         "text": "1h 45m",
         "hours": 1,
         "minutes": 45,
         "percent": 0.43,
-        "digital": "01:45:29"
+        "digital": "01:45:29",
+        "color": "#888888"
       },
       {
-        "name": "Cmakelists.txt",
+        "name": "CMakeLists.txt",
         "total_seconds": 5720,
         "text": "1h 35m",
         "hours": 1,
         "minutes": 35,
         "percent": 0.39,
-        "digital": "01:35:20"
+        "digital": "01:35:20",
+        "color": "#888888"
       },
       {
-        "name": "Glsl",
+        "name": "GLSL",
         "total_seconds": 5598,
         "text": "1h 33m",
         "hours": 1,
         "minutes": 33,
         "percent": 0.38,
-        "digital": "01:33:18"
+        "digital": "01:33:18",
+        "color": "#5686a5"
       },
       {
-        "name": "Bash",
+        "name": "Shell",
         "total_seconds": 4715,
         "text": "1h 18m",
         "hours": 1,
         "minutes": 18,
         "percent": 0.32,
-        "digital": "01:18:35"
+        "digital": "01:18:35",
+        "color": "#89e051"
       },
       {
-        "name": "Svg",
+        "name": "SVG",
         "total_seconds": 4590,
         "text": "1h 16m",
         "hours": 1,
         "minutes": 16,
         "percent": 0.31,
-        "digital": "01:16:30"
+        "digital": "01:16:30",
+        "color": "#ff9900"
       },
       {
-        "name": "Ini",
+        "name": "INI",
         "total_seconds": 4483,
         "text": "1h 14m",
         "hours": 1,
         "minutes": 14,
         "percent": 0.3,
-        "digital": "01:14:43"
+        "digital": "01:14:43",
+        "color": "#d1dbe0"
       },
       {
-        "name": "Toml",
+        "name": "TOML",
         "total_seconds": 3949,
         "text": "1h 5m",
         "hours": 1,
         "minutes": 5,
         "percent": 0.27,
-        "digital": "01:05:49"
+        "digital": "01:05:49",
+        "color": "#9c4221"
       },
       {
-        "name": "Conf",
+        "name": "conf",
         "total_seconds": 3074,
         "text": "51m",
         "hours": 0,
         "minutes": 51,
         "percent": 0.21,
-        "digital": "00:51:14"
+        "digital": "00:51:14",
+        "color": "#888888"
       },
       {
         "name": "Todotxt",
@@ -399,34 +441,38 @@
         "hours": 0,
         "minutes": 42,
         "percent": 0.17,
-        "digital": "00:42:41"
+        "digital": "00:42:41",
+        "color": "#888888"
       },
       {
-        "name": "Bigfile",
+        "name": "bigfile",
         "total_seconds": 2487,
         "text": "41m",
         "hours": 0,
         "minutes": 41,
         "percent": 0.17,
-        "digital": "00:41:27"
+        "digital": "00:41:27",
+        "color": "#888888"
       },
       {
-        "name": "C/c++ header",
+        "name": "C/C++ Header",
         "total_seconds": 2085,
         "text": "34m",
         "hours": 0,
         "minutes": 34,
         "percent": 0.14,
-        "digital": "00:34:45"
+        "digital": "00:34:45",
+        "color": "#888888"
       },
       {
-        "name": "Msbuild targets file",
+        "name": "MsBuild targets file",
         "total_seconds": 2051,
         "text": "34m",
         "hours": 0,
         "minutes": 34,
         "percent": 0.14,
-        "digital": "00:34:11"
+        "digital": "00:34:11",
+        "color": "#888888"
       },
       {
         "name": "Nix",
@@ -435,7 +481,8 @@
         "hours": 0,
         "minutes": 32,
         "percent": 0.13,
-        "digital": "00:32:50"
+        "digital": "00:32:50",
+        "color": "#7e7eff"
       },
       {
         "name": "Config",
@@ -444,7 +491,8 @@
         "hours": 0,
         "minutes": 29,
         "percent": 0.12,
-        "digital": "00:29:52"
+        "digital": "00:29:52",
+        "color": "#888888"
       },
       {
         "name": "Other",
@@ -453,43 +501,48 @@
         "hours": 0,
         "minutes": 28,
         "percent": 0.12,
-        "digital": "00:28:24"
+        "digital": "00:28:24",
+        "color": "#888888"
       },
       {
-        "name": "Auto_detected",
+        "name": "AUTO_DETECTED",
         "total_seconds": 1673,
         "text": "27m",
         "hours": 0,
         "minutes": 27,
         "percent": 0.11,
-        "digital": "00:27:53"
+        "digital": "00:27:53",
+        "color": "#888888"
       },
       {
-        "name": "Solution",
+        "name": "solution",
         "total_seconds": 1529,
         "text": "25m",
         "hours": 0,
         "minutes": 25,
         "percent": 0.1,
-        "digital": "00:25:29"
+        "digital": "00:25:29",
+        "color": "#888888"
       },
       {
-        "name": "Il",
+        "name": "IL",
         "total_seconds": 1514,
         "text": "25m",
         "hours": 0,
         "minutes": 25,
         "percent": 0.1,
-        "digital": "00:25:14"
+        "digital": "00:25:14",
+        "color": "#888888"
       },
       {
-        "name": "Solution file",
+        "name": "Solution File",
         "total_seconds": 1206,
         "text": "20m",
         "hours": 0,
         "minutes": 20,
         "percent": 0.08,
-        "digital": "00:20:06"
+        "digital": "00:20:06",
+        "color": "#888888"
       },
       {
         "name": "Docker",
@@ -498,7 +551,8 @@
         "hours": 0,
         "minutes": 19,
         "percent": 0.08,
-        "digital": "00:19:02"
+        "digital": "00:19:02",
+        "color": "#888888"
       },
       {
         "name": "Xaml",
@@ -507,16 +561,18 @@
         "hours": 0,
         "minutes": 18,
         "percent": 0.07,
-        "digital": "00:18:06"
+        "digital": "00:18:06",
+        "color": "#888888"
       },
       {
-        "name": "Gitignore",
+        "name": "Ignore List",
         "total_seconds": 916,
         "text": "15m",
         "hours": 0,
         "minutes": 15,
         "percent": 0.06,
-        "digital": "00:15:16"
+        "digital": "00:15:16",
+        "color": "#000000"
       },
       {
         "name": "YAML",
@@ -525,52 +581,58 @@
         "hours": 0,
         "minutes": 14,
         "percent": 0.06,
-        "digital": "00:14:34"
+        "digital": "00:14:34",
+        "color": "#cb171e"
       },
       {
-        "name": "Go.mod",
+        "name": "Go Module",
         "total_seconds": 794,
         "text": "13m",
         "hours": 0,
         "minutes": 13,
         "percent": 0.05,
-        "digital": "00:13:14"
+        "digital": "00:13:14",
+        "color": "#00ADD8"
       },
       {
-        "name": "Sshconfig",
+        "name": "SSH Config",
         "total_seconds": 734,
         "text": "12m",
         "hours": 0,
         "minutes": 12,
         "percent": 0.05,
-        "digital": "00:12:14"
+        "digital": "00:12:14",
+        "color": "#888888"
       },
       {
-        "name": "Http request",
+        "name": "HTTP Request",
         "total_seconds": 710,
         "text": "11m",
         "hours": 0,
         "minutes": 11,
         "percent": 0.05,
-        "digital": "00:11:50"
+        "digital": "00:11:50",
+        "color": "#888888"
       },
       {
-        "name": "Kitty",
+        "name": "kitty",
         "total_seconds": 682,
         "text": "11m",
         "hours": 0,
         "minutes": 11,
         "percent": 0.05,
-        "digital": "00:11:22"
+        "digital": "00:11:22",
+        "color": "#888888"
       },
       {
-        "name": "Ini",
+        "name": "INI",
         "total_seconds": 592,
         "text": "9m",
         "hours": 0,
         "minutes": 9,
         "percent": 0.04,
-        "digital": "00:09:52"
+        "digital": "00:09:52",
+        "color": "#d1dbe0"
       },
       {
         "name": "Desktop file",
@@ -579,7 +641,8 @@
         "hours": 0,
         "minutes": 9,
         "percent": 0.04,
-        "digital": "00:09:30"
+        "digital": "00:09:30",
+        "color": "#888888"
       },
       {
         "name": "Dockerfile",
@@ -588,70 +651,78 @@
         "hours": 0,
         "minutes": 8,
         "percent": 0.03,
-        "digital": "00:08:12"
+        "digital": "00:08:12",
+        "color": "#384d54"
       },
       {
-        "name": "Pdf",
+        "name": "pdf",
         "total_seconds": 489,
         "text": "8m",
         "hours": 0,
         "minutes": 8,
         "percent": 0.03,
-        "digital": "00:08:09"
+        "digital": "00:08:09",
+        "color": "#888888"
       },
       {
-        "name": "Objective-c",
+        "name": "Objective-C",
         "total_seconds": 480,
         "text": "8m",
         "hours": 0,
         "minutes": 8,
         "percent": 0.03,
-        "digital": "00:08:00"
+        "digital": "00:08:00",
+        "color": "#438eff"
       },
       {
-        "name": "Tsconfig",
+        "name": "tsconfig",
         "total_seconds": 452,
         "text": "7m",
         "hours": 0,
         "minutes": 7,
         "percent": 0.03,
-        "digital": "00:07:32"
+        "digital": "00:07:32",
+        "color": "#888888"
       },
       {
-        "name": "Textmate",
+        "name": "textmate",
         "total_seconds": 378,
         "text": "6m",
         "hours": 0,
         "minutes": 6,
         "percent": 0.03,
-        "digital": "00:06:18"
+        "digital": "00:06:18",
+        "color": "#888888"
       },
       {
-        "name": "Jet_client_text",
+        "name": "JET_CLIENT_TEXT",
         "total_seconds": 360,
         "text": "6m",
         "hours": 0,
         "minutes": 6,
         "percent": 0.02,
-        "digital": "00:06:00"
+        "digital": "00:06:00",
+        "color": "#888888"
       },
       {
-        "name": "Cs",
+        "name": "cs",
         "total_seconds": 360,
         "text": "6m",
         "hours": 0,
         "minutes": 6,
         "percent": 0.02,
-        "digital": "00:06:00"
+        "digital": "00:06:00",
+        "color": "#888888"
       },
       {
-        "name": "Dockerignore file",
+        "name": "DockerIgnore file",
         "total_seconds": 360,
         "text": "6m",
         "hours": 0,
         "minutes": 6,
         "percent": 0.02,
-        "digital": "00:06:00"
+        "digital": "00:06:00",
+        "color": "#888888"
       },
       {
         "name": "Haskell",
@@ -660,7 +731,8 @@
         "hours": 0,
         "minutes": 4,
         "percent": 0.02,
-        "digital": "00:04:44"
+        "digital": "00:04:44",
+        "color": "#5e5086"
       },
       {
         "name": "Makefile",
@@ -669,7 +741,8 @@
         "hours": 0,
         "minutes": 4,
         "percent": 0.02,
-        "digital": "00:04:43"
+        "digital": "00:04:43",
+        "color": "#427819"
       },
       {
         "name": "Isabelle",
@@ -678,34 +751,38 @@
         "hours": 0,
         "minutes": 4,
         "percent": 0.02,
-        "digital": "00:04:20"
+        "digital": "00:04:20",
+        "color": "#FEFE00"
       },
       {
-        "name": "Csv",
+        "name": "CSV",
         "total_seconds": 257,
         "text": "4m",
         "hours": 0,
         "minutes": 4,
         "percent": 0.02,
-        "digital": "00:04:17"
+        "digital": "00:04:17",
+        "color": "#237346"
       },
       {
-        "name": "Xaml",
+        "name": "XAML",
         "total_seconds": 240,
         "text": "4m",
         "hours": 0,
         "minutes": 4,
         "percent": 0.02,
-        "digital": "00:04:00"
+        "digital": "00:04:00",
+        "color": "#888888"
       },
       {
-        "name": "Rasi",
+        "name": "rasi",
         "total_seconds": 177,
         "text": "2m",
         "hours": 0,
         "minutes": 2,
         "percent": 0.01,
-        "digital": "00:02:57"
+        "digital": "00:02:57",
+        "color": "#888888"
       },
       {
         "name": "YAML",
@@ -714,25 +791,28 @@
         "hours": 0,
         "minutes": 2,
         "percent": 0.01,
-        "digital": "00:02:14"
+        "digital": "00:02:14",
+        "color": "#cb171e"
       },
       {
-        "name": "Powershell",
+        "name": "PowerShell",
         "total_seconds": 133,
         "text": "2m",
         "hours": 0,
         "minutes": 2,
         "percent": 0.01,
-        "digital": "00:02:13"
+        "digital": "00:02:13",
+        "color": "#012456"
       },
       {
-        "name": "Zsh",
+        "name": "Shell",
         "total_seconds": 120,
         "text": "2m",
         "hours": 0,
         "minutes": 2,
         "percent": 0.01,
-        "digital": "00:02:00"
+        "digital": "00:02:00",
+        "color": "#89e051"
       },
       {
         "name": "Assembly",
@@ -741,124 +821,138 @@
         "hours": 0,
         "minutes": 2,
         "percent": 0.01,
-        "digital": "00:02:00"
+        "digital": "00:02:00",
+        "color": "#6E4C13"
       },
       {
-        "name": "Pacmanconf",
+        "name": "PacmanConf",
         "total_seconds": 120,
         "text": "2m",
         "hours": 0,
         "minutes": 2,
         "percent": 0.01,
-        "digital": "00:02:00"
+        "digital": "00:02:00",
+        "color": "#888888"
       },
       {
-        "name": "Linkerscript",
+        "name": "LinkerScript",
         "total_seconds": 120,
         "text": "2m",
         "hours": 0,
         "minutes": 2,
         "percent": 0.01,
-        "digital": "00:02:00"
+        "digital": "00:02:00",
+        "color": "#888888"
       },
       {
-        "name": "Idea_module",
+        "name": "IDEA_MODULE",
         "total_seconds": 120,
         "text": "2m",
         "hours": 0,
         "minutes": 2,
         "percent": 0.01,
-        "digital": "00:02:00"
+        "digital": "00:02:00",
+        "color": "#888888"
       },
       {
-        "name": "Latex source file",
+        "name": "LaTeX source file",
         "total_seconds": 86,
         "text": "1m",
         "hours": 0,
         "minutes": 1,
         "percent": 0.01,
-        "digital": "00:01:26"
+        "digital": "00:01:26",
+        "color": "#888888"
       },
       {
-        "name": "Sh",
+        "name": "Shell",
         "total_seconds": 67,
         "text": "1m",
         "hours": 0,
         "minutes": 1,
         "percent": 0.0,
-        "digital": "00:01:07"
+        "digital": "00:01:07",
+        "color": "#89e051"
       },
       {
-        "name": "Tera",
+        "name": "tera",
         "total_seconds": 67,
         "text": "1m",
         "hours": 0,
         "minutes": 1,
         "percent": 0.0,
-        "digital": "00:01:07"
+        "digital": "00:01:07",
+        "color": "#888888"
       },
       {
-        "name": "Gitcommit",
+        "name": "gitcommit",
         "total_seconds": 18,
         "text": "0m",
         "hours": 0,
         "minutes": 0,
         "percent": 0.0,
-        "digital": "00:00:18"
+        "digital": "00:00:18",
+        "color": "#888888"
       },
       {
-        "name": "Unityyaml",
+        "name": "UnityYaml",
         "total_seconds": 14,
         "text": "0m",
         "hours": 0,
         "minutes": 0,
         "percent": 0.0,
-        "digital": "00:00:14"
+        "digital": "00:00:14",
+        "color": "#888888"
       },
       {
-        "name": "Gomod",
+        "name": "gomod",
         "total_seconds": 14,
         "text": "0m",
         "hours": 0,
         "minutes": 0,
         "percent": 0.0,
-        "digital": "00:00:14"
+        "digital": "00:00:14",
+        "color": "#888888"
       },
       {
-        "name": "Systemd",
+        "name": "systemd",
         "total_seconds": 12,
         "text": "0m",
         "hours": 0,
         "minutes": 0,
         "percent": 0.0,
-        "digital": "00:00:12"
+        "digital": "00:00:12",
+        "color": "#888888"
       },
       {
-        "name": "Gitexclude file",
+        "name": "GitExclude file",
         "total_seconds": 11,
         "text": "0m",
         "hours": 0,
         "minutes": 0,
         "percent": 0.0,
-        "digital": "00:00:11"
+        "digital": "00:00:11",
+        "color": "#888888"
       },
       {
-        "name": "Spajson",
+        "name": "spajson",
         "total_seconds": 10,
         "text": "0m",
         "hours": 0,
         "minutes": 0,
         "percent": 0.0,
-        "digital": "00:00:10"
+        "digital": "00:00:10",
+        "color": "#888888"
       },
       {
-        "name": "Image",
+        "name": "image",
         "total_seconds": 5,
         "text": "0m",
         "hours": 0,
         "minutes": 0,
         "percent": 0.0,
-        "digital": "00:00:05"
+        "digital": "00:00:05",
+        "color": "#888888"
       },
       {
         "name": "Resources",
@@ -867,25 +961,28 @@
         "hours": 0,
         "minutes": 0,
         "percent": 0.0,
-        "digital": "00:00:00"
+        "digital": "00:00:00",
+        "color": "#888888"
       },
       {
-        "name": "Java properties",
+        "name": "Java Properties",
         "total_seconds": 0,
         "text": "0m",
         "hours": 0,
         "minutes": 0,
         "percent": 0.0,
-        "digital": "00:00:00"
+        "digital": "00:00:00",
+        "color": "#2A6277"
       },
       {
-        "name": "Pythonstub",
+        "name": "PythonStub",
         "total_seconds": 0,
         "text": "0m",
         "hours": 0,
         "minutes": 0,
         "percent": 0.0,
-        "digital": "00:00:00"
+        "digital": "00:00:00",
+        "color": "#888888"
       },
       {
         "name": "Project file properties",
@@ -894,25 +991,28 @@
         "hours": 0,
         "minutes": 0,
         "percent": 0.0,
-        "digital": "00:00:00"
+        "digital": "00:00:00",
+        "color": "#888888"
       },
       {
-        "name": "Scdoc",
+        "name": "scdoc",
         "total_seconds": 0,
         "text": "0m",
         "hours": 0,
         "minutes": 0,
         "percent": 0.0,
-        "digital": "00:00:00"
+        "digital": "00:00:00",
+        "color": "#888888"
       },
       {
-        "name": "Writerside instance",
+        "name": "Writerside Instance",
         "total_seconds": 0,
         "text": "0m",
         "hours": 0,
         "minutes": 0,
         "percent": 0.0,
-        "digital": "00:00:00"
+        "digital": "00:00:00",
+        "color": "#888888"
       },
       {
         "name": "Cookie storage file",
@@ -921,43 +1021,48 @@
         "hours": 0,
         "minutes": 0,
         "percent": 0.0,
-        "digital": "00:00:00"
+        "digital": "00:00:00",
+        "color": "#888888"
       },
       {
-        "name": "Asp",
+        "name": "Classic ASP",
         "total_seconds": 0,
         "text": "0m",
         "hours": 0,
         "minutes": 0,
         "percent": 0.0,
-        "digital": "00:00:00"
+        "digital": "00:00:00",
+        "color": "#6a40fd"
       },
       {
-        "name": "Pkgconfig",
+        "name": "PkgConfig",
         "total_seconds": 0,
         "text": "0m",
         "hours": 0,
         "minutes": 0,
         "percent": 0.0,
-        "digital": "00:00:00"
+        "digital": "00:00:00",
+        "color": "#888888"
       },
       {
-        "name": "Viml",
+        "name": "Vim Script",
         "total_seconds": 0,
         "text": "0m",
         "hours": 0,
         "minutes": 0,
         "percent": 0.0,
-        "digital": "00:00:00"
+        "digital": "00:00:00",
+        "color": "#199f4b"
       },
       {
-        "name": "Checkhealth",
+        "name": "checkhealth",
         "total_seconds": 0,
         "text": "0m",
         "hours": 0,
         "minutes": 0,
         "percent": 0.0,
-        "digital": "00:00:00"
+        "digital": "00:00:00",
+        "color": "#888888"
       }
     ],
     "streak": 0
