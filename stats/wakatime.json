@@ -5,13 +5,13 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-02-26T01:25:36Z",
+    "start": "2016-02-26T12:49:25Z",
     "end": "2026-02-26T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 1482536,
+    "total_seconds": 1482779,
     "daily_average": 405,
-    "human_readable_total": "411h 48m 56s",
+    "human_readable_total": "411h 52m 59s",
     "human_readable_daily_average": "6m 45s",
     "languages": [
       {
@@ -20,7 +20,7 @@
         "text": "209h 26m",
         "hours": 209,
         "minutes": 26,
-        "percent": 50.86,
+        "percent": 50.85,
         "digital": "209:26:14",
         "color": "#178600"
       },
@@ -426,12 +426,12 @@
       },
       {
         "name": "conf",
-        "total_seconds": 3848,
+        "total_seconds": 3873,
         "text": "1h 4m",
         "hours": 1,
         "minutes": 4,
         "percent": 0.26,
-        "digital": "01:04:08",
+        "digital": "01:04:33",
         "color": "#888888"
       },
       {
@@ -775,6 +775,16 @@
         "color": "#888888"
       },
       {
+        "name": "PHP",
+        "total_seconds": 218,
+        "text": "3m",
+        "hours": 0,
+        "minutes": 3,
+        "percent": 0.01,
+        "digital": "00:03:38",
+        "color": "#4F5D95"
+      },
+      {
         "name": "rasi",
         "total_seconds": 177,
         "text": "2m",
@@ -835,16 +845,6 @@
         "color": "#6E4C13"
       },
       {
-        "name": "LinkerScript",
-        "total_seconds": 120,
-        "text": "2m",
-        "hours": 0,
-        "minutes": 2,
-        "percent": 0.01,
-        "digital": "00:02:00",
-        "color": "#888888"
-      },
-      {
         "name": "Shell",
         "total_seconds": 120,
         "text": "2m",
@@ -853,6 +853,16 @@
         "percent": 0.01,
         "digital": "00:02:00",
         "color": "#89e051"
+      },
+      {
+        "name": "LinkerScript",
+        "total_seconds": 120,
+        "text": "2m",
+        "hours": 0,
+        "minutes": 2,
+        "percent": 0.01,
+        "digital": "00:02:00",
+        "color": "#888888"
       },
       {
         "name": "LaTeX source file",
@@ -953,16 +963,6 @@
         "percent": 0.0,
         "digital": "00:00:05",
         "color": "#888888"
-      },
-      {
-        "name": "PHP",
-        "total_seconds": 0,
-        "text": "0m",
-        "hours": 0,
-        "minutes": 0,
-        "percent": 0.0,
-        "digital": "00:00:00",
-        "color": "#4F5D95"
       },
       {
         "name": "scdoc",
