@@ -5,13 +5,13 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-02-25T12:47:52Z",
-    "end": "2026-02-25T23:59:59Z",
+    "start": "2016-02-26T01:25:36Z",
+    "end": "2026-02-26T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 1481346,
+    "total_seconds": 1482536,
     "daily_average": 405,
-    "human_readable_total": "411h 29m 6s",
+    "human_readable_total": "411h 48m 56s",
     "human_readable_daily_average": "6m 45s",
     "languages": [
       {
@@ -20,7 +20,7 @@
         "text": "209h 26m",
         "hours": 209,
         "minutes": 26,
-        "percent": 50.9,
+        "percent": 50.86,
         "digital": "209:26:14",
         "color": "#178600"
       },
@@ -40,7 +40,7 @@
         "text": "24h 57m",
         "hours": 24,
         "minutes": 57,
-        "percent": 6.07,
+        "percent": 6.06,
         "digital": "24:57:49",
         "color": "#888888"
       },
@@ -50,7 +50,7 @@
         "text": "24h 8m",
         "hours": 24,
         "minutes": 8,
-        "percent": 5.87,
+        "percent": 5.86,
         "digital": "24:08:46",
         "color": "#3572A5"
       },
@@ -80,7 +80,7 @@
         "text": "16h 41m",
         "hours": 16,
         "minutes": 41,
-        "percent": 4.06,
+        "percent": 4.05,
         "digital": "16:41:52",
         "color": "#00ADD8"
       },
@@ -110,7 +110,7 @@
         "text": "13h 41m",
         "hours": 13,
         "minutes": 41,
-        "percent": 3.33,
+        "percent": 3.32,
         "digital": "13:41:13",
         "color": "#3178c6"
       },
@@ -160,7 +160,7 @@
         "text": "7h 15m",
         "hours": 7,
         "minutes": 15,
-        "percent": 1.77,
+        "percent": 1.76,
         "digital": "07:15:47",
         "color": "#888888"
       },
@@ -170,7 +170,7 @@
         "text": "7h 3m",
         "hours": 7,
         "minutes": 3,
-        "percent": 1.72,
+        "percent": 1.71,
         "digital": "07:03:36",
         "color": "#e34c26"
       },
@@ -290,7 +290,7 @@
         "text": "3h 16m",
         "hours": 3,
         "minutes": 16,
-        "percent": 0.8,
+        "percent": 0.79,
         "digital": "03:16:26",
         "color": "#888888"
       },
@@ -310,7 +310,7 @@
         "text": "3h 11m",
         "hours": 3,
         "minutes": 11,
-        "percent": 0.78,
+        "percent": 0.77,
         "digital": "03:11:22",
         "color": "#888888"
       },
@@ -385,6 +385,16 @@
         "color": "#5686a5"
       },
       {
+        "name": "INI",
+        "total_seconds": 4835,
+        "text": "1h 20m",
+        "hours": 1,
+        "minutes": 20,
+        "percent": 0.33,
+        "digital": "01:20:35",
+        "color": "#d1dbe0"
+      },
+      {
         "name": "Shell",
         "total_seconds": 4715,
         "text": "1h 18m",
@@ -405,16 +415,6 @@
         "color": "#ff9900"
       },
       {
-        "name": "INI",
-        "total_seconds": 4483,
-        "text": "1h 14m",
-        "hours": 1,
-        "minutes": 14,
-        "percent": 0.3,
-        "digital": "01:14:43",
-        "color": "#d1dbe0"
-      },
-      {
         "name": "TOML",
         "total_seconds": 3949,
         "text": "1h 5m",
@@ -426,12 +426,12 @@
       },
       {
         "name": "conf",
-        "total_seconds": 3074,
-        "text": "51m",
-        "hours": 0,
-        "minutes": 51,
-        "percent": 0.21,
-        "digital": "00:51:14",
+        "total_seconds": 3848,
+        "text": "1h 4m",
+        "hours": 1,
+        "minutes": 4,
+        "percent": 0.26,
+        "digital": "01:04:08",
         "color": "#888888"
       },
       {
@@ -500,7 +500,7 @@
         "text": "28m",
         "hours": 0,
         "minutes": 28,
-        "percent": 0.12,
+        "percent": 0.11,
         "digital": "00:28:24",
         "color": "#888888"
       },
@@ -805,37 +805,7 @@
         "color": "#012456"
       },
       {
-        "name": "Shell",
-        "total_seconds": 120,
-        "text": "2m",
-        "hours": 0,
-        "minutes": 2,
-        "percent": 0.01,
-        "digital": "00:02:00",
-        "color": "#89e051"
-      },
-      {
-        "name": "Assembly",
-        "total_seconds": 120,
-        "text": "2m",
-        "hours": 0,
-        "minutes": 2,
-        "percent": 0.01,
-        "digital": "00:02:00",
-        "color": "#6E4C13"
-      },
-      {
         "name": "PacmanConf",
-        "total_seconds": 120,
-        "text": "2m",
-        "hours": 0,
-        "minutes": 2,
-        "percent": 0.01,
-        "digital": "00:02:00",
-        "color": "#888888"
-      },
-      {
-        "name": "LinkerScript",
         "total_seconds": 120,
         "text": "2m",
         "hours": 0,
@@ -855,6 +825,36 @@
         "color": "#888888"
       },
       {
+        "name": "Assembly",
+        "total_seconds": 120,
+        "text": "2m",
+        "hours": 0,
+        "minutes": 2,
+        "percent": 0.01,
+        "digital": "00:02:00",
+        "color": "#6E4C13"
+      },
+      {
+        "name": "LinkerScript",
+        "total_seconds": 120,
+        "text": "2m",
+        "hours": 0,
+        "minutes": 2,
+        "percent": 0.01,
+        "digital": "00:02:00",
+        "color": "#888888"
+      },
+      {
+        "name": "Shell",
+        "total_seconds": 120,
+        "text": "2m",
+        "hours": 0,
+        "minutes": 2,
+        "percent": 0.01,
+        "digital": "00:02:00",
+        "color": "#89e051"
+      },
+      {
         "name": "LaTeX source file",
         "total_seconds": 86,
         "text": "1m",
@@ -862,6 +862,16 @@
         "minutes": 1,
         "percent": 0.01,
         "digital": "00:01:26",
+        "color": "#888888"
+      },
+      {
+        "name": "tera",
+        "total_seconds": 67,
+        "text": "1m",
+        "hours": 0,
+        "minutes": 1,
+        "percent": 0.0,
+        "digital": "00:01:07",
         "color": "#888888"
       },
       {
@@ -873,16 +883,6 @@
         "percent": 0.0,
         "digital": "00:01:07",
         "color": "#89e051"
-      },
-      {
-        "name": "tera",
-        "total_seconds": 67,
-        "text": "1m",
-        "hours": 0,
-        "minutes": 1,
-        "percent": 0.0,
-        "digital": "00:01:07",
-        "color": "#888888"
       },
       {
         "name": "gitcommit",
@@ -955,6 +955,86 @@
         "color": "#888888"
       },
       {
+        "name": "PHP",
+        "total_seconds": 0,
+        "text": "0m",
+        "hours": 0,
+        "minutes": 0,
+        "percent": 0.0,
+        "digital": "00:00:00",
+        "color": "#4F5D95"
+      },
+      {
+        "name": "scdoc",
+        "total_seconds": 0,
+        "text": "0m",
+        "hours": 0,
+        "minutes": 0,
+        "percent": 0.0,
+        "digital": "00:00:00",
+        "color": "#888888"
+      },
+      {
+        "name": "Classic ASP",
+        "total_seconds": 0,
+        "text": "0m",
+        "hours": 0,
+        "minutes": 0,
+        "percent": 0.0,
+        "digital": "00:00:00",
+        "color": "#6a40fd"
+      },
+      {
+        "name": "checkhealth",
+        "total_seconds": 0,
+        "text": "0m",
+        "hours": 0,
+        "minutes": 0,
+        "percent": 0.0,
+        "digital": "00:00:00",
+        "color": "#888888"
+      },
+      {
+        "name": "Cookie storage file",
+        "total_seconds": 0,
+        "text": "0m",
+        "hours": 0,
+        "minutes": 0,
+        "percent": 0.0,
+        "digital": "00:00:00",
+        "color": "#888888"
+      },
+      {
+        "name": "Writerside Instance",
+        "total_seconds": 0,
+        "text": "0m",
+        "hours": 0,
+        "minutes": 0,
+        "percent": 0.0,
+        "digital": "00:00:00",
+        "color": "#888888"
+      },
+      {
+        "name": "Vim Script",
+        "total_seconds": 0,
+        "text": "0m",
+        "hours": 0,
+        "minutes": 0,
+        "percent": 0.0,
+        "digital": "00:00:00",
+        "color": "#199f4b"
+      },
+      {
+        "name": "PkgConfig",
+        "total_seconds": 0,
+        "text": "0m",
+        "hours": 0,
+        "minutes": 0,
+        "percent": 0.0,
+        "digital": "00:00:00",
+        "color": "#888888"
+      },
+      {
         "name": "Resources",
         "total_seconds": 0,
         "text": "0m",
@@ -986,76 +1066,6 @@
       },
       {
         "name": "Project file properties",
-        "total_seconds": 0,
-        "text": "0m",
-        "hours": 0,
-        "minutes": 0,
-        "percent": 0.0,
-        "digital": "00:00:00",
-        "color": "#888888"
-      },
-      {
-        "name": "scdoc",
-        "total_seconds": 0,
-        "text": "0m",
-        "hours": 0,
-        "minutes": 0,
-        "percent": 0.0,
-        "digital": "00:00:00",
-        "color": "#888888"
-      },
-      {
-        "name": "Writerside Instance",
-        "total_seconds": 0,
-        "text": "0m",
-        "hours": 0,
-        "minutes": 0,
-        "percent": 0.0,
-        "digital": "00:00:00",
-        "color": "#888888"
-      },
-      {
-        "name": "Cookie storage file",
-        "total_seconds": 0,
-        "text": "0m",
-        "hours": 0,
-        "minutes": 0,
-        "percent": 0.0,
-        "digital": "00:00:00",
-        "color": "#888888"
-      },
-      {
-        "name": "Classic ASP",
-        "total_seconds": 0,
-        "text": "0m",
-        "hours": 0,
-        "minutes": 0,
-        "percent": 0.0,
-        "digital": "00:00:00",
-        "color": "#6a40fd"
-      },
-      {
-        "name": "PkgConfig",
-        "total_seconds": 0,
-        "text": "0m",
-        "hours": 0,
-        "minutes": 0,
-        "percent": 0.0,
-        "digital": "00:00:00",
-        "color": "#888888"
-      },
-      {
-        "name": "Vim Script",
-        "total_seconds": 0,
-        "text": "0m",
-        "hours": 0,
-        "minutes": 0,
-        "percent": 0.0,
-        "digital": "00:00:00",
-        "color": "#199f4b"
-      },
-      {
-        "name": "checkhealth",
         "total_seconds": 0,
         "text": "0m",
         "hours": 0,
