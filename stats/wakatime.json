@@ -5,14 +5,14 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-02-26T12:49:25Z",
-    "end": "2026-02-26T23:59:59Z",
+    "start": "2016-02-27T01:23:10Z",
+    "end": "2026-02-27T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 1482779,
-    "daily_average": 405,
-    "human_readable_total": "411h 52m 59s",
-    "human_readable_daily_average": "6m 45s",
+    "total_seconds": 1483997,
+    "daily_average": 406,
+    "human_readable_total": "412h 13m 17s",
+    "human_readable_daily_average": "6m 46s",
     "languages": [
       {
         "name": "C#",
@@ -20,7 +20,7 @@
         "text": "209h 26m",
         "hours": 209,
         "minutes": 26,
-        "percent": 50.85,
+        "percent": 50.81,
         "digital": "209:26:14",
         "color": "#178600"
       },
@@ -30,7 +30,7 @@
         "text": "29h 18m",
         "hours": 29,
         "minutes": 18,
-        "percent": 7.12,
+        "percent": 7.11,
         "digital": "29:18:25",
         "color": "#512be4"
       },
@@ -70,7 +70,7 @@
         "text": "17h 9m",
         "hours": 17,
         "minutes": 9,
-        "percent": 4.17,
+        "percent": 4.16,
         "digital": "17:09:44",
         "color": "#663399"
       },
@@ -100,7 +100,7 @@
         "text": "14h 14m",
         "hours": 14,
         "minutes": 14,
-        "percent": 3.46,
+        "percent": 3.45,
         "digital": "14:14:07",
         "color": "#44a51c"
       },
@@ -130,7 +130,7 @@
         "text": "12h 25m",
         "hours": 12,
         "minutes": 25,
-        "percent": 3.02,
+        "percent": 3.01,
         "digital": "12:25:38",
         "color": "#083fa1"
       },
@@ -385,6 +385,16 @@
         "color": "#5686a5"
       },
       {
+        "name": "TOML",
+        "total_seconds": 5039,
+        "text": "1h 23m",
+        "hours": 1,
+        "minutes": 23,
+        "percent": 0.34,
+        "digital": "01:23:59",
+        "color": "#9c4221"
+      },
+      {
         "name": "INI",
         "total_seconds": 4835,
         "text": "1h 20m",
@@ -413,16 +423,6 @@
         "percent": 0.31,
         "digital": "01:16:30",
         "color": "#ff9900"
-      },
-      {
-        "name": "TOML",
-        "total_seconds": 3949,
-        "text": "1h 5m",
-        "hours": 1,
-        "minutes": 5,
-        "percent": 0.27,
-        "digital": "01:05:49",
-        "color": "#9c4221"
       },
       {
         "name": "conf",
@@ -585,6 +585,16 @@
         "color": "#cb171e"
       },
       {
+        "name": "kitty",
+        "total_seconds": 810,
+        "text": "13m",
+        "hours": 0,
+        "minutes": 13,
+        "percent": 0.05,
+        "digital": "00:13:30",
+        "color": "#888888"
+      },
+      {
         "name": "Go Module",
         "total_seconds": 794,
         "text": "13m",
@@ -612,16 +622,6 @@
         "minutes": 11,
         "percent": 0.05,
         "digital": "00:11:50",
-        "color": "#888888"
-      },
-      {
-        "name": "kitty",
-        "total_seconds": 682,
-        "text": "11m",
-        "hours": 0,
-        "minutes": 11,
-        "percent": 0.05,
-        "digital": "00:11:22",
         "color": "#888888"
       },
       {
