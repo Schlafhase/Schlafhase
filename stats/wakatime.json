@@ -5,23 +5,23 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-02-28T12:31:24Z",
-    "end": "2026-02-28T23:59:59Z",
+    "start": "2016-03-01T01:45:45Z",
+    "end": "2026-03-01T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 1483997,
+    "total_seconds": 1484193,
     "daily_average": 406,
-    "human_readable_total": "412h 13m 17s",
+    "human_readable_total": "412h 16m 33s",
     "human_readable_daily_average": "6m 46s",
     "languages": [
       {
         "name": "C#",
-        "total_seconds": 753974,
-        "text": "209h 26m",
+        "total_seconds": 754094,
+        "text": "209h 28m",
         "hours": 209,
-        "minutes": 26,
+        "minutes": 28,
         "percent": 50.81,
-        "digital": "209:26:14",
+        "digital": "209:28:14",
         "color": "#178600"
       },
       {
@@ -60,7 +60,7 @@
         "text": "20h 15m",
         "hours": 20,
         "minutes": 15,
-        "percent": 4.92,
+        "percent": 4.91,
         "digital": "20:15:47",
         "color": "#f1e05a"
       },
@@ -586,12 +586,12 @@
       },
       {
         "name": "kitty",
-        "total_seconds": 810,
+        "total_seconds": 832,
         "text": "13m",
         "hours": 0,
         "minutes": 13,
-        "percent": 0.05,
-        "digital": "00:13:30",
+        "percent": 0.06,
+        "digital": "00:13:52",
         "color": "#888888"
       },
       {
@@ -625,6 +625,16 @@
         "color": "#888888"
       },
       {
+        "name": "Desktop file",
+        "total_seconds": 690,
+        "text": "11m",
+        "hours": 0,
+        "minutes": 11,
+        "percent": 0.05,
+        "digital": "00:11:30",
+        "color": "#888888"
+      },
+      {
         "name": "INI",
         "total_seconds": 592,
         "text": "9m",
@@ -633,16 +643,6 @@
         "percent": 0.04,
         "digital": "00:09:52",
         "color": "#d1dbe0"
-      },
-      {
-        "name": "Desktop file",
-        "total_seconds": 570,
-        "text": "9m",
-        "hours": 0,
-        "minutes": 9,
-        "percent": 0.04,
-        "digital": "00:09:30",
-        "color": "#888888"
       },
       {
         "name": "Dockerfile",
