@@ -5,13 +5,13 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-03-01T01:45:45Z",
+    "start": "2016-03-01T12:33:55Z",
     "end": "2026-03-01T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 1484193,
+    "total_seconds": 1484566,
     "daily_average": 406,
-    "human_readable_total": "412h 16m 33s",
+    "human_readable_total": "412h 22m 46s",
     "human_readable_daily_average": "6m 46s",
     "languages": [
       {
@@ -20,7 +20,7 @@
         "text": "209h 28m",
         "hours": 209,
         "minutes": 28,
-        "percent": 50.81,
+        "percent": 50.8,
         "digital": "209:28:14",
         "color": "#178600"
       },
@@ -40,7 +40,7 @@
         "text": "24h 57m",
         "hours": 24,
         "minutes": 57,
-        "percent": 6.06,
+        "percent": 6.05,
         "digital": "24:57:49",
         "color": "#888888"
       },
@@ -90,7 +90,7 @@
         "text": "14h 19m",
         "hours": 14,
         "minutes": 19,
-        "percent": 3.48,
+        "percent": 3.47,
         "digital": "14:19:42",
         "color": "#3D6117"
       },
@@ -120,7 +120,7 @@
         "text": "12h 40m",
         "hours": 12,
         "minutes": 40,
-        "percent": 3.08,
+        "percent": 3.07,
         "digital": "12:40:48",
         "color": "#555555"
       },
@@ -146,12 +146,12 @@
       },
       {
         "name": "C++",
-        "total_seconds": 29658,
-        "text": "8h 14m",
+        "total_seconds": 30031,
+        "text": "8h 20m",
         "hours": 8,
-        "minutes": 14,
-        "percent": 2.0,
-        "digital": "08:14:18",
+        "minutes": 20,
+        "percent": 2.02,
+        "digital": "08:20:31",
         "color": "#f34b7d"
       },
       {
@@ -330,7 +330,7 @@
         "text": "2h 56m",
         "hours": 2,
         "minutes": 56,
-        "percent": 0.72,
+        "percent": 0.71,
         "digital": "02:56:52",
         "color": "#888888"
       },
