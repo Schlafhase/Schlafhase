@@ -5,13 +5,13 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-03-04T12:40:15Z",
-    "end": "2026-03-04T23:59:59Z",
+    "start": "2016-03-05T01:25:58Z",
+    "end": "2026-03-05T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 1489045,
+    "total_seconds": 1489556,
     "daily_average": 407,
-    "human_readable_total": "413h 37m 25s",
+    "human_readable_total": "413h 45m 56s",
     "human_readable_daily_average": "6m 47s",
     "languages": [
       {
@@ -20,7 +20,7 @@
         "text": "209h 28m",
         "hours": 209,
         "minutes": 28,
-        "percent": 50.64,
+        "percent": 50.63,
         "digital": "209:28:14",
         "color": "#178600"
       },
@@ -30,7 +30,7 @@
         "text": "29h 18m",
         "hours": 29,
         "minutes": 18,
-        "percent": 7.09,
+        "percent": 7.08,
         "digital": "29:18:25",
         "color": "#512be4"
       },
@@ -40,7 +40,7 @@
         "text": "24h 57m",
         "hours": 24,
         "minutes": 57,
-        "percent": 6.04,
+        "percent": 6.03,
         "digital": "24:57:49",
         "color": "#888888"
       },
@@ -120,7 +120,7 @@
         "text": "12h 40m",
         "hours": 12,
         "minutes": 40,
-        "percent": 3.07,
+        "percent": 3.06,
         "digital": "12:40:48",
         "color": "#555555"
       },
@@ -156,12 +156,12 @@
       },
       {
         "name": "hyprlang",
-        "total_seconds": 26276,
-        "text": "7h 17m",
+        "total_seconds": 26510,
+        "text": "7h 21m",
         "hours": 7,
-        "minutes": 17,
-        "percent": 1.76,
-        "digital": "07:17:56",
+        "minutes": 21,
+        "percent": 1.78,
+        "digital": "07:21:50",
         "color": "#888888"
       },
       {
@@ -260,7 +260,7 @@
         "text": "4h 6m",
         "hours": 4,
         "minutes": 6,
-        "percent": 1.0,
+        "percent": 0.99,
         "digital": "04:06:58",
         "color": "#888888"
       },
@@ -360,7 +360,7 @@
         "text": "1h 45m",
         "hours": 1,
         "minutes": 45,
-        "percent": 0.43,
+        "percent": 0.42,
         "digital": "01:45:29",
         "color": "#888888"
       },
@@ -645,6 +645,16 @@
         "color": "#d1dbe0"
       },
       {
+        "name": "PHP",
+        "total_seconds": 495,
+        "text": "8m",
+        "hours": 0,
+        "minutes": 8,
+        "percent": 0.03,
+        "digital": "00:08:15",
+        "color": "#4F5D95"
+      },
+      {
         "name": "Dockerfile",
         "total_seconds": 492,
         "text": "8m",
@@ -775,16 +785,6 @@
         "color": "#888888"
       },
       {
-        "name": "PHP",
-        "total_seconds": 218,
-        "text": "3m",
-        "hours": 0,
-        "minutes": 3,
-        "percent": 0.01,
-        "digital": "00:03:38",
-        "color": "#4F5D95"
-      },
-      {
         "name": "rasi",
         "total_seconds": 177,
         "text": "2m",
@@ -815,14 +815,14 @@
         "color": "#012456"
       },
       {
-        "name": "PacmanConf",
+        "name": "Shell",
         "total_seconds": 120,
         "text": "2m",
         "hours": 0,
         "minutes": 2,
         "percent": 0.01,
         "digital": "00:02:00",
-        "color": "#888888"
+        "color": "#89e051"
       },
       {
         "name": "IDEA_MODULE",
@@ -845,14 +845,14 @@
         "color": "#6E4C13"
       },
       {
-        "name": "Shell",
+        "name": "PacmanConf",
         "total_seconds": 120,
         "text": "2m",
         "hours": 0,
         "minutes": 2,
         "percent": 0.01,
         "digital": "00:02:00",
-        "color": "#89e051"
+        "color": "#888888"
       },
       {
         "name": "LinkerScript",
