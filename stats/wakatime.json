@@ -5,13 +5,13 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-03-06T12:38:47Z",
-    "end": "2026-03-06T23:59:59Z",
+    "start": "2016-03-07T01:21:08Z",
+    "end": "2026-03-07T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 1489556,
+    "total_seconds": 1489676,
     "daily_average": 407,
-    "human_readable_total": "413h 45m 56s",
+    "human_readable_total": "413h 47m 56s",
     "human_readable_daily_average": "6m 47s",
     "languages": [
       {
@@ -20,7 +20,7 @@
         "text": "209h 28m",
         "hours": 209,
         "minutes": 28,
-        "percent": 50.63,
+        "percent": 50.62,
         "digital": "209:28:14",
         "color": "#178600"
       },
@@ -455,6 +455,16 @@
         "color": "#888888"
       },
       {
+        "name": "Nix",
+        "total_seconds": 2090,
+        "text": "34m",
+        "hours": 0,
+        "minutes": 34,
+        "percent": 0.14,
+        "digital": "00:34:50",
+        "color": "#7e7eff"
+      },
+      {
         "name": "C/C++ Header",
         "total_seconds": 2085,
         "text": "34m",
@@ -473,16 +483,6 @@
         "percent": 0.14,
         "digital": "00:34:11",
         "color": "#888888"
-      },
-      {
-        "name": "Nix",
-        "total_seconds": 1970,
-        "text": "32m",
-        "hours": 0,
-        "minutes": 32,
-        "percent": 0.13,
-        "digital": "00:32:50",
-        "color": "#7e7eff"
       },
       {
         "name": "Config",
