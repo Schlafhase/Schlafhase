@@ -5,13 +5,13 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-03-15T12:37:09Z",
-    "end": "2026-03-15T23:59:59Z",
+    "start": "2016-03-16T01:50:16Z",
+    "end": "2026-03-16T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 1499840,
+    "total_seconds": 1500213,
     "daily_average": 410,
-    "human_readable_total": "416h 37m 20s",
+    "human_readable_total": "416h 43m 33s",
     "human_readable_daily_average": "6m 50s",
     "languages": [
       {
@@ -20,7 +20,7 @@
         "text": "209h 37m",
         "hours": 209,
         "minutes": 37,
-        "percent": 50.32,
+        "percent": 50.3,
         "digital": "209:37:52",
         "color": "#178600"
       },
@@ -50,7 +50,7 @@
         "text": "24h 8m",
         "hours": 24,
         "minutes": 8,
-        "percent": 5.8,
+        "percent": 5.79,
         "digital": "24:08:46",
         "color": "#3572A5"
       },
@@ -120,7 +120,7 @@
         "text": "13h 41m",
         "hours": 13,
         "minutes": 41,
-        "percent": 3.29,
+        "percent": 3.28,
         "digital": "13:41:13",
         "color": "#3178c6"
       },
@@ -235,6 +235,16 @@
         "color": "#000080"
       },
       {
+        "name": "Other",
+        "total_seconds": 17097,
+        "text": "4h 44m",
+        "hours": 4,
+        "minutes": 44,
+        "percent": 1.14,
+        "digital": "04:44:57",
+        "color": "#888888"
+      },
+      {
         "name": "CoffeeScript",
         "total_seconds": 17084,
         "text": "4h 44m",
@@ -243,16 +253,6 @@
         "percent": 1.14,
         "digital": "04:44:44",
         "color": "#244776"
-      },
-      {
-        "name": "Other",
-        "total_seconds": 16798,
-        "text": "4h 39m",
-        "hours": 4,
-        "minutes": 39,
-        "percent": 1.12,
-        "digital": "04:39:58",
-        "color": "#888888"
       },
       {
         "name": "SourceMap",
@@ -286,12 +286,12 @@
       },
       {
         "name": "Text",
-        "total_seconds": 12173,
-        "text": "3h 22m",
+        "total_seconds": 12293,
+        "text": "3h 24m",
         "hours": 3,
-        "minutes": 22,
-        "percent": 0.81,
-        "digital": "03:22:53",
+        "minutes": 24,
+        "percent": 0.82,
+        "digital": "03:24:53",
         "color": "#888888"
       },
       {
@@ -426,12 +426,12 @@
       },
       {
         "name": "conf",
-        "total_seconds": 3873,
-        "text": "1h 4m",
+        "total_seconds": 3993,
+        "text": "1h 6m",
         "hours": 1,
-        "minutes": 4,
-        "percent": 0.26,
-        "digital": "01:04:33",
+        "minutes": 6,
+        "percent": 0.27,
+        "digital": "01:06:33",
         "color": "#888888"
       },
       {
@@ -585,6 +585,16 @@
         "color": "#cb171e"
       },
       {
+        "name": "Desktop file",
+        "total_seconds": 841,
+        "text": "14m",
+        "hours": 0,
+        "minutes": 14,
+        "percent": 0.06,
+        "digital": "00:14:01",
+        "color": "#888888"
+      },
+      {
         "name": "kitty",
         "total_seconds": 832,
         "text": "13m",
@@ -622,16 +632,6 @@
         "minutes": 11,
         "percent": 0.05,
         "digital": "00:11:50",
-        "color": "#888888"
-      },
-      {
-        "name": "Desktop file",
-        "total_seconds": 690,
-        "text": "11m",
-        "hours": 0,
-        "minutes": 11,
-        "percent": 0.05,
-        "digital": "00:11:30",
         "color": "#888888"
       },
       {
@@ -705,16 +705,6 @@
         "color": "#888888"
       },
       {
-        "name": "JET_CLIENT_TEXT",
-        "total_seconds": 360,
-        "text": "6m",
-        "hours": 0,
-        "minutes": 6,
-        "percent": 0.02,
-        "digital": "00:06:00",
-        "color": "#888888"
-      },
-      {
         "name": "cs",
         "total_seconds": 360,
         "text": "6m",
@@ -726,6 +716,16 @@
       },
       {
         "name": "DockerIgnore file",
+        "total_seconds": 360,
+        "text": "6m",
+        "hours": 0,
+        "minutes": 6,
+        "percent": 0.02,
+        "digital": "00:06:00",
+        "color": "#888888"
+      },
+      {
+        "name": "JET_CLIENT_TEXT",
         "total_seconds": 360,
         "text": "6m",
         "hours": 0,
