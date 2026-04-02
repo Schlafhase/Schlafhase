@@ -5,23 +5,23 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-04-01T13:03:53Z",
-    "end": "2026-04-01T23:59:59Z",
+    "start": "2016-04-02T01:46:28Z",
+    "end": "2026-04-02T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 1519291,
+    "total_seconds": 1519864,
     "daily_average": 416,
-    "human_readable_total": "422h 1m 31s",
+    "human_readable_total": "422h 11m 4s",
     "human_readable_daily_average": "6m 56s",
     "languages": [
       {
         "name": "C#",
-        "total_seconds": 769596,
-        "text": "213h 46m",
+        "total_seconds": 769836,
+        "text": "213h 50m",
         "hours": 213,
-        "minutes": 46,
+        "minutes": 50,
         "percent": 50.65,
-        "digital": "213:46:36",
+        "digital": "213:50:36",
         "color": "#178600"
       },
       {
@@ -40,7 +40,7 @@
         "text": "24h 57m",
         "hours": 24,
         "minutes": 57,
-        "percent": 5.92,
+        "percent": 5.91,
         "digital": "24:57:49",
         "color": "#888888"
       },
@@ -100,7 +100,7 @@
         "text": "14h 19m",
         "hours": 14,
         "minutes": 19,
-        "percent": 3.4,
+        "percent": 3.39,
         "digital": "14:19:42",
         "color": "#3D6117"
       },
@@ -220,7 +220,7 @@
         "text": "5h 38m",
         "hours": 5,
         "minutes": 38,
-        "percent": 1.34,
+        "percent": 1.33,
         "digital": "05:38:05",
         "color": "#888888"
       },
@@ -260,7 +260,7 @@
         "text": "4h 6m",
         "hours": 4,
         "minutes": 6,
-        "percent": 0.98,
+        "percent": 0.97,
         "digital": "04:06:58",
         "color": "#888888"
       },
@@ -375,6 +375,16 @@
         "color": "#888888"
       },
       {
+        "name": "INI",
+        "total_seconds": 5708,
+        "text": "1h 35m",
+        "hours": 1,
+        "minutes": 35,
+        "percent": 0.38,
+        "digital": "01:35:08",
+        "color": "#d1dbe0"
+      },
+      {
         "name": "GLSL",
         "total_seconds": 5598,
         "text": "1h 33m",
@@ -383,16 +393,6 @@
         "percent": 0.37,
         "digital": "01:33:18",
         "color": "#5686a5"
-      },
-      {
-        "name": "INI",
-        "total_seconds": 5315,
-        "text": "1h 28m",
-        "hours": 1,
-        "minutes": 28,
-        "percent": 0.35,
-        "digital": "01:28:35",
-        "color": "#d1dbe0"
       },
       {
         "name": "TOML",
