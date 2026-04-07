@@ -5,23 +5,23 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-04-07T01:50:47Z",
+    "start": "2016-04-07T13:05:10Z",
     "end": "2026-04-07T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 1521459,
+    "total_seconds": 1522071,
     "daily_average": 416,
-    "human_readable_total": "422h 37m 39s",
+    "human_readable_total": "422h 47m 51s",
     "human_readable_daily_average": "6m 56s",
     "languages": [
       {
         "name": "C#",
-        "total_seconds": 770085,
-        "text": "213h 54m",
-        "hours": 213,
-        "minutes": 54,
-        "percent": 50.61,
-        "digital": "213:54:45",
+        "total_seconds": 770794,
+        "text": "214h 6m",
+        "hours": 214,
+        "minutes": 6,
+        "percent": 50.64,
+        "digital": "214:06:34",
         "color": "#178600"
       },
       {
@@ -40,7 +40,7 @@
         "text": "24h 57m",
         "hours": 24,
         "minutes": 57,
-        "percent": 5.91,
+        "percent": 5.9,
         "digital": "24:57:49",
         "color": "#888888"
       },
@@ -136,12 +136,12 @@
       },
       {
         "name": "C++",
-        "total_seconds": 34501,
-        "text": "9h 35m",
+        "total_seconds": 34621,
+        "text": "9h 37m",
         "hours": 9,
-        "minutes": 35,
+        "minutes": 37,
         "percent": 2.27,
-        "digital": "09:35:01",
+        "digital": "09:37:01",
         "color": "#f34b7d"
       },
       {
@@ -216,22 +216,22 @@
       },
       {
         "name": "Other",
-        "total_seconds": 20525,
-        "text": "5h 42m",
+        "total_seconds": 20645,
+        "text": "5h 44m",
         "hours": 5,
-        "minutes": 42,
-        "percent": 1.35,
-        "digital": "05:42:05",
+        "minutes": 44,
+        "percent": 1.36,
+        "digital": "05:44:05",
         "color": "#888888"
       },
       {
         "name": "Lua",
-        "total_seconds": 20011,
-        "text": "5h 33m",
+        "total_seconds": 20131,
+        "text": "5h 35m",
         "hours": 5,
-        "minutes": 33,
+        "minutes": 35,
         "percent": 1.32,
-        "digital": "05:33:31",
+        "digital": "05:35:31",
         "color": "#000080"
       },
       {
@@ -320,7 +320,7 @@
         "text": "3h 1m",
         "hours": 3,
         "minutes": 1,
-        "percent": 0.72,
+        "percent": 0.71,
         "digital": "03:01:22",
         "color": "#DA3434"
       },
@@ -340,7 +340,7 @@
         "text": "2h 33m",
         "hours": 2,
         "minutes": 33,
-        "percent": 0.61,
+        "percent": 0.6,
         "digital": "02:33:26",
         "color": "#b845fc"
       },
@@ -365,6 +365,16 @@
         "color": "#888888"
       },
       {
+        "name": "INI",
+        "total_seconds": 5834,
+        "text": "1h 37m",
+        "hours": 1,
+        "minutes": 37,
+        "percent": 0.38,
+        "digital": "01:37:14",
+        "color": "#d1dbe0"
+      },
+      {
         "name": "CMakeLists.txt",
         "total_seconds": 5720,
         "text": "1h 35m",
@@ -373,16 +383,6 @@
         "percent": 0.38,
         "digital": "01:35:20",
         "color": "#888888"
-      },
-      {
-        "name": "INI",
-        "total_seconds": 5708,
-        "text": "1h 35m",
-        "hours": 1,
-        "minutes": 35,
-        "percent": 0.38,
-        "digital": "01:35:08",
-        "color": "#d1dbe0"
       },
       {
         "name": "GLSL",
