@@ -5,13 +5,13 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-04-08T01:50:55Z",
+    "start": "2016-04-08T13:06:45Z",
     "end": "2026-04-08T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 1524474,
+    "total_seconds": 1524594,
     "daily_average": 417,
-    "human_readable_total": "423h 27m 54s",
+    "human_readable_total": "423h 29m 54s",
     "human_readable_daily_average": "6m 57s",
     "languages": [
       {
@@ -40,7 +40,7 @@
         "text": "24h 57m",
         "hours": 24,
         "minutes": 57,
-        "percent": 5.9,
+        "percent": 5.89,
         "digital": "24:57:49",
         "color": "#888888"
       },
@@ -60,7 +60,7 @@
         "text": "20h 15m",
         "hours": 20,
         "minutes": 15,
-        "percent": 4.79,
+        "percent": 4.78,
         "digital": "20:15:47",
         "color": "#f1e05a"
       },
@@ -210,7 +210,7 @@
         "text": "5h 54m",
         "hours": 5,
         "minutes": 54,
-        "percent": 1.4,
+        "percent": 1.39,
         "digital": "05:54:27",
         "color": "#b845fc"
       },
@@ -426,12 +426,12 @@
       },
       {
         "name": "conf",
-        "total_seconds": 3993,
-        "text": "1h 6m",
+        "total_seconds": 4113,
+        "text": "1h 8m",
         "hours": 1,
-        "minutes": 6,
-        "percent": 0.26,
-        "digital": "01:06:33",
+        "minutes": 8,
+        "percent": 0.27,
+        "digital": "01:08:33",
         "color": "#888888"
       },
       {
