@@ -5,23 +5,23 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-04-08T13:06:45Z",
-    "end": "2026-04-08T23:59:59Z",
+    "start": "2016-04-09T01:43:28Z",
+    "end": "2026-04-09T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 1524594,
+    "total_seconds": 1526116,
     "daily_average": 417,
-    "human_readable_total": "423h 29m 54s",
+    "human_readable_total": "423h 55m 16s",
     "human_readable_daily_average": "6m 57s",
     "languages": [
       {
         "name": "C#",
-        "total_seconds": 772824,
-        "text": "214h 40m",
+        "total_seconds": 772944,
+        "text": "214h 42m",
         "hours": 214,
-        "minutes": 40,
-        "percent": 50.69,
-        "digital": "214:40:24",
+        "minutes": 42,
+        "percent": 50.65,
+        "digital": "214:42:24",
         "color": "#178600"
       },
       {
@@ -30,7 +30,7 @@
         "text": "29h 18m",
         "hours": 29,
         "minutes": 18,
-        "percent": 6.92,
+        "percent": 6.91,
         "digital": "29:18:25",
         "color": "#512be4"
       },
@@ -90,7 +90,7 @@
         "text": "15h 3m",
         "hours": 15,
         "minutes": 3,
-        "percent": 3.56,
+        "percent": 3.55,
         "digital": "15:03:21",
         "color": "#083fa1"
       },
@@ -150,7 +150,7 @@
         "text": "8h 34m",
         "hours": 8,
         "minutes": 34,
-        "percent": 2.03,
+        "percent": 2.02,
         "digital": "08:34:40",
         "color": "#888888"
       },
@@ -200,9 +200,19 @@
         "text": "6h 17m",
         "hours": 6,
         "minutes": 17,
-        "percent": 1.49,
+        "percent": 1.48,
         "digital": "06:17:33",
         "color": "#292929"
+      },
+      {
+        "name": "Lua",
+        "total_seconds": 22038,
+        "text": "6h 7m",
+        "hours": 6,
+        "minutes": 7,
+        "percent": 1.44,
+        "digital": "06:07:18",
+        "color": "#000080"
       },
       {
         "name": "F#",
@@ -223,16 +233,6 @@
         "percent": 1.36,
         "digital": "05:46:05",
         "color": "#888888"
-      },
-      {
-        "name": "Lua",
-        "total_seconds": 20584,
-        "text": "5h 43m",
-        "hours": 5,
-        "minutes": 43,
-        "percent": 1.35,
-        "digital": "05:43:04",
-        "color": "#000080"
       },
       {
         "name": "TypeScript JSX",
@@ -360,7 +360,7 @@
         "text": "1h 45m",
         "hours": 1,
         "minutes": 45,
-        "percent": 0.42,
+        "percent": 0.41,
         "digital": "01:45:29",
         "color": "#888888"
       },
@@ -380,7 +380,7 @@
         "text": "1h 35m",
         "hours": 1,
         "minutes": 35,
-        "percent": 0.38,
+        "percent": 0.37,
         "digital": "01:35:20",
         "color": "#888888"
       },
@@ -426,12 +426,12 @@
       },
       {
         "name": "conf",
-        "total_seconds": 4113,
-        "text": "1h 8m",
+        "total_seconds": 4171,
+        "text": "1h 9m",
         "hours": 1,
-        "minutes": 8,
+        "minutes": 9,
         "percent": 0.27,
-        "digital": "01:08:33",
+        "digital": "01:09:31",
         "color": "#888888"
       },
       {
