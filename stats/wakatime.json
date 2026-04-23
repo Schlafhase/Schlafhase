@@ -5,13 +5,13 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-04-22T13:12:39Z",
-    "end": "2026-04-22T23:59:59Z",
+    "start": "2016-04-23T02:00:55Z",
+    "end": "2026-04-23T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 1527316,
+    "total_seconds": 1527475,
     "daily_average": 418,
-    "human_readable_total": "424h 15m 16s",
+    "human_readable_total": "424h 17m 55s",
     "human_readable_daily_average": "6m 58s",
     "languages": [
       {
@@ -70,7 +70,7 @@
         "text": "17h 9m",
         "hours": 17,
         "minutes": 9,
-        "percent": 4.05,
+        "percent": 4.04,
         "digital": "17:09:44",
         "color": "#663399"
       },
@@ -426,12 +426,12 @@
       },
       {
         "name": "conf",
-        "total_seconds": 4171,
-        "text": "1h 9m",
+        "total_seconds": 4330,
+        "text": "1h 12m",
         "hours": 1,
-        "minutes": 9,
-        "percent": 0.27,
-        "digital": "01:09:31",
+        "minutes": 12,
+        "percent": 0.28,
+        "digital": "01:12:10",
         "color": "#888888"
       },
       {
