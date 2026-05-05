@@ -5,13 +5,13 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-05-04T13:27:37Z",
-    "end": "2026-05-04T23:59:59Z",
+    "start": "2016-05-05T02:09:01Z",
+    "end": "2026-05-05T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 1528556,
+    "total_seconds": 1528733,
     "daily_average": 418,
-    "human_readable_total": "424h 35m 56s",
+    "human_readable_total": "424h 38m 53s",
     "human_readable_daily_average": "6m 58s",
     "languages": [
       {
@@ -190,9 +190,19 @@
         "text": "6h 48m",
         "hours": 6,
         "minutes": 48,
-        "percent": 1.61,
+        "percent": 1.6,
         "digital": "06:48:56",
         "color": "#0060ac"
+      },
+      {
+        "name": "Lua",
+        "total_seconds": 22695,
+        "text": "6h 18m",
+        "hours": 6,
+        "minutes": 18,
+        "percent": 1.48,
+        "digital": "06:18:15",
+        "color": "#000080"
       },
       {
         "name": "JSON",
@@ -203,16 +213,6 @@
         "percent": 1.48,
         "digital": "06:17:33",
         "color": "#292929"
-      },
-      {
-        "name": "Lua",
-        "total_seconds": 22518,
-        "text": "6h 15m",
-        "hours": 6,
-        "minutes": 15,
-        "percent": 1.47,
-        "digital": "06:15:18",
-        "color": "#000080"
       },
       {
         "name": "F#",
