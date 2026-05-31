@@ -5,13 +5,13 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-05-31T02:47:50Z",
+    "start": "2016-05-31T13:22:16Z",
     "end": "2026-05-31T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 1536237,
+    "total_seconds": 1536799,
     "daily_average": 420,
-    "human_readable_total": "426h 43m 57s",
+    "human_readable_total": "426h 53m 19s",
     "human_readable_daily_average": "7m",
     "languages": [
       {
@@ -20,7 +20,7 @@
         "text": "214h 54m",
         "hours": 214,
         "minutes": 54,
-        "percent": 50.36,
+        "percent": 50.34,
         "digital": "214:54:07",
         "color": "#178600"
       },
@@ -86,12 +86,12 @@
       },
       {
         "name": "Markdown",
-        "total_seconds": 56608,
-        "text": "15h 43m",
+        "total_seconds": 57170,
+        "text": "15h 52m",
         "hours": 15,
-        "minutes": 43,
-        "percent": 3.68,
-        "digital": "15:43:28",
+        "minutes": 52,
+        "percent": 3.72,
+        "digital": "15:52:50",
         "color": "#083fa1"
       },
       {
@@ -110,7 +110,7 @@
         "text": "14h 14m",
         "hours": 14,
         "minutes": 14,
-        "percent": 3.34,
+        "percent": 3.33,
         "digital": "14:14:07",
         "color": "#44a51c"
       },
@@ -215,6 +215,16 @@
         "color": "#292929"
       },
       {
+        "name": "Other",
+        "total_seconds": 21342,
+        "text": "5h 55m",
+        "hours": 5,
+        "minutes": 55,
+        "percent": 1.39,
+        "digital": "05:55:42",
+        "color": "#888888"
+      },
+      {
         "name": "F#",
         "total_seconds": 21267,
         "text": "5h 54m",
@@ -223,16 +233,6 @@
         "percent": 1.38,
         "digital": "05:54:27",
         "color": "#b845fc"
-      },
-      {
-        "name": "Other",
-        "total_seconds": 21222,
-        "text": "5h 53m",
-        "hours": 5,
-        "minutes": 53,
-        "percent": 1.38,
-        "digital": "05:53:42",
-        "color": "#888888"
       },
       {
         "name": "TypeScript JSX",
@@ -645,6 +645,16 @@
         "color": "#888888"
       },
       {
+        "name": "pdf",
+        "total_seconds": 609,
+        "text": "10m",
+        "hours": 0,
+        "minutes": 10,
+        "percent": 0.04,
+        "digital": "00:10:09",
+        "color": "#888888"
+      },
+      {
         "name": "INI",
         "total_seconds": 592,
         "text": "9m",
@@ -673,16 +683,6 @@
         "percent": 0.03,
         "digital": "00:08:12",
         "color": "#384d54"
-      },
-      {
-        "name": "pdf",
-        "total_seconds": 489,
-        "text": "8m",
-        "hours": 0,
-        "minutes": 8,
-        "percent": 0.03,
-        "digital": "00:08:09",
-        "color": "#888888"
       },
       {
         "name": "Objective-C",
