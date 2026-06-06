@@ -5,13 +5,13 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-06-06T02:32:52Z",
+    "start": "2016-06-06T13:16:01Z",
     "end": "2026-06-06T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 1540301,
+    "total_seconds": 1540516,
     "daily_average": 421,
-    "human_readable_total": "427h 51m 41s",
+    "human_readable_total": "427h 55m 16s",
     "human_readable_daily_average": "7m 1s",
     "languages": [
       {
@@ -20,7 +20,7 @@
         "text": "214h 54m",
         "hours": 214,
         "minutes": 54,
-        "percent": 50.23,
+        "percent": 50.22,
         "digital": "214:54:07",
         "color": "#178600"
       },
@@ -166,12 +166,12 @@
       },
       {
         "name": "Lua",
-        "total_seconds": 27381,
-        "text": "7h 36m",
+        "total_seconds": 27596,
+        "text": "7h 39m",
         "hours": 7,
-        "minutes": 36,
-        "percent": 1.78,
-        "digital": "07:36:21",
+        "minutes": 39,
+        "percent": 1.79,
+        "digital": "07:39:56",
         "color": "#000080"
       },
       {
