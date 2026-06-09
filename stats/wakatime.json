@@ -5,13 +5,13 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-06-08T15:35:09Z",
-    "end": "2026-06-08T23:59:59Z",
+    "start": "2016-06-09T02:31:57Z",
+    "end": "2026-06-09T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 1561094,
+    "total_seconds": 1561842,
     "daily_average": 427,
-    "human_readable_total": "433h 38m 14s",
+    "human_readable_total": "433h 50m 42s",
     "human_readable_daily_average": "7m 7s",
     "languages": [
       {
@@ -20,7 +20,7 @@
         "text": "215h 51m",
         "hours": 215,
         "minutes": 51,
-        "percent": 49.78,
+        "percent": 49.76,
         "digital": "215:51:37",
         "color": "#178600"
       },
@@ -40,7 +40,7 @@
         "text": "24h 57m",
         "hours": 24,
         "minutes": 57,
-        "percent": 5.76,
+        "percent": 5.75,
         "digital": "24:57:49",
         "color": "#888888"
       },
@@ -120,7 +120,7 @@
         "text": "13h 41m",
         "hours": 13,
         "minutes": 41,
-        "percent": 3.16,
+        "percent": 3.15,
         "digital": "13:41:13",
         "color": "#3178c6"
       },
@@ -136,12 +136,12 @@
       },
       {
         "name": "Lua",
-        "total_seconds": 41761,
-        "text": "11h 36m",
+        "total_seconds": 42205,
+        "text": "11h 43m",
         "hours": 11,
-        "minutes": 36,
-        "percent": 2.68,
-        "digital": "11:36:01",
+        "minutes": 43,
+        "percent": 2.7,
+        "digital": "11:43:25",
         "color": "#000080"
       },
       {
@@ -406,12 +406,12 @@
       },
       {
         "name": "Nix",
-        "total_seconds": 4974,
-        "text": "1h 22m",
+        "total_seconds": 5278,
+        "text": "1h 27m",
         "hours": 1,
-        "minutes": 22,
-        "percent": 0.32,
-        "digital": "01:22:54",
+        "minutes": 27,
+        "percent": 0.34,
+        "digital": "01:27:58",
         "color": "#7e7eff"
       },
       {
@@ -440,7 +440,7 @@
         "text": "1h 14m",
         "hours": 1,
         "minutes": 14,
-        "percent": 0.29,
+        "percent": 0.28,
         "digital": "01:14:10",
         "color": "#888888"
       },
