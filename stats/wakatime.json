@@ -5,13 +5,13 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-06-09T14:33:06Z",
-    "end": "2026-06-09T23:59:59Z",
+    "start": "2016-06-10T02:45:30Z",
+    "end": "2026-06-10T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 1564357,
+    "total_seconds": 1564925,
     "daily_average": 428,
-    "human_readable_total": "434h 32m 37s",
+    "human_readable_total": "434h 42m 5s",
     "human_readable_daily_average": "7m 8s",
     "languages": [
       {
@@ -20,7 +20,7 @@
         "text": "215h 51m",
         "hours": 215,
         "minutes": 51,
-        "percent": 49.68,
+        "percent": 49.66,
         "digital": "215:51:37",
         "color": "#178600"
       },
@@ -50,7 +50,7 @@
         "text": "24h 11m",
         "hours": 24,
         "minutes": 11,
-        "percent": 5.57,
+        "percent": 5.56,
         "digital": "24:11:22",
         "color": "#3572A5"
       },
@@ -110,7 +110,7 @@
         "text": "14h 14m",
         "hours": 14,
         "minutes": 14,
-        "percent": 3.28,
+        "percent": 3.27,
         "digital": "14:14:07",
         "color": "#44a51c"
       },
@@ -266,12 +266,12 @@
       },
       {
         "name": "Nushell",
-        "total_seconds": 14422,
-        "text": "4h",
+        "total_seconds": 14590,
+        "text": "4h 3m",
         "hours": 4,
-        "minutes": 0,
-        "percent": 0.92,
-        "digital": "04:00:22",
+        "minutes": 3,
+        "percent": 0.93,
+        "digital": "04:03:10",
         "color": "#4E9906"
       },
       {
@@ -385,6 +385,16 @@
         "color": "#888888"
       },
       {
+        "name": "Nix",
+        "total_seconds": 5663,
+        "text": "1h 34m",
+        "hours": 1,
+        "minutes": 34,
+        "percent": 0.36,
+        "digital": "01:34:23",
+        "color": "#7e7eff"
+      },
+      {
         "name": "GLSL",
         "total_seconds": 5598,
         "text": "1h 33m",
@@ -403,16 +413,6 @@
         "percent": 0.36,
         "digital": "01:33:10",
         "color": "#9c4221"
-      },
-      {
-        "name": "Nix",
-        "total_seconds": 5383,
-        "text": "1h 29m",
-        "hours": 1,
-        "minutes": 29,
-        "percent": 0.34,
-        "digital": "01:29:43",
-        "color": "#7e7eff"
       },
       {
         "name": "Shell",
@@ -575,6 +575,16 @@
         "color": "#888888"
       },
       {
+        "name": "YAML",
+        "total_seconds": 994,
+        "text": "16m",
+        "hours": 0,
+        "minutes": 16,
+        "percent": 0.06,
+        "digital": "00:16:34",
+        "color": "#cb171e"
+      },
+      {
         "name": "Desktop file",
         "total_seconds": 970,
         "text": "16m",
@@ -593,16 +603,6 @@
         "percent": 0.06,
         "digital": "00:15:16",
         "color": "#000000"
-      },
-      {
-        "name": "YAML",
-        "total_seconds": 874,
-        "text": "14m",
-        "hours": 0,
-        "minutes": 14,
-        "percent": 0.06,
-        "digital": "00:14:34",
-        "color": "#cb171e"
       },
       {
         "name": "kitty",
