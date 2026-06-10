@@ -5,14 +5,14 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-06-10T02:45:30Z",
+    "start": "2016-06-10T14:59:44Z",
     "end": "2026-06-10T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 1564925,
-    "daily_average": 428,
-    "human_readable_total": "434h 42m 5s",
-    "human_readable_daily_average": "7m 8s",
+    "total_seconds": 1570024,
+    "daily_average": 429,
+    "human_readable_total": "436h 7m 4s",
+    "human_readable_daily_average": "7m 9s",
     "languages": [
       {
         "name": "C#",
@@ -20,7 +20,7 @@
         "text": "215h 51m",
         "hours": 215,
         "minutes": 51,
-        "percent": 49.66,
+        "percent": 49.5,
         "digital": "215:51:37",
         "color": "#178600"
       },
@@ -30,7 +30,7 @@
         "text": "29h 18m",
         "hours": 29,
         "minutes": 18,
-        "percent": 6.74,
+        "percent": 6.72,
         "digital": "29:18:25",
         "color": "#512be4"
       },
@@ -40,7 +40,7 @@
         "text": "24h 57m",
         "hours": 24,
         "minutes": 57,
-        "percent": 5.74,
+        "percent": 5.72,
         "digital": "24:57:49",
         "color": "#888888"
       },
@@ -50,7 +50,7 @@
         "text": "24h 11m",
         "hours": 24,
         "minutes": 11,
-        "percent": 5.56,
+        "percent": 5.55,
         "digital": "24:11:22",
         "color": "#3572A5"
       },
@@ -60,18 +60,18 @@
         "text": "21h 2m",
         "hours": 21,
         "minutes": 2,
-        "percent": 4.84,
+        "percent": 4.82,
         "digital": "21:02:16",
         "color": "#f1e05a"
       },
       {
         "name": "Go",
-        "total_seconds": 65296,
-        "text": "18h 8m",
-        "hours": 18,
-        "minutes": 8,
-        "percent": 4.17,
-        "digital": "18:08:16",
+        "total_seconds": 70300,
+        "text": "19h 31m",
+        "hours": 19,
+        "minutes": 31,
+        "percent": 4.48,
+        "digital": "19:31:40",
         "color": "#00ADD8"
       },
       {
@@ -80,7 +80,7 @@
         "text": "17h 41m",
         "hours": 17,
         "minutes": 41,
-        "percent": 4.07,
+        "percent": 4.06,
         "digital": "17:41:29",
         "color": "#663399"
       },
@@ -90,7 +90,7 @@
         "text": "15h 57m",
         "hours": 15,
         "minutes": 57,
-        "percent": 3.67,
+        "percent": 3.66,
         "digital": "15:57:17",
         "color": "#083fa1"
       },
@@ -100,7 +100,7 @@
         "text": "14h 19m",
         "hours": 14,
         "minutes": 19,
-        "percent": 3.3,
+        "percent": 3.29,
         "digital": "14:19:42",
         "color": "#3D6117"
       },
@@ -110,7 +110,7 @@
         "text": "14h 14m",
         "hours": 14,
         "minutes": 14,
-        "percent": 3.27,
+        "percent": 3.26,
         "digital": "14:14:07",
         "color": "#44a51c"
       },
@@ -120,7 +120,7 @@
         "text": "13h 41m",
         "hours": 13,
         "minutes": 41,
-        "percent": 3.15,
+        "percent": 3.14,
         "digital": "13:41:13",
         "color": "#3178c6"
       },
@@ -130,18 +130,18 @@
         "text": "12h 40m",
         "hours": 12,
         "minutes": 40,
-        "percent": 2.92,
+        "percent": 2.91,
         "digital": "12:40:48",
         "color": "#555555"
       },
       {
         "name": "Lua",
-        "total_seconds": 42205,
-        "text": "11h 43m",
+        "total_seconds": 42325,
+        "text": "11h 45m",
         "hours": 11,
-        "minutes": 43,
+        "minutes": 45,
         "percent": 2.7,
-        "digital": "11:43:25",
+        "digital": "11:45:25",
         "color": "#000080"
       },
       {
@@ -180,7 +180,7 @@
         "text": "7h 40m",
         "hours": 7,
         "minutes": 40,
-        "percent": 1.77,
+        "percent": 1.76,
         "digital": "07:40:29",
         "color": "#0060ac"
       },
@@ -200,7 +200,7 @@
         "text": "6h 48m",
         "hours": 6,
         "minutes": 48,
-        "percent": 1.57,
+        "percent": 1.56,
         "digital": "06:48:56",
         "color": "#0060ac"
       },
@@ -210,7 +210,7 @@
         "text": "6h 17m",
         "hours": 6,
         "minutes": 17,
-        "percent": 1.45,
+        "percent": 1.44,
         "digital": "06:17:33",
         "color": "#292929"
       },
@@ -260,18 +260,18 @@
         "text": "4h 6m",
         "hours": 4,
         "minutes": 6,
-        "percent": 0.95,
+        "percent": 0.94,
         "digital": "04:06:58",
         "color": "#888888"
       },
       {
         "name": "Nushell",
-        "total_seconds": 14590,
+        "total_seconds": 14625,
         "text": "4h 3m",
         "hours": 4,
         "minutes": 3,
         "percent": 0.93,
-        "digital": "04:03:10",
+        "digital": "04:03:45",
         "color": "#4E9906"
       },
       {
@@ -280,7 +280,7 @@
         "text": "3h 50m",
         "hours": 3,
         "minutes": 50,
-        "percent": 0.89,
+        "percent": 0.88,
         "digital": "03:50:53",
         "color": "#888888"
       },
@@ -290,7 +290,7 @@
         "text": "3h 43m",
         "hours": 3,
         "minutes": 43,
-        "percent": 0.86,
+        "percent": 0.85,
         "digital": "03:43:04",
         "color": "#888888"
       },
@@ -320,7 +320,7 @@
         "text": "3h 1m",
         "hours": 3,
         "minutes": 1,
-        "percent": 0.7,
+        "percent": 0.69,
         "digital": "03:01:22",
         "color": "#DA3434"
       },
@@ -380,18 +380,18 @@
         "text": "1h 35m",
         "hours": 1,
         "minutes": 35,
-        "percent": 0.37,
+        "percent": 0.36,
         "digital": "01:35:20",
         "color": "#888888"
       },
       {
         "name": "Nix",
-        "total_seconds": 5663,
+        "total_seconds": 5699,
         "text": "1h 34m",
         "hours": 1,
         "minutes": 34,
         "percent": 0.36,
-        "digital": "01:34:23",
+        "digital": "01:34:59",
         "color": "#7e7eff"
       },
       {
@@ -1135,7 +1135,7 @@
         "color": "#4aae47"
       }
     ],
-    "streak": 5
+    "streak": 6
   },
   "trust_factor": {
     "trust_level": "blue",
