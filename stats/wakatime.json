@@ -5,8 +5,8 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-06-13T13:44:15Z",
-    "end": "2026-06-13T23:59:59Z",
+    "start": "2016-06-14T02:55:56Z",
+    "end": "2026-06-14T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
     "total_seconds": 1576960,
@@ -435,14 +435,14 @@
         "color": "#ff9900"
       },
       {
-        "name": "conf",
+        "name": "INI",
         "total_seconds": 4450,
         "text": "1h 14m",
         "hours": 1,
         "minutes": 14,
         "percent": 0.28,
         "digital": "01:14:10",
-        "color": "#888888"
+        "color": "#d1dbe0"
       },
       {
         "name": "bigfile",
