@@ -5,13 +5,13 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-06-15T03:28:45Z",
+    "start": "2016-06-15T17:04:06Z",
     "end": "2026-06-15T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 1577936,
+    "total_seconds": 1580966,
     "daily_average": 432,
-    "human_readable_total": "438h 18m 56s",
+    "human_readable_total": "439h 9m 26s",
     "human_readable_daily_average": "7m 12s",
     "languages": [
       {
@@ -20,7 +20,7 @@
         "text": "215h 55m",
         "hours": 215,
         "minutes": 55,
-        "percent": 49.26,
+        "percent": 49.17,
         "digital": "215:55:37",
         "color": "#178600"
       },
@@ -30,7 +30,7 @@
         "text": "29h 18m",
         "hours": 29,
         "minutes": 18,
-        "percent": 6.69,
+        "percent": 6.67,
         "digital": "29:18:25",
         "color": "#512be4"
       },
@@ -40,7 +40,7 @@
         "text": "24h 57m",
         "hours": 24,
         "minutes": 57,
-        "percent": 5.7,
+        "percent": 5.68,
         "digital": "24:57:49",
         "color": "#888888"
       },
@@ -50,9 +50,19 @@
         "text": "24h 11m",
         "hours": 24,
         "minutes": 11,
-        "percent": 5.52,
+        "percent": 5.51,
         "digital": "24:11:22",
         "color": "#3572A5"
+      },
+      {
+        "name": "Go",
+        "total_seconds": 76590,
+        "text": "21h 16m",
+        "hours": 21,
+        "minutes": 16,
+        "percent": 4.84,
+        "digital": "21:16:30",
+        "color": "#00ADD8"
       },
       {
         "name": "JavaScript",
@@ -60,19 +70,9 @@
         "text": "21h 2m",
         "hours": 21,
         "minutes": 2,
-        "percent": 4.8,
+        "percent": 4.79,
         "digital": "21:02:16",
         "color": "#f1e05a"
-      },
-      {
-        "name": "Go",
-        "total_seconds": 73716,
-        "text": "20h 28m",
-        "hours": 20,
-        "minutes": 28,
-        "percent": 4.67,
-        "digital": "20:28:36",
-        "color": "#00ADD8"
       },
       {
         "name": "CSS",
@@ -80,7 +80,7 @@
         "text": "17h 41m",
         "hours": 17,
         "minutes": 41,
-        "percent": 4.04,
+        "percent": 4.03,
         "digital": "17:41:29",
         "color": "#663399"
       },
@@ -100,7 +100,7 @@
         "text": "14h 19m",
         "hours": 14,
         "minutes": 19,
-        "percent": 3.27,
+        "percent": 3.26,
         "digital": "14:19:42",
         "color": "#3D6117"
       },
@@ -110,7 +110,7 @@
         "text": "14h 14m",
         "hours": 14,
         "minutes": 14,
-        "percent": 3.25,
+        "percent": 3.24,
         "digital": "14:14:07",
         "color": "#44a51c"
       },
@@ -140,7 +140,7 @@
         "text": "11h 48m",
         "hours": 11,
         "minutes": 48,
-        "percent": 2.7,
+        "percent": 2.69,
         "digital": "11:48:57",
         "color": "#000080"
       },
@@ -160,7 +160,7 @@
         "text": "8h 34m",
         "hours": 8,
         "minutes": 34,
-        "percent": 1.96,
+        "percent": 1.95,
         "digital": "08:34:40",
         "color": "#888888"
       },
@@ -170,7 +170,7 @@
         "text": "8h 8m",
         "hours": 8,
         "minutes": 8,
-        "percent": 1.86,
+        "percent": 1.85,
         "digital": "08:08:12",
         "color": "#e34c26"
       },
@@ -210,7 +210,7 @@
         "text": "6h 17m",
         "hours": 6,
         "minutes": 17,
-        "percent": 1.44,
+        "percent": 1.43,
         "digital": "06:17:33",
         "color": "#292929"
       },
@@ -346,12 +346,12 @@
       },
       {
         "name": "Nix",
-        "total_seconds": 8882,
-        "text": "2h 28m",
+        "total_seconds": 9065,
+        "text": "2h 31m",
         "hours": 2,
-        "minutes": 28,
-        "percent": 0.56,
-        "digital": "02:28:02",
+        "minutes": 31,
+        "percent": 0.57,
+        "digital": "02:31:05",
         "color": "#7e7eff"
       },
       {
@@ -1135,7 +1135,7 @@
         "color": "#888888"
       }
     ],
-    "streak": 2
+    "streak": 3
   },
   "trust_factor": {
     "trust_level": "blue",
