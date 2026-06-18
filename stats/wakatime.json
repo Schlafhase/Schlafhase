@@ -5,13 +5,13 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-06-18T02:52:51Z",
+    "start": "2016-06-18T14:52:38Z",
     "end": "2026-06-18T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 1589873,
+    "total_seconds": 1591926,
     "daily_average": 435,
-    "human_readable_total": "441h 37m 53s",
+    "human_readable_total": "442h 12m 6s",
     "human_readable_daily_average": "7m 15s",
     "languages": [
       {
@@ -20,7 +20,7 @@
         "text": "215h 55m",
         "hours": 215,
         "minutes": 55,
-        "percent": 48.89,
+        "percent": 48.83,
         "digital": "215:55:37",
         "color": "#178600"
       },
@@ -30,7 +30,7 @@
         "text": "29h 18m",
         "hours": 29,
         "minutes": 18,
-        "percent": 6.64,
+        "percent": 6.63,
         "digital": "29:18:25",
         "color": "#512be4"
       },
@@ -50,18 +50,18 @@
         "text": "24h 11m",
         "hours": 24,
         "minutes": 11,
-        "percent": 5.48,
+        "percent": 5.47,
         "digital": "24:11:22",
         "color": "#3572A5"
       },
       {
         "name": "Go",
-        "total_seconds": 81148,
-        "text": "22h 32m",
+        "total_seconds": 81912,
+        "text": "22h 45m",
         "hours": 22,
-        "minutes": 32,
-        "percent": 5.1,
-        "digital": "22:32:28",
+        "minutes": 45,
+        "percent": 5.15,
+        "digital": "22:45:12",
         "color": "#00ADD8"
       },
       {
@@ -70,7 +70,7 @@
         "text": "22h 14m",
         "hours": 22,
         "minutes": 14,
-        "percent": 5.04,
+        "percent": 5.03,
         "digital": "22:14:14",
         "color": "#f1e05a"
       },
@@ -80,18 +80,18 @@
         "text": "17h 41m",
         "hours": 17,
         "minutes": 41,
-        "percent": 4.01,
+        "percent": 4.0,
         "digital": "17:41:29",
         "color": "#663399"
       },
       {
         "name": "Markdown",
-        "total_seconds": 60002,
-        "text": "16h 40m",
+        "total_seconds": 60749,
+        "text": "16h 52m",
         "hours": 16,
-        "minutes": 40,
-        "percent": 3.77,
-        "digital": "16:40:02",
+        "minutes": 52,
+        "percent": 3.82,
+        "digital": "16:52:29",
         "color": "#083fa1"
       },
       {
@@ -140,7 +140,7 @@
         "text": "11h 48m",
         "hours": 11,
         "minutes": 48,
-        "percent": 2.68,
+        "percent": 2.67,
         "digital": "11:48:57",
         "color": "#000080"
       },
@@ -150,7 +150,7 @@
         "text": "9h 37m",
         "hours": 9,
         "minutes": 37,
-        "percent": 2.18,
+        "percent": 2.17,
         "digital": "09:37:01",
         "color": "#f34b7d"
       },
@@ -160,7 +160,7 @@
         "text": "8h 35m",
         "hours": 8,
         "minutes": 35,
-        "percent": 1.95,
+        "percent": 1.94,
         "digital": "08:35:38",
         "color": "#e34c26"
       },
@@ -335,6 +335,16 @@
         "color": "#888888"
       },
       {
+        "name": "Nix",
+        "total_seconds": 9442,
+        "text": "2h 37m",
+        "hours": 2,
+        "minutes": 37,
+        "percent": 0.59,
+        "digital": "02:37:22",
+        "color": "#7e7eff"
+      },
+      {
         "name": "F#",
         "total_seconds": 9206,
         "text": "2h 33m",
@@ -343,16 +353,6 @@
         "percent": 0.58,
         "digital": "02:33:26",
         "color": "#b845fc"
-      },
-      {
-        "name": "Nix",
-        "total_seconds": 9065,
-        "text": "2h 31m",
-        "hours": 2,
-        "minutes": 31,
-        "percent": 0.57,
-        "digital": "02:31:05",
-        "color": "#7e7eff"
       },
       {
         "name": "Typst",
@@ -725,7 +725,7 @@
         "color": "#888888"
       },
       {
-        "name": "DockerIgnore file",
+        "name": "JET_CLIENT_TEXT",
         "total_seconds": 360,
         "text": "6m",
         "hours": 0,
@@ -735,7 +735,7 @@
         "color": "#888888"
       },
       {
-        "name": "JET_CLIENT_TEXT",
+        "name": "DockerIgnore file",
         "total_seconds": 360,
         "text": "6m",
         "hours": 0,
@@ -825,6 +825,36 @@
         "color": "#012456"
       },
       {
+        "name": "SQL",
+        "total_seconds": 120,
+        "text": "2m",
+        "hours": 0,
+        "minutes": 2,
+        "percent": 0.01,
+        "digital": "00:02:00",
+        "color": "#e38c00"
+      },
+      {
+        "name": "PacmanConf",
+        "total_seconds": 120,
+        "text": "2m",
+        "hours": 0,
+        "minutes": 2,
+        "percent": 0.01,
+        "digital": "00:02:00",
+        "color": "#888888"
+      },
+      {
+        "name": "LinkerScript",
+        "total_seconds": 120,
+        "text": "2m",
+        "hours": 0,
+        "minutes": 2,
+        "percent": 0.01,
+        "digital": "00:02:00",
+        "color": "#888888"
+      },
+      {
         "name": "Assembly",
         "total_seconds": 120,
         "text": "2m",
@@ -845,37 +875,17 @@
         "color": "#89e051"
       },
       {
-        "name": "IDEA_MODULE",
-        "total_seconds": 120,
-        "text": "2m",
-        "hours": 0,
-        "minutes": 2,
-        "percent": 0.01,
-        "digital": "00:02:00",
-        "color": "#888888"
-      },
-      {
-        "name": "LinkerScript",
-        "total_seconds": 120,
-        "text": "2m",
-        "hours": 0,
-        "minutes": 2,
-        "percent": 0.01,
-        "digital": "00:02:00",
-        "color": "#888888"
-      },
-      {
-        "name": "PacmanConf",
-        "total_seconds": 120,
-        "text": "2m",
-        "hours": 0,
-        "minutes": 2,
-        "percent": 0.01,
-        "digital": "00:02:00",
-        "color": "#888888"
-      },
-      {
         "name": "Public Key",
+        "total_seconds": 120,
+        "text": "2m",
+        "hours": 0,
+        "minutes": 2,
+        "percent": 0.01,
+        "digital": "00:02:00",
+        "color": "#888888"
+      },
+      {
+        "name": "IDEA_MODULE",
         "total_seconds": 120,
         "text": "2m",
         "hours": 0,
@@ -895,16 +905,6 @@
         "color": "#888888"
       },
       {
-        "name": "tera",
-        "total_seconds": 67,
-        "text": "1m",
-        "hours": 0,
-        "minutes": 1,
-        "percent": 0.0,
-        "digital": "00:01:07",
-        "color": "#888888"
-      },
-      {
         "name": "Shell",
         "total_seconds": 67,
         "text": "1m",
@@ -913,6 +913,16 @@
         "percent": 0.0,
         "digital": "00:01:07",
         "color": "#89e051"
+      },
+      {
+        "name": "tera",
+        "total_seconds": 67,
+        "text": "1m",
+        "hours": 0,
+        "minutes": 1,
+        "percent": 0.0,
+        "digital": "00:01:07",
+        "color": "#888888"
       },
       {
         "name": "gosum",
@@ -935,7 +945,7 @@
         "color": "#888888"
       },
       {
-        "name": "gomod",
+        "name": "UnityYaml",
         "total_seconds": 14,
         "text": "0m",
         "hours": 0,
@@ -945,7 +955,7 @@
         "color": "#888888"
       },
       {
-        "name": "UnityYaml",
+        "name": "gomod",
         "total_seconds": 14,
         "text": "0m",
         "hours": 0,
@@ -995,17 +1005,7 @@
         "color": "#888888"
       },
       {
-        "name": "fish",
-        "total_seconds": 0,
-        "text": "0m",
-        "hours": 0,
-        "minutes": 0,
-        "percent": 0.0,
-        "digital": "00:00:00",
-        "color": "#4aae47"
-      },
-      {
-        "name": "scdoc",
+        "name": "Project file properties",
         "total_seconds": 0,
         "text": "0m",
         "hours": 0,
@@ -1013,26 +1013,6 @@
         "percent": 0.0,
         "digital": "00:00:00",
         "color": "#888888"
-      },
-      {
-        "name": "Java Properties",
-        "total_seconds": 0,
-        "text": "0m",
-        "hours": 0,
-        "minutes": 0,
-        "percent": 0.0,
-        "digital": "00:00:00",
-        "color": "#2A6277"
-      },
-      {
-        "name": "Classic ASP",
-        "total_seconds": 0,
-        "text": "0m",
-        "hours": 0,
-        "minutes": 0,
-        "percent": 0.0,
-        "digital": "00:00:00",
-        "color": "#6a40fd"
       },
       {
         "name": "PythonStub",
@@ -1045,7 +1025,27 @@
         "color": "#888888"
       },
       {
-        "name": "nvumi",
+        "name": "fish",
+        "total_seconds": 0,
+        "text": "0m",
+        "hours": 0,
+        "minutes": 0,
+        "percent": 0.0,
+        "digital": "00:00:00",
+        "color": "#4aae47"
+      },
+      {
+        "name": "Classic ASP",
+        "total_seconds": 0,
+        "text": "0m",
+        "hours": 0,
+        "minutes": 0,
+        "percent": 0.0,
+        "digital": "00:00:00",
+        "color": "#6a40fd"
+      },
+      {
+        "name": "Resources",
         "total_seconds": 0,
         "text": "0m",
         "hours": 0,
@@ -1055,7 +1055,17 @@
         "color": "#888888"
       },
       {
-        "name": "Resources",
+        "name": "scdoc",
+        "total_seconds": 0,
+        "text": "0m",
+        "hours": 0,
+        "minutes": 0,
+        "percent": 0.0,
+        "digital": "00:00:00",
+        "color": "#888888"
+      },
+      {
+        "name": "PkgConfig",
         "total_seconds": 0,
         "text": "0m",
         "hours": 0,
@@ -1085,6 +1095,16 @@
         "color": "#199f4b"
       },
       {
+        "name": "Java Properties",
+        "total_seconds": 0,
+        "text": "0m",
+        "hours": 0,
+        "minutes": 0,
+        "percent": 0.0,
+        "digital": "00:00:00",
+        "color": "#2A6277"
+      },
+      {
         "name": "checkhealth",
         "total_seconds": 0,
         "text": "0m",
@@ -1105,16 +1125,6 @@
         "color": "#888888"
       },
       {
-        "name": "PkgConfig",
-        "total_seconds": 0,
-        "text": "0m",
-        "hours": 0,
-        "minutes": 0,
-        "percent": 0.0,
-        "digital": "00:00:00",
-        "color": "#888888"
-      },
-      {
         "name": "Cookie storage file",
         "total_seconds": 0,
         "text": "0m",
@@ -1125,7 +1135,7 @@
         "color": "#888888"
       },
       {
-        "name": "Project file properties",
+        "name": "nvumi",
         "total_seconds": 0,
         "text": "0m",
         "hours": 0,
@@ -1135,7 +1145,7 @@
         "color": "#888888"
       }
     ],
-    "streak": 5
+    "streak": 6
   },
   "trust_factor": {
     "trust_level": "blue",
