@@ -5,13 +5,13 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-06-30T14:03:36Z",
-    "end": "2026-06-30T23:59:59Z",
+    "start": "2016-07-01T02:48:22Z",
+    "end": "2026-07-01T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 1625777,
+    "total_seconds": 1626017,
     "daily_average": 445,
-    "human_readable_total": "451h 36m 17s",
+    "human_readable_total": "451h 40m 17s",
     "human_readable_daily_average": "7m 25s",
     "languages": [
       {
@@ -56,12 +56,12 @@
       },
       {
         "name": "JavaScript",
-        "total_seconds": 85500,
-        "text": "23h 45m",
+        "total_seconds": 85740,
+        "text": "23h 49m",
         "hours": 23,
-        "minutes": 45,
-        "percent": 5.26,
-        "digital": "23:45:00",
+        "minutes": 49,
+        "percent": 5.27,
+        "digital": "23:49:00",
         "color": "#f1e05a"
       },
       {
@@ -1165,7 +1165,7 @@
         "color": "#888888"
       }
     ],
-    "streak": 4
+    "streak": 0
   },
   "trust_factor": {
     "trust_level": "blue",
