@@ -5,13 +5,13 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-07-05T02:27:38Z",
+    "start": "2016-07-05T13:16:12Z",
     "end": "2026-07-05T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 1626017,
+    "total_seconds": 1626155,
     "daily_average": 445,
-    "human_readable_total": "451h 40m 17s",
+    "human_readable_total": "451h 42m 35s",
     "human_readable_daily_average": "7m 25s",
     "languages": [
       {
@@ -20,7 +20,7 @@
         "text": "219h 21m",
         "hours": 219,
         "minutes": 21,
-        "percent": 48.57,
+        "percent": 48.56,
         "digital": "219:21:45",
         "color": "#178600"
       },
@@ -570,9 +570,19 @@
         "text": "17m",
         "hours": 0,
         "minutes": 17,
-        "percent": 0.07,
+        "percent": 0.06,
         "digital": "00:17:37",
         "color": "#888888"
+      },
+      {
+        "name": "Ignore List",
+        "total_seconds": 1054,
+        "text": "17m",
+        "hours": 0,
+        "minutes": 17,
+        "percent": 0.06,
+        "digital": "00:17:34",
+        "color": "#000000"
       },
       {
         "name": "YAML",
@@ -593,16 +603,6 @@
         "percent": 0.06,
         "digital": "00:16:10",
         "color": "#888888"
-      },
-      {
-        "name": "Ignore List",
-        "total_seconds": 916,
-        "text": "15m",
-        "hours": 0,
-        "minutes": 15,
-        "percent": 0.06,
-        "digital": "00:15:16",
-        "color": "#000000"
       },
       {
         "name": "kitty",
