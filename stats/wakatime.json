@@ -5,13 +5,13 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-07-07T14:13:21Z",
-    "end": "2026-07-07T23:59:59Z",
+    "start": "2016-07-08T02:01:47Z",
+    "end": "2026-07-08T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 1640418,
+    "total_seconds": 1640744,
     "daily_average": 449,
-    "human_readable_total": "455h 40m 18s",
+    "human_readable_total": "455h 45m 44s",
     "human_readable_daily_average": "7m 29s",
     "languages": [
       {
@@ -20,7 +20,7 @@
         "text": "219h 21m",
         "hours": 219,
         "minutes": 21,
-        "percent": 48.14,
+        "percent": 48.13,
         "digital": "219:21:45",
         "color": "#178600"
       },
@@ -76,12 +76,12 @@
       },
       {
         "name": "Markdown",
-        "total_seconds": 73385,
-        "text": "20h 23m",
+        "total_seconds": 73711,
+        "text": "20h 28m",
         "hours": 20,
-        "minutes": 23,
-        "percent": 4.47,
-        "digital": "20:23:05",
+        "minutes": 28,
+        "percent": 4.49,
+        "digital": "20:28:31",
         "color": "#083fa1"
       },
       {
@@ -90,7 +90,7 @@
         "text": "17h 53m",
         "hours": 17,
         "minutes": 53,
-        "percent": 3.93,
+        "percent": 3.92,
         "digital": "17:53:18",
         "color": "#663399"
       },
@@ -1175,7 +1175,7 @@
         "color": "#888888"
       }
     ],
-    "streak": 2
+    "streak": 0
   },
   "trust_factor": {
     "trust_level": "blue",
