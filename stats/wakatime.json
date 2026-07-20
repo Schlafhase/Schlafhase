@@ -5,13 +5,13 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-07-20T02:21:59Z",
+    "start": "2016-07-20T13:52:12Z",
     "end": "2026-07-20T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 1809749,
+    "total_seconds": 1810422,
     "daily_average": 495,
-    "human_readable_total": "502h 42m 29s",
+    "human_readable_total": "502h 53m 42s",
     "human_readable_daily_average": "8m 15s",
     "languages": [
       {
@@ -20,7 +20,7 @@
         "text": "238h 57m",
         "hours": 238,
         "minutes": 57,
-        "percent": 47.53,
+        "percent": 47.52,
         "digital": "238:57:23",
         "color": "#178600"
       },
@@ -60,7 +60,7 @@
         "text": "24h 57m",
         "hours": 24,
         "minutes": 57,
-        "percent": 4.97,
+        "percent": 4.96,
         "digital": "24:57:49",
         "color": "#888888"
       },
@@ -80,7 +80,7 @@
         "text": "24h 9m",
         "hours": 24,
         "minutes": 9,
-        "percent": 4.81,
+        "percent": 4.8,
         "digital": "24:09:26",
         "color": "#f1e05a"
       },
@@ -90,7 +90,7 @@
         "text": "22h 45m",
         "hours": 22,
         "minutes": 45,
-        "percent": 4.53,
+        "percent": 4.52,
         "digital": "22:45:12",
         "color": "#00ADD8"
       },
@@ -120,7 +120,7 @@
         "text": "14h 42m",
         "hours": 14,
         "minutes": 42,
-        "percent": 2.93,
+        "percent": 2.92,
         "digital": "14:42:26",
         "color": "#555555"
       },
@@ -190,7 +190,7 @@
         "text": "7h 25m",
         "hours": 7,
         "minutes": 25,
-        "percent": 1.48,
+        "percent": 1.47,
         "digital": "07:25:00",
         "color": "#0060ac"
       },
@@ -205,6 +205,16 @@
         "color": "#888888"
       },
       {
+        "name": "Other",
+        "total_seconds": 26384,
+        "text": "7h 19m",
+        "hours": 7,
+        "minutes": 19,
+        "percent": 1.46,
+        "digital": "07:19:44",
+        "color": "#888888"
+      },
+      {
         "name": "JSON",
         "total_seconds": 26271,
         "text": "7h 17m",
@@ -213,16 +223,6 @@
         "percent": 1.45,
         "digital": "07:17:51",
         "color": "#292929"
-      },
-      {
-        "name": "Other",
-        "total_seconds": 26264,
-        "text": "7h 17m",
-        "hours": 7,
-        "minutes": 17,
-        "percent": 1.45,
-        "digital": "07:17:44",
-        "color": "#888888"
       },
       {
         "name": "YAML",
@@ -335,6 +335,16 @@
         "color": "#dea584"
       },
       {
+        "name": "CMake",
+        "total_seconds": 11566,
+        "text": "3h 12m",
+        "hours": 3,
+        "minutes": 12,
+        "percent": 0.64,
+        "digital": "03:12:46",
+        "color": "#DA3434"
+      },
+      {
         "name": "Csproj",
         "total_seconds": 11482,
         "text": "3h 11m",
@@ -343,16 +353,6 @@
         "percent": 0.63,
         "digital": "03:11:22",
         "color": "#888888"
-      },
-      {
-        "name": "CMake",
-        "total_seconds": 11013,
-        "text": "3h 3m",
-        "hours": 3,
-        "minutes": 3,
-        "percent": 0.61,
-        "digital": "03:03:33",
-        "color": "#DA3434"
       },
       {
         "name": "GitIgnore file",
