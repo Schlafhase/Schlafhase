@@ -5,23 +5,23 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-07-22T01:58:18Z",
+    "start": "2016-07-22T13:26:37Z",
     "end": "2026-07-22T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 1835098,
+    "total_seconds": 1836882,
     "daily_average": 502,
-    "human_readable_total": "509h 44m 58s",
+    "human_readable_total": "510h 14m 42s",
     "human_readable_daily_average": "8m 22s",
     "languages": [
       {
         "name": "C#",
-        "total_seconds": 862937,
-        "text": "239h 42m",
-        "hours": 239,
-        "minutes": 42,
-        "percent": 47.02,
-        "digital": "239:42:17",
+        "total_seconds": 864223,
+        "text": "240h 3m",
+        "hours": 240,
+        "minutes": 3,
+        "percent": 47.05,
+        "digital": "240:03:43",
         "color": "#178600"
       },
       {
@@ -36,12 +36,12 @@
       },
       {
         "name": "Markdown",
-        "total_seconds": 106386,
-        "text": "29h 33m",
+        "total_seconds": 106626,
+        "text": "29h 37m",
         "hours": 29,
-        "minutes": 33,
+        "minutes": 37,
         "percent": 5.8,
-        "digital": "29:33:06",
+        "digital": "29:37:06",
         "color": "#083fa1"
       },
       {
@@ -50,7 +50,7 @@
         "text": "29h 18m",
         "hours": 29,
         "minutes": 18,
-        "percent": 5.75,
+        "percent": 5.74,
         "digital": "29:18:25",
         "color": "#512be4"
       },
@@ -60,7 +60,7 @@
         "text": "24h 57m",
         "hours": 24,
         "minutes": 57,
-        "percent": 4.9,
+        "percent": 4.89,
         "digital": "24:57:49",
         "color": "#888888"
       },
@@ -80,7 +80,7 @@
         "text": "24h 9m",
         "hours": 24,
         "minutes": 9,
-        "percent": 4.74,
+        "percent": 4.73,
         "digital": "24:09:26",
         "color": "#f1e05a"
       },
@@ -100,18 +100,18 @@
         "text": "19h 51m",
         "hours": 19,
         "minutes": 51,
-        "percent": 3.9,
+        "percent": 3.89,
         "digital": "19:51:35",
         "color": "#663399"
       },
       {
         "name": "Lua",
-        "total_seconds": 64706,
-        "text": "17h 58m",
-        "hours": 17,
-        "minutes": 58,
+        "total_seconds": 64877,
+        "text": "18h 1m",
+        "hours": 18,
+        "minutes": 1,
         "percent": 3.53,
-        "digital": "17:58:26",
+        "digital": "18:01:17",
         "color": "#000080"
       },
       {
@@ -440,7 +440,7 @@
         "text": "1h 33m",
         "hours": 1,
         "minutes": 33,
-        "percent": 0.31,
+        "percent": 0.3,
         "digital": "01:33:18",
         "color": "#5686a5"
       },
@@ -515,6 +515,16 @@
         "color": "#888888"
       },
       {
+        "name": "kitty",
+        "total_seconds": 1984,
+        "text": "33m",
+        "hours": 0,
+        "minutes": 33,
+        "percent": 0.11,
+        "digital": "00:33:04",
+        "color": "#888888"
+      },
+      {
         "name": "Config",
         "total_seconds": 1792,
         "text": "29m",
@@ -562,16 +572,6 @@
         "minutes": 25,
         "percent": 0.08,
         "digital": "00:25:14",
-        "color": "#888888"
-      },
-      {
-        "name": "kitty",
-        "total_seconds": 1475,
-        "text": "24m",
-        "hours": 0,
-        "minutes": 24,
-        "percent": 0.08,
-        "digital": "00:24:35",
         "color": "#888888"
       },
       {
@@ -935,16 +935,6 @@
         "color": "#888888"
       },
       {
-        "name": "tera",
-        "total_seconds": 67,
-        "text": "1m",
-        "hours": 0,
-        "minutes": 1,
-        "percent": 0.0,
-        "digital": "00:01:07",
-        "color": "#888888"
-      },
-      {
         "name": "Shell",
         "total_seconds": 67,
         "text": "1m",
@@ -953,6 +943,16 @@
         "percent": 0.0,
         "digital": "00:01:07",
         "color": "#89e051"
+      },
+      {
+        "name": "tera",
+        "total_seconds": 67,
+        "text": "1m",
+        "hours": 0,
+        "minutes": 1,
+        "percent": 0.0,
+        "digital": "00:01:07",
+        "color": "#888888"
       },
       {
         "name": "gosum",
@@ -1195,16 +1195,6 @@
         "color": "#888888"
       },
       {
-        "name": "JSON",
-        "total_seconds": 0,
-        "text": "0m",
-        "hours": 0,
-        "minutes": 0,
-        "percent": 0.0,
-        "digital": "00:00:00",
-        "color": "#292929"
-      },
-      {
         "name": "nvumi",
         "total_seconds": 0,
         "text": "0m",
@@ -1213,6 +1203,16 @@
         "percent": 0.0,
         "digital": "00:00:00",
         "color": "#888888"
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 0,
+        "text": "0m",
+        "hours": 0,
+        "minutes": 0,
+        "percent": 0.0,
+        "digital": "00:00:00",
+        "color": "#292929"
       }
     ],
     "streak": 9
