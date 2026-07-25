@@ -5,23 +5,23 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-07-25T02:01:08Z",
+    "start": "2016-07-25T13:07:31Z",
     "end": "2026-07-25T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 1883474,
-    "daily_average": 515,
-    "human_readable_total": "523h 11m 14s",
-    "human_readable_daily_average": "8m 35s",
+    "total_seconds": 1885573,
+    "daily_average": 516,
+    "human_readable_total": "523h 46m 13s",
+    "human_readable_daily_average": "8m 36s",
     "languages": [
       {
         "name": "C#",
-        "total_seconds": 899532,
-        "text": "249h 52m",
-        "hours": 249,
-        "minutes": 52,
-        "percent": 47.76,
-        "digital": "249:52:12",
+        "total_seconds": 901297,
+        "text": "250h 21m",
+        "hours": 250,
+        "minutes": 21,
+        "percent": 47.8,
+        "digital": "250:21:37",
         "color": "#178600"
       },
       {
@@ -30,18 +30,18 @@
         "text": "31h 15m",
         "hours": 31,
         "minutes": 15,
-        "percent": 5.98,
+        "percent": 5.97,
         "digital": "31:15:47",
         "color": "#3178c6"
       },
       {
         "name": "Markdown",
-        "total_seconds": 109105,
-        "text": "30h 18m",
+        "total_seconds": 109225,
+        "text": "30h 20m",
         "hours": 30,
-        "minutes": 18,
+        "minutes": 20,
         "percent": 5.79,
-        "digital": "30:18:25",
+        "digital": "30:20:25",
         "color": "#083fa1"
       },
       {
@@ -70,7 +70,7 @@
         "text": "24h 43m",
         "hours": 24,
         "minutes": 43,
-        "percent": 4.73,
+        "percent": 4.72,
         "digital": "24:43:49",
         "color": "#3572A5"
       },
@@ -80,7 +80,7 @@
         "text": "24h 9m",
         "hours": 24,
         "minutes": 9,
-        "percent": 4.62,
+        "percent": 4.61,
         "digital": "24:09:26",
         "color": "#f1e05a"
       },
@@ -90,7 +90,7 @@
         "text": "22h 45m",
         "hours": 22,
         "minutes": 45,
-        "percent": 4.35,
+        "percent": 4.34,
         "digital": "22:45:12",
         "color": "#00ADD8"
       },
@@ -100,18 +100,18 @@
         "text": "19h 51m",
         "hours": 19,
         "minutes": 51,
-        "percent": 3.8,
+        "percent": 3.79,
         "digital": "19:51:35",
         "color": "#663399"
       },
       {
         "name": "Lua",
-        "total_seconds": 64877,
-        "text": "18h 1m",
+        "total_seconds": 65297,
+        "text": "18h 8m",
         "hours": 18,
-        "minutes": 1,
-        "percent": 3.44,
-        "digital": "18:01:17",
+        "minutes": 8,
+        "percent": 3.46,
+        "digital": "18:08:17",
         "color": "#000080"
       },
       {
@@ -340,7 +340,7 @@
         "text": "3h 13m",
         "hours": 3,
         "minutes": 13,
-        "percent": 0.62,
+        "percent": 0.61,
         "digital": "03:13:10",
         "color": "#dea584"
       },
@@ -386,12 +386,12 @@
       },
       {
         "name": "INI",
-        "total_seconds": 6857,
-        "text": "1h 54m",
+        "total_seconds": 6999,
+        "text": "1h 56m",
         "hours": 1,
-        "minutes": 54,
-        "percent": 0.36,
-        "digital": "01:54:17",
+        "minutes": 56,
+        "percent": 0.37,
+        "digital": "01:56:39",
         "color": "#d1dbe0"
       },
       {
@@ -855,26 +855,6 @@
         "color": "#012456"
       },
       {
-        "name": "Assembly",
-        "total_seconds": 120,
-        "text": "2m",
-        "hours": 0,
-        "minutes": 2,
-        "percent": 0.01,
-        "digital": "00:02:00",
-        "color": "#6E4C13"
-      },
-      {
-        "name": "SQL",
-        "total_seconds": 120,
-        "text": "2m",
-        "hours": 0,
-        "minutes": 2,
-        "percent": 0.01,
-        "digital": "00:02:00",
-        "color": "#e38c00"
-      },
-      {
         "name": "Shell",
         "total_seconds": 120,
         "text": "2m",
@@ -883,6 +863,16 @@
         "percent": 0.01,
         "digital": "00:02:00",
         "color": "#89e051"
+      },
+      {
+        "name": "Assembly",
+        "total_seconds": 120,
+        "text": "2m",
+        "hours": 0,
+        "minutes": 2,
+        "percent": 0.01,
+        "digital": "00:02:00",
+        "color": "#6E4C13"
       },
       {
         "name": "IDEA_MODULE",
@@ -903,6 +893,16 @@
         "percent": 0.01,
         "digital": "00:02:00",
         "color": "#888888"
+      },
+      {
+        "name": "SQL",
+        "total_seconds": 120,
+        "text": "2m",
+        "hours": 0,
+        "minutes": 2,
+        "percent": 0.01,
+        "digital": "00:02:00",
+        "color": "#e38c00"
       },
       {
         "name": "PacmanConf",
@@ -975,7 +975,7 @@
         "color": "#888888"
       },
       {
-        "name": "gomod",
+        "name": "UnityYaml",
         "total_seconds": 14,
         "text": "0m",
         "hours": 0,
@@ -985,7 +985,7 @@
         "color": "#888888"
       },
       {
-        "name": "UnityYaml",
+        "name": "gomod",
         "total_seconds": 14,
         "text": "0m",
         "hours": 0,
@@ -1035,6 +1035,26 @@
         "color": "#888888"
       },
       {
+        "name": "PkgConfig",
+        "total_seconds": 0,
+        "text": "0m",
+        "hours": 0,
+        "minutes": 0,
+        "percent": 0.0,
+        "digital": "00:00:00",
+        "color": "#888888"
+      },
+      {
+        "name": "Git Attributes",
+        "total_seconds": 0,
+        "text": "0m",
+        "hours": 0,
+        "minutes": 0,
+        "percent": 0.0,
+        "digital": "00:00:00",
+        "color": "#F44D27"
+      },
+      {
         "name": "Classic ASP",
         "total_seconds": 0,
         "text": "0m",
@@ -1045,27 +1065,7 @@
         "color": "#6a40fd"
       },
       {
-        "name": "Ninja",
-        "total_seconds": 0,
-        "text": "0m",
-        "hours": 0,
-        "minutes": 0,
-        "percent": 0.0,
-        "digital": "00:00:00",
-        "color": "#888888"
-      },
-      {
-        "name": "Assembly",
-        "total_seconds": 0,
-        "text": "0m",
-        "hours": 0,
-        "minutes": 0,
-        "percent": 0.0,
-        "digital": "00:00:00",
-        "color": "#6E4C13"
-      },
-      {
-        "name": "nvumi",
+        "name": "proc",
         "total_seconds": 0,
         "text": "0m",
         "hours": 0,
@@ -1085,6 +1085,16 @@
         "color": "#888888"
       },
       {
+        "name": "nvumi",
+        "total_seconds": 0,
+        "text": "0m",
+        "hours": 0,
+        "minutes": 0,
+        "percent": 0.0,
+        "digital": "00:00:00",
+        "color": "#888888"
+      },
+      {
         "name": "Vim Script",
         "total_seconds": 0,
         "text": "0m",
@@ -1095,17 +1105,37 @@
         "color": "#199f4b"
       },
       {
-        "name": "Java Properties",
+        "name": "Assembly",
         "total_seconds": 0,
         "text": "0m",
         "hours": 0,
         "minutes": 0,
         "percent": 0.0,
         "digital": "00:00:00",
-        "color": "#2A6277"
+        "color": "#6E4C13"
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 0,
+        "text": "0m",
+        "hours": 0,
+        "minutes": 0,
+        "percent": 0.0,
+        "digital": "00:00:00",
+        "color": "#292929"
       },
       {
         "name": "checkhealth",
+        "total_seconds": 0,
+        "text": "0m",
+        "hours": 0,
+        "minutes": 0,
+        "percent": 0.0,
+        "digital": "00:00:00",
+        "color": "#888888"
+      },
+      {
+        "name": "Project file properties",
         "total_seconds": 0,
         "text": "0m",
         "hours": 0,
@@ -1133,46 +1163,6 @@
         "percent": 0.0,
         "digital": "00:00:00",
         "color": "#888888"
-      },
-      {
-        "name": "PkgConfig",
-        "total_seconds": 0,
-        "text": "0m",
-        "hours": 0,
-        "minutes": 0,
-        "percent": 0.0,
-        "digital": "00:00:00",
-        "color": "#888888"
-      },
-      {
-        "name": "proc",
-        "total_seconds": 0,
-        "text": "0m",
-        "hours": 0,
-        "minutes": 0,
-        "percent": 0.0,
-        "digital": "00:00:00",
-        "color": "#888888"
-      },
-      {
-        "name": "Project file properties",
-        "total_seconds": 0,
-        "text": "0m",
-        "hours": 0,
-        "minutes": 0,
-        "percent": 0.0,
-        "digital": "00:00:00",
-        "color": "#888888"
-      },
-      {
-        "name": "JSON",
-        "total_seconds": 0,
-        "text": "0m",
-        "hours": 0,
-        "minutes": 0,
-        "percent": 0.0,
-        "digital": "00:00:00",
-        "color": "#292929"
       },
       {
         "name": "gdresource",
@@ -1203,6 +1193,26 @@
         "percent": 0.0,
         "digital": "00:00:00",
         "color": "#4aae47"
+      },
+      {
+        "name": "Java Properties",
+        "total_seconds": 0,
+        "text": "0m",
+        "hours": 0,
+        "minutes": 0,
+        "percent": 0.0,
+        "digital": "00:00:00",
+        "color": "#2A6277"
+      },
+      {
+        "name": "Ninja",
+        "total_seconds": 0,
+        "text": "0m",
+        "hours": 0,
+        "minutes": 0,
+        "percent": 0.0,
+        "digital": "00:00:00",
+        "color": "#888888"
       },
       {
         "name": "scdoc",
