@@ -5,23 +5,23 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-07-26T02:05:28Z",
+    "start": "2016-07-26T13:04:25Z",
     "end": "2026-07-26T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 1894579,
-    "daily_average": 518,
-    "human_readable_total": "526h 16m 19s",
-    "human_readable_daily_average": "8m 38s",
+    "total_seconds": 1895614,
+    "daily_average": 519,
+    "human_readable_total": "526h 33m 34s",
+    "human_readable_daily_average": "8m 39s",
     "languages": [
       {
         "name": "C#",
-        "total_seconds": 909908,
-        "text": "252h 45m",
+        "total_seconds": 910798,
+        "text": "252h 59m",
         "hours": 252,
-        "minutes": 45,
-        "percent": 48.03,
-        "digital": "252:45:08",
+        "minutes": 59,
+        "percent": 48.05,
+        "digital": "252:59:58",
         "color": "#178600"
       },
       {
@@ -40,7 +40,7 @@
         "text": "30h 20m",
         "hours": 30,
         "minutes": 20,
-        "percent": 5.77,
+        "percent": 5.76,
         "digital": "30:20:25",
         "color": "#083fa1"
       },
@@ -110,7 +110,7 @@
         "text": "18h 8m",
         "hours": 18,
         "minutes": 8,
-        "percent": 3.45,
+        "percent": 3.44,
         "digital": "18:08:17",
         "color": "#000080"
       },
@@ -130,7 +130,7 @@
         "text": "15h 1m",
         "hours": 15,
         "minutes": 1,
-        "percent": 2.86,
+        "percent": 2.85,
         "digital": "15:01:51",
         "color": "#555555"
       },
@@ -195,6 +195,16 @@
         "color": "#cb171e"
       },
       {
+        "name": "Other",
+        "total_seconds": 26744,
+        "text": "7h 25m",
+        "hours": 7,
+        "minutes": 25,
+        "percent": 1.41,
+        "digital": "07:25:44",
+        "color": "#888888"
+      },
+      {
         "name": "XML",
         "total_seconds": 26700,
         "text": "7h 25m",
@@ -203,16 +213,6 @@
         "percent": 1.41,
         "digital": "07:25:00",
         "color": "#0060ac"
-      },
-      {
-        "name": "Other",
-        "total_seconds": 26624,
-        "text": "7h 23m",
-        "hours": 7,
-        "minutes": 23,
-        "percent": 1.41,
-        "digital": "07:23:44",
-        "color": "#888888"
       },
       {
         "name": "hyprlang",
@@ -316,12 +316,12 @@
       },
       {
         "name": "Nix",
-        "total_seconds": 12478,
-        "text": "3h 27m",
+        "total_seconds": 12623,
+        "text": "3h 30m",
         "hours": 3,
-        "minutes": 27,
-        "percent": 0.66,
-        "digital": "03:27:58",
+        "minutes": 30,
+        "percent": 0.67,
+        "digital": "03:30:23",
         "color": "#7e7eff"
       },
       {
@@ -1235,7 +1235,7 @@
         "color": "#888888"
       }
     ],
-    "streak": 12
+    "streak": 13
   },
   "trust_factor": {
     "trust_level": "blue",
