@@ -5,13 +5,13 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-07-31T02:06:07Z",
+    "start": "2016-07-31T13:47:06Z",
     "end": "2026-07-31T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 1931244,
+    "total_seconds": 1931412,
     "daily_average": 528,
-    "human_readable_total": "536h 27m 24s",
+    "human_readable_total": "536h 30m 12s",
     "human_readable_daily_average": "8m 48s",
     "languages": [
       {
@@ -76,12 +76,12 @@
       },
       {
         "name": "C++",
-        "total_seconds": 87363,
+        "total_seconds": 87411,
         "text": "24h 16m",
         "hours": 24,
         "minutes": 16,
-        "percent": 4.52,
-        "digital": "24:16:03",
+        "percent": 4.53,
+        "digital": "24:16:51",
         "color": "#f34b7d"
       },
       {
@@ -585,6 +585,16 @@
         "color": "#888888"
       },
       {
+        "name": "Desktop file",
+        "total_seconds": 1261,
+        "text": "21m",
+        "hours": 0,
+        "minutes": 21,
+        "percent": 0.07,
+        "digital": "00:21:01",
+        "color": "#888888"
+      },
+      {
         "name": "Solution File",
         "total_seconds": 1206,
         "text": "20m",
@@ -592,16 +602,6 @@
         "minutes": 20,
         "percent": 0.06,
         "digital": "00:20:06",
-        "color": "#888888"
-      },
-      {
-        "name": "Desktop file",
-        "total_seconds": 1141,
-        "text": "19m",
-        "hours": 0,
-        "minutes": 19,
-        "percent": 0.06,
-        "digital": "00:19:01",
         "color": "#888888"
       },
       {
