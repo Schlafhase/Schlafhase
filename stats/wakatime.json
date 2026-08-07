@@ -5,13 +5,13 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-08-07T02:17:40Z",
+    "start": "2016-08-07T12:44:52Z",
     "end": "2026-08-07T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 1984586,
+    "total_seconds": 1984860,
     "daily_average": 543,
-    "human_readable_total": "551h 16m 26s",
+    "human_readable_total": "551h 21m",
     "human_readable_daily_average": "9m 3s",
     "languages": [
       {
@@ -20,18 +20,18 @@
         "text": "253h 1m",
         "hours": 253,
         "minutes": 1,
-        "percent": 45.9,
+        "percent": 45.89,
         "digital": "253:01:18",
         "color": "#7355dd"
       },
       {
         "name": "Markdown",
-        "total_seconds": 126130,
-        "text": "35h 2m",
+        "total_seconds": 126393,
+        "text": "35h 6m",
         "hours": 35,
-        "minutes": 2,
-        "percent": 6.36,
-        "digital": "35:02:10",
+        "minutes": 6,
+        "percent": 6.37,
+        "digital": "35:06:33",
         "color": "#083fa1"
       },
       {
@@ -130,7 +130,7 @@
         "text": "15h 27m",
         "hours": 15,
         "minutes": 27,
-        "percent": 2.81,
+        "percent": 2.8,
         "digital": "15:27:52",
         "color": "#555555"
       },
@@ -296,12 +296,12 @@
       },
       {
         "name": "Nix",
-        "total_seconds": 14686,
+        "total_seconds": 14697,
         "text": "4h 4m",
         "hours": 4,
         "minutes": 4,
         "percent": 0.74,
-        "digital": "04:04:46",
+        "digital": "04:04:57",
         "color": "#7e7eff"
       },
       {
