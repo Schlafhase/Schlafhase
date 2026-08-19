@@ -5,23 +5,23 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-08-19T00:50:09Z",
+    "start": "2016-08-19T12:35:50Z",
     "end": "2026-08-19T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 2083926,
-    "daily_average": 570,
-    "human_readable_total": "578h 52m 6s",
-    "human_readable_daily_average": "9m 30s",
+    "total_seconds": 2086828,
+    "daily_average": 571,
+    "human_readable_total": "579h 40m 28s",
+    "human_readable_daily_average": "9m 31s",
     "languages": [
       {
         "name": "C#",
-        "total_seconds": 960993,
-        "text": "266h 56m",
-        "hours": 266,
-        "minutes": 56,
-        "percent": 46.11,
-        "digital": "266:56:33",
+        "total_seconds": 961211,
+        "text": "267h",
+        "hours": 267,
+        "minutes": 0,
+        "percent": 46.06,
+        "digital": "267:00:11",
         "color": "#7355dd"
       },
       {
@@ -30,7 +30,7 @@
         "text": "39h 19m",
         "hours": 39,
         "minutes": 19,
-        "percent": 6.79,
+        "percent": 6.78,
         "digital": "39:19:09",
         "color": "#083fa1"
       },
@@ -40,7 +40,7 @@
         "text": "31h 33m",
         "hours": 31,
         "minutes": 33,
-        "percent": 5.45,
+        "percent": 5.44,
         "digital": "31:33:28",
         "color": "#f34b7d"
       },
@@ -50,7 +50,7 @@
         "text": "31h 15m",
         "hours": 31,
         "minutes": 15,
-        "percent": 5.4,
+        "percent": 5.39,
         "digital": "31:15:47",
         "color": "#3178c6"
       },
@@ -66,12 +66,12 @@
       },
       {
         "name": "C",
-        "total_seconds": 97171,
-        "text": "26h 59m",
-        "hours": 26,
-        "minutes": 59,
-        "percent": 4.66,
-        "digital": "26:59:31",
+        "total_seconds": 98775,
+        "text": "27h 26m",
+        "hours": 27,
+        "minutes": 26,
+        "percent": 4.73,
+        "digital": "27:26:15",
         "color": "#555555"
       },
       {
@@ -90,7 +90,7 @@
         "text": "24h 52m",
         "hours": 24,
         "minutes": 52,
-        "percent": 4.3,
+        "percent": 4.29,
         "digital": "24:52:33",
         "color": "#3572A5"
       },
@@ -120,7 +120,7 @@
         "text": "20h 32m",
         "hours": 20,
         "minutes": 32,
-        "percent": 3.55,
+        "percent": 3.54,
         "digital": "20:32:40",
         "color": "#000080"
       },
@@ -140,7 +140,7 @@
         "text": "14h 19m",
         "hours": 14,
         "minutes": 19,
-        "percent": 2.48,
+        "percent": 2.47,
         "digital": "14:19:42",
         "color": "#3D6117"
       },
@@ -166,12 +166,12 @@
       },
       {
         "name": "Other",
-        "total_seconds": 38478,
-        "text": "10h 41m",
+        "total_seconds": 38845,
+        "text": "10h 47m",
         "hours": 10,
-        "minutes": 41,
-        "percent": 1.85,
-        "digital": "10:41:18",
+        "minutes": 47,
+        "percent": 1.86,
+        "digital": "10:47:25",
         "color": "#888888"
       },
       {
@@ -210,7 +210,7 @@
         "text": "8h 15m",
         "hours": 8,
         "minutes": 15,
-        "percent": 1.43,
+        "percent": 1.42,
         "digital": "08:15:32",
         "color": "#cb171e"
       },
@@ -236,12 +236,12 @@
       },
       {
         "name": "INI",
-        "total_seconds": 22148,
-        "text": "6h 9m",
+        "total_seconds": 24909,
+        "text": "6h 55m",
         "hours": 6,
-        "minutes": 9,
-        "percent": 1.06,
-        "digital": "06:09:08",
+        "minutes": 55,
+        "percent": 1.19,
+        "digital": "06:55:09",
         "color": "#d1dbe0"
       },
       {
@@ -330,7 +330,7 @@
         "text": "3h 47m",
         "hours": 3,
         "minutes": 47,
-        "percent": 0.66,
+        "percent": 0.65,
         "digital": "03:47:40",
         "color": "#89e051"
       },
@@ -1235,7 +1235,7 @@
         "color": "#888888"
       }
     ],
-    "streak": 5
+    "streak": 6
   },
   "trust_factor": {
     "trust_level": "blue",
