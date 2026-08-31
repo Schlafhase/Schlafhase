@@ -5,13 +5,13 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-08-30T15:49:54Z",
-    "end": "2026-08-30T23:59:59Z",
+    "start": "2016-08-31T02:48:02Z",
+    "end": "2026-08-31T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 2194903,
+    "total_seconds": 2198356,
     "daily_average": 601,
-    "human_readable_total": "609h 41m 43s",
+    "human_readable_total": "610h 39m 16s",
     "human_readable_daily_average": "10m 1s",
     "languages": [
       {
@@ -20,18 +20,18 @@
         "text": "279h 9m",
         "hours": 279,
         "minutes": 9,
-        "percent": 45.79,
+        "percent": 45.71,
         "digital": "279:09:37",
         "color": "#7355dd"
       },
       {
         "name": "Markdown",
-        "total_seconds": 164860,
-        "text": "45h 47m",
-        "hours": 45,
-        "minutes": 47,
-        "percent": 7.51,
-        "digital": "45:47:40",
+        "total_seconds": 168313,
+        "text": "46h 45m",
+        "hours": 46,
+        "minutes": 45,
+        "percent": 7.66,
+        "digital": "46:45:13",
         "color": "#083fa1"
       },
       {
@@ -40,7 +40,7 @@
         "text": "34h 8m",
         "hours": 34,
         "minutes": 8,
-        "percent": 5.6,
+        "percent": 5.59,
         "digital": "34:08:05",
         "color": "#555555"
       },
@@ -50,7 +50,7 @@
         "text": "31h 33m",
         "hours": 31,
         "minutes": 33,
-        "percent": 5.18,
+        "percent": 5.17,
         "digital": "31:33:28",
         "color": "#f34b7d"
       },
@@ -60,7 +60,7 @@
         "text": "31h 15m",
         "hours": 31,
         "minutes": 15,
-        "percent": 5.13,
+        "percent": 5.12,
         "digital": "31:15:47",
         "color": "#3178c6"
       },
@@ -70,7 +70,7 @@
         "text": "29h 18m",
         "hours": 29,
         "minutes": 18,
-        "percent": 4.81,
+        "percent": 4.8,
         "digital": "29:18:25",
         "color": "#512be4"
       },
@@ -80,7 +80,7 @@
         "text": "25h 43m",
         "hours": 25,
         "minutes": 43,
-        "percent": 4.22,
+        "percent": 4.21,
         "digital": "25:43:55",
         "color": "#f1e05a"
       },
@@ -100,7 +100,7 @@
         "text": "24h 52m",
         "hours": 24,
         "minutes": 52,
-        "percent": 4.08,
+        "percent": 4.07,
         "digital": "24:52:33",
         "color": "#3572A5"
       },
@@ -130,7 +130,7 @@
         "text": "19h 51m",
         "hours": 19,
         "minutes": 51,
-        "percent": 3.26,
+        "percent": 3.25,
         "digital": "19:51:35",
         "color": "#663399"
       },
@@ -160,7 +160,7 @@
         "text": "14h 3m",
         "hours": 14,
         "minutes": 3,
-        "percent": 2.31,
+        "percent": 2.3,
         "digital": "14:03:45",
         "color": "#888888"
       },
@@ -190,7 +190,7 @@
         "text": "10h 42m",
         "hours": 10,
         "minutes": 42,
-        "percent": 1.76,
+        "percent": 1.75,
         "digital": "10:42:54",
         "color": "#0060ac"
       },
@@ -200,7 +200,7 @@
         "text": "8h 56m",
         "hours": 8,
         "minutes": 56,
-        "percent": 1.47,
+        "percent": 1.46,
         "digital": "08:56:30",
         "color": "#cb171e"
       },
@@ -210,7 +210,7 @@
         "text": "8h 37m",
         "hours": 8,
         "minutes": 37,
-        "percent": 1.42,
+        "percent": 1.41,
         "digital": "08:37:38",
         "color": "#e34c26"
       },
@@ -220,7 +220,7 @@
         "text": "8h 34m",
         "hours": 8,
         "minutes": 34,
-        "percent": 1.41,
+        "percent": 1.4,
         "digital": "08:34:40",
         "color": "#888888"
       },
@@ -230,7 +230,7 @@
         "text": "7h 25m",
         "hours": 7,
         "minutes": 25,
-        "percent": 1.22,
+        "percent": 1.21,
         "digital": "07:25:00",
         "color": "#0060ac"
       },
@@ -260,7 +260,7 @@
         "text": "6h 4m",
         "hours": 6,
         "minutes": 4,
-        "percent": 1.0,
+        "percent": 0.99,
         "digital": "06:04:22",
         "color": "#DA3434"
       },
@@ -310,7 +310,7 @@
         "text": "4h 6m",
         "hours": 4,
         "minutes": 6,
-        "percent": 0.68,
+        "percent": 0.67,
         "digital": "04:06:58",
         "color": "#888888"
       },
@@ -460,7 +460,7 @@
         "text": "1h 33m",
         "hours": 1,
         "minutes": 33,
-        "percent": 0.26,
+        "percent": 0.25,
         "digital": "01:33:18",
         "color": "#5686a5"
       },
