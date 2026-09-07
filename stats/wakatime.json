@@ -5,13 +5,13 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-09-06T14:43:32Z",
-    "end": "2026-09-06T23:59:59Z",
+    "start": "2016-09-07T02:14:53Z",
+    "end": "2026-09-07T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 2226784,
+    "total_seconds": 2227102,
     "daily_average": 609,
-    "human_readable_total": "618h 33m 4s",
+    "human_readable_total": "618h 38m 22s",
     "human_readable_daily_average": "10m 9s",
     "languages": [
       {
@@ -20,7 +20,7 @@
         "text": "282h 21m",
         "hours": 282,
         "minutes": 21,
-        "percent": 45.65,
+        "percent": 45.64,
         "digital": "282:21:57",
         "color": "#7355dd"
       },
@@ -30,7 +30,7 @@
         "text": "47h 47m",
         "hours": 47,
         "minutes": 47,
-        "percent": 7.73,
+        "percent": 7.72,
         "digital": "47:47:10",
         "color": "#083fa1"
       },
@@ -116,12 +116,12 @@
       },
       {
         "name": "Lua",
-        "total_seconds": 80285,
-        "text": "22h 18m",
+        "total_seconds": 80603,
+        "text": "22h 23m",
         "hours": 22,
-        "minutes": 18,
-        "percent": 3.61,
-        "digital": "22:18:05",
+        "minutes": 23,
+        "percent": 3.62,
+        "digital": "22:23:23",
         "color": "#000080"
       },
       {
@@ -280,7 +280,7 @@
         "text": "5h 21m",
         "hours": 5,
         "minutes": 21,
-        "percent": 0.87,
+        "percent": 0.86,
         "digital": "05:21:03",
         "color": "#888888"
       },
@@ -530,7 +530,7 @@
         "text": "42m",
         "hours": 0,
         "minutes": 42,
-        "percent": 0.12,
+        "percent": 0.11,
         "digital": "00:42:41",
         "color": "#888888"
       },
@@ -1295,7 +1295,7 @@
         "color": "#888888"
       }
     ],
-    "streak": 8
+    "streak": 0
   },
   "trust_factor": {
     "trust_level": "blue",
