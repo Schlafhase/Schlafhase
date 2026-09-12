@@ -5,23 +5,23 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-09-12T02:32:02Z",
+    "start": "2016-09-12T14:46:04Z",
     "end": "2026-09-12T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 2232846,
+    "total_seconds": 2233413,
     "daily_average": 611,
-    "human_readable_total": "620h 14m 6s",
+    "human_readable_total": "620h 23m 33s",
     "human_readable_daily_average": "10m 11s",
     "languages": [
       {
         "name": "C#",
-        "total_seconds": 1016517,
-        "text": "282h 21m",
+        "total_seconds": 1017084,
+        "text": "282h 31m",
         "hours": 282,
-        "minutes": 21,
-        "percent": 45.53,
-        "digital": "282:21:57",
+        "minutes": 31,
+        "percent": 45.54,
+        "digital": "282:31:24",
         "color": "#7355dd"
       },
       {
@@ -30,7 +30,7 @@
         "text": "47h 51m",
         "hours": 47,
         "minutes": 51,
-        "percent": 7.72,
+        "percent": 7.71,
         "digital": "47:51:22",
         "color": "#083fa1"
       },
@@ -70,7 +70,7 @@
         "text": "29h 18m",
         "hours": 29,
         "minutes": 18,
-        "percent": 4.73,
+        "percent": 4.72,
         "digital": "29:18:25",
         "color": "#512be4"
       },
@@ -160,7 +160,7 @@
         "text": "14h 14m",
         "hours": 14,
         "minutes": 14,
-        "percent": 2.3,
+        "percent": 2.29,
         "digital": "14:14:07",
         "color": "#44a51c"
       },
@@ -310,7 +310,7 @@
         "text": "4h 44m",
         "hours": 4,
         "minutes": 44,
-        "percent": 0.77,
+        "percent": 0.76,
         "digital": "04:44:44",
         "color": "#244776"
       },
