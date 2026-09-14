@@ -5,14 +5,14 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-09-13T15:25:10Z",
-    "end": "2026-09-13T23:59:59Z",
+    "start": "2016-09-14T02:47:02Z",
+    "end": "2026-09-14T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 2246185,
-    "daily_average": 615,
-    "human_readable_total": "623h 56m 25s",
-    "human_readable_daily_average": "10m 15s",
+    "total_seconds": 2251540,
+    "daily_average": 616,
+    "human_readable_total": "625h 25m 40s",
+    "human_readable_daily_average": "10m 16s",
     "languages": [
       {
         "name": "C#",
@@ -20,18 +20,18 @@
         "text": "285h 17m",
         "hours": 285,
         "minutes": 17,
-        "percent": 45.72,
+        "percent": 45.62,
         "digital": "285:17:41",
         "color": "#7355dd"
       },
       {
         "name": "Markdown",
-        "total_seconds": 174548,
-        "text": "48h 29m",
-        "hours": 48,
-        "minutes": 29,
-        "percent": 7.77,
-        "digital": "48:29:08",
+        "total_seconds": 179903,
+        "text": "49h 58m",
+        "hours": 49,
+        "minutes": 58,
+        "percent": 7.99,
+        "digital": "49:58:23",
         "color": "#083fa1"
       },
       {
@@ -40,7 +40,7 @@
         "text": "34h 25m",
         "hours": 34,
         "minutes": 25,
-        "percent": 5.52,
+        "percent": 5.5,
         "digital": "34:25:32",
         "color": "#555555"
       },
@@ -50,7 +50,7 @@
         "text": "31h 33m",
         "hours": 31,
         "minutes": 33,
-        "percent": 5.06,
+        "percent": 5.05,
         "digital": "31:33:28",
         "color": "#f34b7d"
       },
@@ -60,7 +60,7 @@
         "text": "31h 15m",
         "hours": 31,
         "minutes": 15,
-        "percent": 5.01,
+        "percent": 5.0,
         "digital": "31:15:47",
         "color": "#3178c6"
       },
@@ -70,7 +70,7 @@
         "text": "29h 18m",
         "hours": 29,
         "minutes": 18,
-        "percent": 4.7,
+        "percent": 4.69,
         "digital": "29:18:25",
         "color": "#512be4"
       },
@@ -80,7 +80,7 @@
         "text": "25h 43m",
         "hours": 25,
         "minutes": 43,
-        "percent": 4.12,
+        "percent": 4.11,
         "digital": "25:43:55",
         "color": "#f1e05a"
       },
@@ -90,7 +90,7 @@
         "text": "24h 57m",
         "hours": 24,
         "minutes": 57,
-        "percent": 4.0,
+        "percent": 3.99,
         "digital": "24:57:49",
         "color": "#888888"
       },
@@ -100,7 +100,7 @@
         "text": "24h 52m",
         "hours": 24,
         "minutes": 52,
-        "percent": 3.99,
+        "percent": 3.98,
         "digital": "24:52:33",
         "color": "#3572A5"
       },
@@ -110,7 +110,7 @@
         "text": "22h 49m",
         "hours": 22,
         "minutes": 49,
-        "percent": 3.66,
+        "percent": 3.65,
         "digital": "22:49:21",
         "color": "#00ADD8"
       },
@@ -120,7 +120,7 @@
         "text": "22h 27m",
         "hours": 22,
         "minutes": 27,
-        "percent": 3.6,
+        "percent": 3.59,
         "digital": "22:27:23",
         "color": "#000080"
       },
@@ -150,7 +150,7 @@
         "text": "14h 19m",
         "hours": 14,
         "minutes": 19,
-        "percent": 2.3,
+        "percent": 2.29,
         "digital": "14:19:42",
         "color": "#3D6117"
       },
@@ -170,7 +170,7 @@
         "text": "12h 24m",
         "hours": 12,
         "minutes": 24,
-        "percent": 1.99,
+        "percent": 1.98,
         "digital": "12:24:43",
         "color": "#d1dbe0"
       },
@@ -190,7 +190,7 @@
         "text": "10h 42m",
         "hours": 10,
         "minutes": 42,
-        "percent": 1.72,
+        "percent": 1.71,
         "digital": "10:42:54",
         "color": "#0060ac"
       },
@@ -250,7 +250,7 @@
         "text": "7h 23m",
         "hours": 7,
         "minutes": 23,
-        "percent": 1.19,
+        "percent": 1.18,
         "digital": "07:23:55",
         "color": "#888888"
       },
@@ -260,7 +260,7 @@
         "text": "6h 5m",
         "hours": 6,
         "minutes": 5,
-        "percent": 0.98,
+        "percent": 0.97,
         "digital": "06:05:24",
         "color": "#b845fc"
       },
@@ -300,7 +300,7 @@
         "text": "5h 5m",
         "hours": 5,
         "minutes": 5,
-        "percent": 0.82,
+        "percent": 0.81,
         "digital": "05:05:12",
         "color": "#888888"
       },
@@ -360,7 +360,7 @@
         "text": "3h 43m",
         "hours": 3,
         "minutes": 43,
-        "percent": 0.6,
+        "percent": 0.59,
         "digital": "03:43:04",
         "color": "#888888"
       },
@@ -440,7 +440,7 @@
         "text": "1h 35m",
         "hours": 1,
         "minutes": 35,
-        "percent": 0.26,
+        "percent": 0.25,
         "digital": "01:35:41",
         "color": "#9c4221"
       },
