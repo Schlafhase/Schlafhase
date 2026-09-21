@@ -5,13 +5,13 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-09-21T02:43:50Z",
+    "start": "2016-09-21T17:35:52Z",
     "end": "2026-09-21T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 2277808,
+    "total_seconds": 2278055,
     "daily_average": 623,
-    "human_readable_total": "632h 43m 28s",
+    "human_readable_total": "632h 47m 35s",
     "human_readable_daily_average": "10m 23s",
     "languages": [
       {
@@ -20,7 +20,7 @@
         "text": "287h 21m",
         "hours": 287,
         "minutes": 21,
-        "percent": 45.42,
+        "percent": 45.41,
         "digital": "287:21:07",
         "color": "#7355dd"
       },
@@ -90,7 +90,7 @@
         "text": "24h 57m",
         "hours": 24,
         "minutes": 57,
-        "percent": 3.95,
+        "percent": 3.94,
         "digital": "24:57:49",
         "color": "#888888"
       },
@@ -276,12 +276,12 @@
       },
       {
         "name": "Text",
-        "total_seconds": 20878,
-        "text": "5h 47m",
+        "total_seconds": 20976,
+        "text": "5h 49m",
         "hours": 5,
-        "minutes": 47,
+        "minutes": 49,
         "percent": 0.92,
-        "digital": "05:47:58",
+        "digital": "05:49:36",
         "color": "#888888"
       },
       {
@@ -296,12 +296,12 @@
       },
       {
         "name": "musubi",
-        "total_seconds": 18368,
-        "text": "5h 6m",
+        "total_seconds": 18517,
+        "text": "5h 8m",
         "hours": 5,
-        "minutes": 6,
+        "minutes": 8,
         "percent": 0.81,
-        "digital": "05:06:08",
+        "digital": "05:08:37",
         "color": "#888888"
       },
       {
