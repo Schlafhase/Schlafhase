@@ -5,23 +5,23 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-09-23T02:45:09Z",
+    "start": "2016-09-23T15:53:28Z",
     "end": "2026-09-23T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 2278241,
-    "daily_average": 623,
-    "human_readable_total": "632h 50m 41s",
-    "human_readable_daily_average": "10m 23s",
+    "total_seconds": 2282937,
+    "daily_average": 625,
+    "human_readable_total": "634h 8m 57s",
+    "human_readable_daily_average": "10m 25s",
     "languages": [
       {
         "name": "C#",
-        "total_seconds": 1034467,
-        "text": "287h 21m",
+        "total_seconds": 1034609,
+        "text": "287h 23m",
         "hours": 287,
-        "minutes": 21,
-        "percent": 45.41,
-        "digital": "287:21:07",
+        "minutes": 23,
+        "percent": 45.32,
+        "digital": "287:23:29",
         "color": "#7355dd"
       },
       {
@@ -30,7 +30,7 @@
         "text": "52h 3m",
         "hours": 52,
         "minutes": 3,
-        "percent": 8.23,
+        "percent": 8.21,
         "digital": "52:03:26",
         "color": "#083fa1"
       },
@@ -40,7 +40,7 @@
         "text": "34h 29m",
         "hours": 34,
         "minutes": 29,
-        "percent": 5.45,
+        "percent": 5.44,
         "digital": "34:29:29",
         "color": "#555555"
       },
@@ -50,7 +50,7 @@
         "text": "31h 33m",
         "hours": 31,
         "minutes": 33,
-        "percent": 4.99,
+        "percent": 4.98,
         "digital": "31:33:28",
         "color": "#f34b7d"
       },
@@ -60,7 +60,7 @@
         "text": "31h 15m",
         "hours": 31,
         "minutes": 15,
-        "percent": 4.94,
+        "percent": 4.93,
         "digital": "31:15:47",
         "color": "#3178c6"
       },
@@ -70,7 +70,7 @@
         "text": "29h 18m",
         "hours": 29,
         "minutes": 18,
-        "percent": 4.63,
+        "percent": 4.62,
         "digital": "29:18:25",
         "color": "#512be4"
       },
@@ -80,7 +80,7 @@
         "text": "25h 43m",
         "hours": 25,
         "minutes": 43,
-        "percent": 4.07,
+        "percent": 4.06,
         "digital": "25:43:55",
         "color": "#f1e05a"
       },
@@ -100,7 +100,7 @@
         "text": "24h 52m",
         "hours": 24,
         "minutes": 52,
-        "percent": 3.93,
+        "percent": 3.92,
         "digital": "24:52:33",
         "color": "#3572A5"
       },
@@ -110,7 +110,7 @@
         "text": "22h 49m",
         "hours": 22,
         "minutes": 49,
-        "percent": 3.61,
+        "percent": 3.6,
         "digital": "22:49:21",
         "color": "#00ADD8"
       },
@@ -130,7 +130,7 @@
         "text": "19h 51m",
         "hours": 19,
         "minutes": 51,
-        "percent": 3.14,
+        "percent": 3.13,
         "digital": "19:51:35",
         "color": "#663399"
       },
@@ -140,7 +140,7 @@
         "text": "14h 46m",
         "hours": 14,
         "minutes": 46,
-        "percent": 2.34,
+        "percent": 2.33,
         "digital": "14:46:55",
         "color": "#888888"
       },
@@ -160,7 +160,7 @@
         "text": "14h 14m",
         "hours": 14,
         "minutes": 14,
-        "percent": 2.25,
+        "percent": 2.24,
         "digital": "14:14:07",
         "color": "#44a51c"
       },
@@ -180,7 +180,7 @@
         "text": "11h 10m",
         "hours": 11,
         "minutes": 10,
-        "percent": 1.77,
+        "percent": 1.76,
         "digital": "11:10:15",
         "color": "#292929"
       },
@@ -195,6 +195,16 @@
         "color": "#0060ac"
       },
       {
+        "name": "musubi-module",
+        "total_seconds": 35885,
+        "text": "9h 58m",
+        "hours": 9,
+        "minutes": 58,
+        "percent": 1.57,
+        "digital": "09:58:05",
+        "color": "#888888"
+      },
+      {
         "name": "YAML",
         "total_seconds": 32190,
         "text": "8h 56m",
@@ -203,16 +213,6 @@
         "percent": 1.41,
         "digital": "08:56:30",
         "color": "#cb171e"
-      },
-      {
-        "name": "musubi-module",
-        "total_seconds": 31712,
-        "text": "8h 48m",
-        "hours": 8,
-        "minutes": 48,
-        "percent": 1.39,
-        "digital": "08:48:32",
-        "color": "#888888"
       },
       {
         "name": "HTML",
@@ -230,7 +230,7 @@
         "text": "8h 34m",
         "hours": 8,
         "minutes": 34,
-        "percent": 1.36,
+        "percent": 1.35,
         "digital": "08:34:40",
         "color": "#888888"
       },
@@ -285,23 +285,23 @@
         "color": "#888888"
       },
       {
+        "name": "musubi",
+        "total_seconds": 20864,
+        "text": "5h 47m",
+        "hours": 5,
+        "minutes": 47,
+        "percent": 0.91,
+        "digital": "05:47:44",
+        "color": "#888888"
+      },
+      {
         "name": "TypeScript JSX",
         "total_seconds": 19263,
         "text": "5h 21m",
         "hours": 5,
         "minutes": 21,
-        "percent": 0.85,
+        "percent": 0.84,
         "digital": "05:21:03",
-        "color": "#888888"
-      },
-      {
-        "name": "musubi",
-        "total_seconds": 18583,
-        "text": "5h 9m",
-        "hours": 5,
-        "minutes": 9,
-        "percent": 0.82,
-        "digital": "05:09:43",
         "color": "#888888"
       },
       {
@@ -316,12 +316,12 @@
       },
       {
         "name": "Nix",
-        "total_seconds": 16174,
-        "text": "4h 29m",
+        "total_seconds": 16377,
+        "text": "4h 32m",
         "hours": 4,
-        "minutes": 29,
-        "percent": 0.71,
-        "digital": "04:29:34",
+        "minutes": 32,
+        "percent": 0.72,
+        "digital": "04:32:57",
         "color": "#7e7eff"
       },
       {
@@ -390,7 +390,7 @@
         "text": "2h 56m",
         "hours": 2,
         "minutes": 56,
-        "percent": 0.47,
+        "percent": 0.46,
         "digital": "02:56:52",
         "color": "#888888"
       },
@@ -1325,7 +1325,7 @@
         "color": "#888888"
       }
     ],
-    "streak": 0
+    "streak": 1
   },
   "trust_factor": {
     "trust_level": "blue",
