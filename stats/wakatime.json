@@ -5,13 +5,13 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-09-22T16:02:57Z",
-    "end": "2026-09-22T23:59:59Z",
+    "start": "2016-09-23T02:45:09Z",
+    "end": "2026-09-23T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 2278055,
+    "total_seconds": 2278241,
     "daily_average": 623,
-    "human_readable_total": "632h 47m 35s",
+    "human_readable_total": "632h 50m 41s",
     "human_readable_daily_average": "10m 23s",
     "languages": [
       {
@@ -296,12 +296,12 @@
       },
       {
         "name": "musubi",
-        "total_seconds": 18517,
-        "text": "5h 8m",
+        "total_seconds": 18583,
+        "text": "5h 9m",
         "hours": 5,
-        "minutes": 8,
-        "percent": 0.81,
-        "digital": "05:08:37",
+        "minutes": 9,
+        "percent": 0.82,
+        "digital": "05:09:43",
         "color": "#888888"
       },
       {
@@ -316,12 +316,12 @@
       },
       {
         "name": "Nix",
-        "total_seconds": 16054,
-        "text": "4h 27m",
+        "total_seconds": 16174,
+        "text": "4h 29m",
         "hours": 4,
-        "minutes": 27,
-        "percent": 0.7,
-        "digital": "04:27:34",
+        "minutes": 29,
+        "percent": 0.71,
+        "digital": "04:29:34",
         "color": "#7e7eff"
       },
       {
