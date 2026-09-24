@@ -5,13 +5,13 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-09-24T02:34:49Z",
+    "start": "2016-09-24T16:15:56Z",
     "end": "2026-09-24T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 2282937,
+    "total_seconds": 2285740,
     "daily_average": 625,
-    "human_readable_total": "634h 8m 57s",
+    "human_readable_total": "634h 55m 40s",
     "human_readable_daily_average": "10m 25s",
     "languages": [
       {
@@ -20,7 +20,7 @@
         "text": "287h 23m",
         "hours": 287,
         "minutes": 23,
-        "percent": 45.32,
+        "percent": 45.26,
         "digital": "287:23:29",
         "color": "#7355dd"
       },
@@ -30,7 +30,7 @@
         "text": "52h 3m",
         "hours": 52,
         "minutes": 3,
-        "percent": 8.21,
+        "percent": 8.2,
         "digital": "52:03:26",
         "color": "#083fa1"
       },
@@ -40,7 +40,7 @@
         "text": "34h 29m",
         "hours": 34,
         "minutes": 29,
-        "percent": 5.44,
+        "percent": 5.43,
         "digital": "34:29:29",
         "color": "#555555"
       },
@@ -50,7 +50,7 @@
         "text": "31h 33m",
         "hours": 31,
         "minutes": 33,
-        "percent": 4.98,
+        "percent": 4.97,
         "digital": "31:33:28",
         "color": "#f34b7d"
       },
@@ -60,7 +60,7 @@
         "text": "31h 15m",
         "hours": 31,
         "minutes": 15,
-        "percent": 4.93,
+        "percent": 4.92,
         "digital": "31:15:47",
         "color": "#3178c6"
       },
@@ -80,7 +80,7 @@
         "text": "25h 43m",
         "hours": 25,
         "minutes": 43,
-        "percent": 4.06,
+        "percent": 4.05,
         "digital": "25:43:55",
         "color": "#f1e05a"
       },
@@ -90,7 +90,7 @@
         "text": "24h 57m",
         "hours": 24,
         "minutes": 57,
-        "percent": 3.94,
+        "percent": 3.93,
         "digital": "24:57:49",
         "color": "#888888"
       },
@@ -110,7 +110,7 @@
         "text": "22h 49m",
         "hours": 22,
         "minutes": 49,
-        "percent": 3.6,
+        "percent": 3.59,
         "digital": "22:49:21",
         "color": "#00ADD8"
       },
@@ -120,7 +120,7 @@
         "text": "22h 32m",
         "hours": 22,
         "minutes": 32,
-        "percent": 3.56,
+        "percent": 3.55,
         "digital": "22:32:50",
         "color": "#000080"
       },
@@ -170,7 +170,7 @@
         "text": "12h 24m",
         "hours": 12,
         "minutes": 24,
-        "percent": 1.96,
+        "percent": 1.95,
         "digital": "12:24:43",
         "color": "#d1dbe0"
       },
@@ -190,18 +190,18 @@
         "text": "11h 7m",
         "hours": 11,
         "minutes": 7,
-        "percent": 1.76,
+        "percent": 1.75,
         "digital": "11:07:56",
         "color": "#0060ac"
       },
       {
         "name": "musubi-module",
-        "total_seconds": 35885,
-        "text": "9h 58m",
-        "hours": 9,
-        "minutes": 58,
-        "percent": 1.57,
-        "digital": "09:58:05",
+        "total_seconds": 38606,
+        "text": "10h 43m",
+        "hours": 10,
+        "minutes": 43,
+        "percent": 1.69,
+        "digital": "10:43:26",
         "color": "#888888"
       },
       {
@@ -255,6 +255,16 @@
         "color": "#888888"
       },
       {
+        "name": "musubi",
+        "total_seconds": 22308,
+        "text": "6h 11m",
+        "hours": 6,
+        "minutes": 11,
+        "percent": 0.98,
+        "digital": "06:11:48",
+        "color": "#888888"
+      },
+      {
         "name": "F#",
         "total_seconds": 21924,
         "text": "6h 5m",
@@ -282,16 +292,6 @@
         "minutes": 49,
         "percent": 0.92,
         "digital": "05:49:36",
-        "color": "#888888"
-      },
-      {
-        "name": "musubi",
-        "total_seconds": 20864,
-        "text": "5h 47m",
-        "hours": 5,
-        "minutes": 47,
-        "percent": 0.91,
-        "digital": "05:47:44",
         "color": "#888888"
       },
       {
@@ -470,7 +470,7 @@
         "text": "1h 33m",
         "hours": 1,
         "minutes": 33,
-        "percent": 0.25,
+        "percent": 0.24,
         "digital": "01:33:18",
         "color": "#5686a5"
       },
@@ -1325,7 +1325,7 @@
         "color": "#888888"
       }
     ],
-    "streak": 1
+    "streak": 2
   },
   "trust_factor": {
     "trust_level": "blue",
