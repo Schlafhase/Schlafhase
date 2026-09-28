@@ -5,13 +5,13 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-09-27T16:09:27Z",
-    "end": "2026-09-27T23:59:59Z",
+    "start": "2016-09-28T02:57:10Z",
+    "end": "2026-09-28T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 2287805,
+    "total_seconds": 2288354,
     "daily_average": 626,
-    "human_readable_total": "635h 30m 5s",
+    "human_readable_total": "635h 39m 14s",
     "human_readable_daily_average": "10m 26s",
     "languages": [
       {
@@ -20,18 +20,18 @@
         "text": "287h 42m",
         "hours": 287,
         "minutes": 42,
-        "percent": 45.27,
+        "percent": 45.26,
         "digital": "287:42:46",
         "color": "#7355dd"
       },
       {
         "name": "Markdown",
-        "total_seconds": 188314,
-        "text": "52h 18m",
+        "total_seconds": 188863,
+        "text": "52h 27m",
         "hours": 52,
-        "minutes": 18,
-        "percent": 8.23,
-        "digital": "52:18:34",
+        "minutes": 27,
+        "percent": 8.25,
+        "digital": "52:27:43",
         "color": "#083fa1"
       },
       {
@@ -50,7 +50,7 @@
         "text": "31h 33m",
         "hours": 31,
         "minutes": 33,
-        "percent": 4.97,
+        "percent": 4.96,
         "digital": "31:33:28",
         "color": "#f34b7d"
       },
@@ -130,7 +130,7 @@
         "text": "19h 51m",
         "hours": 19,
         "minutes": 51,
-        "percent": 3.13,
+        "percent": 3.12,
         "digital": "19:51:35",
         "color": "#663399"
       },
@@ -260,7 +260,7 @@
         "text": "6h 11m",
         "hours": 6,
         "minutes": 11,
-        "percent": 0.98,
+        "percent": 0.97,
         "digital": "06:11:48",
         "color": "#888888"
       },
@@ -360,7 +360,7 @@
         "text": "3h 43m",
         "hours": 3,
         "minutes": 43,
-        "percent": 0.59,
+        "percent": 0.58,
         "digital": "03:43:04",
         "color": "#888888"
       },
@@ -1325,7 +1325,7 @@
         "color": "#888888"
       }
     ],
-    "streak": 1
+    "streak": 2
   },
   "trust_factor": {
     "trust_level": "blue",
