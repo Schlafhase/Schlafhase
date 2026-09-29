@@ -5,13 +5,13 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-09-28T19:03:28Z",
-    "end": "2026-09-28T23:59:59Z",
+    "start": "2016-09-29T03:37:14Z",
+    "end": "2026-09-29T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 2290851,
+    "total_seconds": 2291333,
     "daily_average": 627,
-    "human_readable_total": "636h 20m 51s",
+    "human_readable_total": "636h 28m 53s",
     "human_readable_daily_average": "10m 27s",
     "languages": [
       {
@@ -20,18 +20,18 @@
         "text": "287h 42m",
         "hours": 287,
         "minutes": 42,
-        "percent": 45.21,
+        "percent": 45.2,
         "digital": "287:42:46",
         "color": "#7355dd"
       },
       {
         "name": "Markdown",
-        "total_seconds": 189103,
-        "text": "52h 31m",
+        "total_seconds": 189465,
+        "text": "52h 37m",
         "hours": 52,
-        "minutes": 31,
-        "percent": 8.25,
-        "digital": "52:31:43",
+        "minutes": 37,
+        "percent": 8.27,
+        "digital": "52:37:45",
         "color": "#083fa1"
       },
       {
@@ -70,7 +70,7 @@
         "text": "29h 18m",
         "hours": 29,
         "minutes": 18,
-        "percent": 4.61,
+        "percent": 4.6,
         "digital": "29:18:25",
         "color": "#512be4"
       },
@@ -210,7 +210,7 @@
         "text": "8h 56m",
         "hours": 8,
         "minutes": 56,
-        "percent": 1.41,
+        "percent": 1.4,
         "digital": "08:56:30",
         "color": "#cb171e"
       },
@@ -486,12 +486,12 @@
       },
       {
         "name": "bigfile",
-        "total_seconds": 5072,
-        "text": "1h 24m",
+        "total_seconds": 5192,
+        "text": "1h 26m",
         "hours": 1,
-        "minutes": 24,
-        "percent": 0.22,
-        "digital": "01:24:32",
+        "minutes": 26,
+        "percent": 0.23,
+        "digital": "01:26:32",
         "color": "#888888"
       },
       {
