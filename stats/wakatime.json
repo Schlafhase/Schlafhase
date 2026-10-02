@@ -5,23 +5,23 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-10-02T03:29:52Z",
+    "start": "2016-10-02T17:11:49Z",
     "end": "2026-10-02T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 2300588,
-    "daily_average": 629,
-    "human_readable_total": "639h 3m 8s",
-    "human_readable_daily_average": "10m 29s",
+    "total_seconds": 2301068,
+    "daily_average": 630,
+    "human_readable_total": "639h 11m 8s",
+    "human_readable_daily_average": "10m 30s",
     "languages": [
       {
         "name": "C#",
-        "total_seconds": 1035766,
-        "text": "287h 42m",
+        "total_seconds": 1035886,
+        "text": "287h 44m",
         "hours": 287,
-        "minutes": 42,
+        "minutes": 44,
         "percent": 45.02,
-        "digital": "287:42:46",
+        "digital": "287:44:46",
         "color": "#7355dd"
       },
       {
@@ -96,12 +96,12 @@
       },
       {
         "name": "Python",
-        "total_seconds": 89553,
-        "text": "24h 52m",
+        "total_seconds": 89673,
+        "text": "24h 54m",
         "hours": 24,
-        "minutes": 52,
-        "percent": 3.89,
-        "digital": "24:52:33",
+        "minutes": 54,
+        "percent": 3.9,
+        "digital": "24:54:33",
         "color": "#3572A5"
       },
       {
@@ -436,12 +436,12 @@
       },
       {
         "name": "GDScript",
-        "total_seconds": 5879,
-        "text": "1h 37m",
+        "total_seconds": 5999,
+        "text": "1h 39m",
         "hours": 1,
-        "minutes": 37,
+        "minutes": 39,
         "percent": 0.26,
-        "digital": "01:37:59",
+        "digital": "01:39:59",
         "color": "#355570"
       },
       {
@@ -495,6 +495,16 @@
         "color": "#888888"
       },
       {
+        "name": "Godot Resource",
+        "total_seconds": 4633,
+        "text": "1h 17m",
+        "hours": 1,
+        "minutes": 17,
+        "percent": 0.2,
+        "digital": "01:17:13",
+        "color": "#355570"
+      },
+      {
         "name": "SVG",
         "total_seconds": 4590,
         "text": "1h 16m",
@@ -503,16 +513,6 @@
         "percent": 0.2,
         "digital": "01:16:30",
         "color": "#ff9900"
-      },
-      {
-        "name": "Godot Resource",
-        "total_seconds": 4513,
-        "text": "1h 15m",
-        "hours": 1,
-        "minutes": 15,
-        "percent": 0.2,
-        "digital": "01:15:13",
-        "color": "#355570"
       },
       {
         "name": "log",
