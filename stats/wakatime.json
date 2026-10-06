@@ -5,13 +5,13 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-10-06T04:13:23Z",
+    "start": "2016-10-06T17:42:25Z",
     "end": "2026-10-06T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 2316511,
+    "total_seconds": 2317442,
     "daily_average": 634,
-    "human_readable_total": "643h 28m 31s",
+    "human_readable_total": "643h 44m 2s",
     "human_readable_daily_average": "10m 34s",
     "languages": [
       {
@@ -20,7 +20,7 @@
         "text": "287h 44m",
         "hours": 287,
         "minutes": 44,
-        "percent": 44.72,
+        "percent": 44.7,
         "digital": "287:44:46",
         "color": "#7355dd"
       },
@@ -40,7 +40,7 @@
         "text": "34h 35m",
         "hours": 34,
         "minutes": 35,
-        "percent": 5.38,
+        "percent": 5.37,
         "digital": "34:35:45",
         "color": "#555555"
       },
@@ -170,7 +170,7 @@
         "text": "12h 50m",
         "hours": 12,
         "minutes": 50,
-        "percent": 2.0,
+        "percent": 1.99,
         "digital": "12:50:28",
         "color": "#888888"
       },
@@ -260,7 +260,7 @@
         "text": "7h 10m",
         "hours": 7,
         "minutes": 10,
-        "percent": 1.12,
+        "percent": 1.11,
         "digital": "07:10:31",
         "color": "#888888"
       },
@@ -296,12 +296,12 @@
       },
       {
         "name": "Typst",
-        "total_seconds": 19279,
-        "text": "5h 21m",
+        "total_seconds": 20210,
+        "text": "5h 36m",
         "hours": 5,
-        "minutes": 21,
-        "percent": 0.83,
-        "digital": "05:21:19",
+        "minutes": 36,
+        "percent": 0.87,
+        "digital": "05:36:50",
         "color": "#239dad"
       },
       {
