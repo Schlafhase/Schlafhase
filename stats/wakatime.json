@@ -5,14 +5,14 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-10-08T03:54:21Z",
+    "start": "2016-10-08T18:15:52Z",
     "end": "2026-10-08T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 2327765,
-    "daily_average": 637,
-    "human_readable_total": "646h 36m 5s",
-    "human_readable_daily_average": "10m 37s",
+    "total_seconds": 2333783,
+    "daily_average": 639,
+    "human_readable_total": "648h 16m 23s",
+    "human_readable_daily_average": "10m 39s",
     "languages": [
       {
         "name": "C#",
@@ -20,18 +20,18 @@
         "text": "287h 44m",
         "hours": 287,
         "minutes": 44,
-        "percent": 44.5,
+        "percent": 44.39,
         "digital": "287:44:46",
         "color": "#7355dd"
       },
       {
         "name": "Markdown",
-        "total_seconds": 195951,
-        "text": "54h 25m",
+        "total_seconds": 196199,
+        "text": "54h 29m",
         "hours": 54,
-        "minutes": 25,
-        "percent": 8.42,
-        "digital": "54:25:51",
+        "minutes": 29,
+        "percent": 8.41,
+        "digital": "54:29:59",
         "color": "#083fa1"
       },
       {
@@ -40,7 +40,7 @@
         "text": "34h 35m",
         "hours": 34,
         "minutes": 35,
-        "percent": 5.35,
+        "percent": 5.34,
         "digital": "34:35:45",
         "color": "#555555"
       },
@@ -50,7 +50,7 @@
         "text": "31h 33m",
         "hours": 31,
         "minutes": 33,
-        "percent": 4.88,
+        "percent": 4.87,
         "digital": "31:33:28",
         "color": "#f34b7d"
       },
@@ -60,7 +60,7 @@
         "text": "31h 15m",
         "hours": 31,
         "minutes": 15,
-        "percent": 4.83,
+        "percent": 4.82,
         "digital": "31:15:47",
         "color": "#3178c6"
       },
@@ -70,7 +70,7 @@
         "text": "29h 18m",
         "hours": 29,
         "minutes": 18,
-        "percent": 4.53,
+        "percent": 4.52,
         "digital": "29:18:25",
         "color": "#512be4"
       },
@@ -80,7 +80,7 @@
         "text": "25h 43m",
         "hours": 25,
         "minutes": 43,
-        "percent": 3.98,
+        "percent": 3.97,
         "digital": "25:43:55",
         "color": "#f1e05a"
       },
@@ -90,7 +90,7 @@
         "text": "24h 57m",
         "hours": 24,
         "minutes": 57,
-        "percent": 3.86,
+        "percent": 3.85,
         "digital": "24:57:49",
         "color": "#888888"
       },
@@ -100,7 +100,7 @@
         "text": "24h 54m",
         "hours": 24,
         "minutes": 54,
-        "percent": 3.85,
+        "percent": 3.84,
         "digital": "24:54:33",
         "color": "#3572A5"
       },
@@ -110,7 +110,7 @@
         "text": "22h 49m",
         "hours": 22,
         "minutes": 49,
-        "percent": 3.53,
+        "percent": 3.52,
         "digital": "22:49:21",
         "color": "#00ADD8"
       },
@@ -130,7 +130,7 @@
         "text": "19h 51m",
         "hours": 19,
         "minutes": 51,
-        "percent": 3.07,
+        "percent": 3.06,
         "digital": "19:51:35",
         "color": "#663399"
       },
@@ -140,8 +140,18 @@
         "text": "14h 46m",
         "hours": 14,
         "minutes": 46,
-        "percent": 2.29,
+        "percent": 2.28,
         "digital": "14:46:55",
+        "color": "#888888"
+      },
+      {
+        "name": "musubi-module",
+        "total_seconds": 51808,
+        "text": "14h 23m",
+        "hours": 14,
+        "minutes": 23,
+        "percent": 2.22,
+        "digital": "14:23:28",
         "color": "#888888"
       },
       {
@@ -150,7 +160,7 @@
         "text": "14h 19m",
         "hours": 14,
         "minutes": 19,
-        "percent": 2.22,
+        "percent": 2.21,
         "digital": "14:19:42",
         "color": "#3D6117"
       },
@@ -165,22 +175,12 @@
         "color": "#44a51c"
       },
       {
-        "name": "musubi-module",
-        "total_seconds": 46228,
-        "text": "12h 50m",
-        "hours": 12,
-        "minutes": 50,
-        "percent": 1.99,
-        "digital": "12:50:28",
-        "color": "#888888"
-      },
-      {
         "name": "INI",
         "total_seconds": 44683,
         "text": "12h 24m",
         "hours": 12,
         "minutes": 24,
-        "percent": 1.92,
+        "percent": 1.91,
         "digital": "12:24:43",
         "color": "#d1dbe0"
       },
@@ -190,7 +190,7 @@
         "text": "11h 10m",
         "hours": 11,
         "minutes": 10,
-        "percent": 1.73,
+        "percent": 1.72,
         "digital": "11:10:15",
         "color": "#292929"
       },
@@ -230,7 +230,7 @@
         "text": "8h 34m",
         "hours": 8,
         "minutes": 34,
-        "percent": 1.33,
+        "percent": 1.32,
         "digital": "08:34:40",
         "color": "#888888"
       },
@@ -245,12 +245,22 @@
         "color": "#239dad"
       },
       {
+        "name": "musubi",
+        "total_seconds": 28435,
+        "text": "7h 53m",
+        "hours": 7,
+        "minutes": 53,
+        "percent": 1.22,
+        "digital": "07:53:55",
+        "color": "#888888"
+      },
+      {
         "name": "XML",
         "total_seconds": 26700,
         "text": "7h 25m",
         "hours": 7,
         "minutes": 25,
-        "percent": 1.15,
+        "percent": 1.14,
         "digital": "07:25:00",
         "color": "#0060ac"
       },
@@ -262,16 +272,6 @@
         "minutes": 23,
         "percent": 1.14,
         "digital": "07:23:55",
-        "color": "#888888"
-      },
-      {
-        "name": "musubi",
-        "total_seconds": 25831,
-        "text": "7h 10m",
-        "hours": 7,
-        "minutes": 10,
-        "percent": 1.11,
-        "digital": "07:10:31",
         "color": "#888888"
       },
       {
@@ -326,12 +326,12 @@
       },
       {
         "name": "Nix",
-        "total_seconds": 16675,
-        "text": "4h 37m",
+        "total_seconds": 16872,
+        "text": "4h 41m",
         "hours": 4,
-        "minutes": 37,
+        "minutes": 41,
         "percent": 0.72,
-        "digital": "04:37:55",
+        "digital": "04:41:12",
         "color": "#7e7eff"
       },
       {
@@ -340,7 +340,7 @@
         "text": "4h 6m",
         "hours": 4,
         "minutes": 6,
-        "percent": 0.64,
+        "percent": 0.63,
         "digital": "04:06:58",
         "color": "#888888"
       },
@@ -400,7 +400,7 @@
         "text": "2h 56m",
         "hours": 2,
         "minutes": 56,
-        "percent": 0.46,
+        "percent": 0.45,
         "digital": "02:56:52",
         "color": "#888888"
       },
@@ -410,7 +410,7 @@
         "text": "2h 33m",
         "hours": 2,
         "minutes": 33,
-        "percent": 0.4,
+        "percent": 0.39,
         "digital": "02:33:26",
         "color": "#b845fc"
       },
@@ -630,7 +630,7 @@
         "text": "25m",
         "hours": 0,
         "minutes": 25,
-        "percent": 0.07,
+        "percent": 0.06,
         "digital": "00:25:14",
         "color": "#888888"
       },
@@ -1325,7 +1325,7 @@
         "color": "#888888"
       }
     ],
-    "streak": 5
+    "streak": 6
   },
   "trust_factor": {
     "trust_level": "blue",
