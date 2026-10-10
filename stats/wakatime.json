@@ -5,8 +5,8 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-10-09T17:48:59Z",
-    "end": "2026-10-09T23:59:59Z",
+    "start": "2016-10-10T03:47:14Z",
+    "end": "2026-10-10T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
     "total_seconds": 2333783,
@@ -1325,7 +1325,7 @@
         "color": "#888888"
       }
     ],
-    "streak": 6
+    "streak": 0
   },
   "trust_factor": {
     "trust_level": "blue",
