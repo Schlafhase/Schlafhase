@@ -5,13 +5,13 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-10-14T03:00:34Z",
+    "start": "2016-10-14T16:17:17Z",
     "end": "2026-10-14T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 2337528,
+    "total_seconds": 2337768,
     "daily_average": 640,
-    "human_readable_total": "649h 18m 48s",
+    "human_readable_total": "649h 22m 48s",
     "human_readable_daily_average": "10m 40s",
     "languages": [
       {
@@ -20,7 +20,7 @@
         "text": "287h 44m",
         "hours": 287,
         "minutes": 44,
-        "percent": 44.32,
+        "percent": 44.31,
         "digital": "287:44:46",
         "color": "#7355dd"
       },
@@ -315,6 +315,16 @@
         "color": "#888888"
       },
       {
+        "name": "Nix",
+        "total_seconds": 17134,
+        "text": "4h 45m",
+        "hours": 4,
+        "minutes": 45,
+        "percent": 0.73,
+        "digital": "04:45:34",
+        "color": "#7e7eff"
+      },
+      {
         "name": "CoffeeScript",
         "total_seconds": 17084,
         "text": "4h 44m",
@@ -323,16 +333,6 @@
         "percent": 0.73,
         "digital": "04:44:44",
         "color": "#244776"
-      },
-      {
-        "name": "Nix",
-        "total_seconds": 16872,
-        "text": "4h 41m",
-        "hours": 4,
-        "minutes": 41,
-        "percent": 0.72,
-        "digital": "04:41:12",
-        "color": "#7e7eff"
       },
       {
         "name": "SourceMap",
