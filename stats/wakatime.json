@@ -5,13 +5,13 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-10-19T02:43:02Z",
+    "start": "2016-10-19T18:06:03Z",
     "end": "2026-10-19T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 2337768,
+    "total_seconds": 2338268,
     "daily_average": 640,
-    "human_readable_total": "649h 22m 48s",
+    "human_readable_total": "649h 31m 8s",
     "human_readable_daily_average": "10m 40s",
     "languages": [
       {
@@ -20,18 +20,18 @@
         "text": "287h 44m",
         "hours": 287,
         "minutes": 44,
-        "percent": 44.31,
+        "percent": 44.3,
         "digital": "287:44:46",
         "color": "#7355dd"
       },
       {
         "name": "Markdown",
-        "total_seconds": 196199,
-        "text": "54h 29m",
+        "total_seconds": 196699,
+        "text": "54h 38m",
         "hours": 54,
-        "minutes": 29,
-        "percent": 8.39,
-        "digital": "54:29:59",
+        "minutes": 38,
+        "percent": 8.41,
+        "digital": "54:38:19",
         "color": "#083fa1"
       },
       {
@@ -290,7 +290,7 @@
         "text": "6h 4m",
         "hours": 6,
         "minutes": 4,
-        "percent": 0.94,
+        "percent": 0.93,
         "digital": "06:04:22",
         "color": "#DA3434"
       },
