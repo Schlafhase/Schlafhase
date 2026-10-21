@@ -5,23 +5,23 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-10-20T16:08:09Z",
-    "end": "2026-10-20T23:59:59Z",
+    "start": "2016-10-21T02:48:37Z",
+    "end": "2026-10-21T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 2339363,
-    "daily_average": 640,
-    "human_readable_total": "649h 49m 23s",
-    "human_readable_daily_average": "10m 40s",
+    "total_seconds": 2341169,
+    "daily_average": 641,
+    "human_readable_total": "650h 19m 29s",
+    "human_readable_daily_average": "10m 41s",
     "languages": [
       {
         "name": "C#",
-        "total_seconds": 1036126,
-        "text": "287h 48m",
+        "total_seconds": 1036643,
+        "text": "287h 57m",
         "hours": 287,
-        "minutes": 48,
-        "percent": 44.29,
-        "digital": "287:48:46",
+        "minutes": 57,
+        "percent": 44.28,
+        "digital": "287:57:23",
         "color": "#7355dd"
       },
       {
@@ -36,12 +36,12 @@
       },
       {
         "name": "C",
-        "total_seconds": 124545,
-        "text": "34h 35m",
+        "total_seconds": 125128,
+        "text": "34h 45m",
         "hours": 34,
-        "minutes": 35,
-        "percent": 5.32,
-        "digital": "34:35:45",
+        "minutes": 45,
+        "percent": 5.34,
+        "digital": "34:45:28",
         "color": "#555555"
       },
       {
@@ -50,7 +50,7 @@
         "text": "31h 33m",
         "hours": 31,
         "minutes": 33,
-        "percent": 4.86,
+        "percent": 4.85,
         "digital": "31:33:28",
         "color": "#f34b7d"
       },
@@ -105,6 +105,16 @@
         "color": "#3572A5"
       },
       {
+        "name": "Lua",
+        "total_seconds": 82413,
+        "text": "22h 53m",
+        "hours": 22,
+        "minutes": 53,
+        "percent": 3.52,
+        "digital": "22:53:33",
+        "color": "#000080"
+      },
+      {
         "name": "Go",
         "total_seconds": 82161,
         "text": "22h 49m",
@@ -115,43 +125,33 @@
         "color": "#00ADD8"
       },
       {
-        "name": "Lua",
-        "total_seconds": 81341,
-        "text": "22h 35m",
-        "hours": 22,
-        "minutes": 35,
-        "percent": 3.48,
-        "digital": "22:35:41",
-        "color": "#000080"
-      },
-      {
         "name": "CSS",
         "total_seconds": 71495,
         "text": "19h 51m",
         "hours": 19,
         "minutes": 51,
-        "percent": 3.06,
+        "percent": 3.05,
         "digital": "19:51:35",
         "color": "#663399"
       },
       {
         "name": "Other",
-        "total_seconds": 53215,
-        "text": "14h 46m",
+        "total_seconds": 53335,
+        "text": "14h 48m",
         "hours": 14,
-        "minutes": 46,
-        "percent": 2.27,
-        "digital": "14:46:55",
+        "minutes": 48,
+        "percent": 2.28,
+        "digital": "14:48:55",
         "color": "#888888"
       },
       {
         "name": "musubi-module",
-        "total_seconds": 52461,
-        "text": "14h 34m",
+        "total_seconds": 52581,
+        "text": "14h 36m",
         "hours": 14,
-        "minutes": 34,
-        "percent": 2.24,
-        "digital": "14:34:21",
+        "minutes": 36,
+        "percent": 2.25,
+        "digital": "14:36:21",
         "color": "#888888"
       },
       {
@@ -210,7 +210,7 @@
         "text": "9h 31m",
         "hours": 9,
         "minutes": 31,
-        "percent": 1.47,
+        "percent": 1.46,
         "digital": "09:31:18",
         "color": "#239dad"
       },
@@ -220,7 +220,7 @@
         "text": "8h 56m",
         "hours": 8,
         "minutes": 56,
-        "percent": 1.38,
+        "percent": 1.37,
         "digital": "08:56:30",
         "color": "#cb171e"
       },
@@ -350,7 +350,7 @@
         "text": "4h 3m",
         "hours": 4,
         "minutes": 3,
-        "percent": 0.63,
+        "percent": 0.62,
         "digital": "04:03:45",
         "color": "#4E9906"
       },
@@ -1325,7 +1325,7 @@
         "color": "#888888"
       }
     ],
-    "streak": 0
+    "streak": 1
   },
   "trust_factor": {
     "trust_level": "blue",
