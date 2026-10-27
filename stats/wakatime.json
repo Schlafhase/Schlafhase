@@ -5,23 +5,23 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-10-26T18:01:59Z",
-    "end": "2026-10-26T23:59:59Z",
+    "start": "2016-10-27T03:12:15Z",
+    "end": "2026-10-27T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 2363787,
+    "total_seconds": 2365173,
     "daily_average": 647,
-    "human_readable_total": "656h 36m 27s",
+    "human_readable_total": "656h 59m 33s",
     "human_readable_daily_average": "10m 47s",
     "languages": [
       {
         "name": "C#",
-        "total_seconds": 1048424,
-        "text": "291h 13m",
+        "total_seconds": 1049356,
+        "text": "291h 29m",
         "hours": 291,
-        "minutes": 13,
-        "percent": 44.35,
-        "digital": "291:13:44",
+        "minutes": 29,
+        "percent": 44.37,
+        "digital": "291:29:16",
         "color": "#7355dd"
       },
       {
@@ -30,18 +30,18 @@
         "text": "54h 40m",
         "hours": 54,
         "minutes": 40,
-        "percent": 8.33,
+        "percent": 8.32,
         "digital": "54:40:19",
         "color": "#083fa1"
       },
       {
         "name": "C",
-        "total_seconds": 125128,
-        "text": "34h 45m",
+        "total_seconds": 125582,
+        "text": "34h 53m",
         "hours": 34,
-        "minutes": 45,
-        "percent": 5.29,
-        "digital": "34:45:28",
+        "minutes": 53,
+        "percent": 5.31,
+        "digital": "34:53:02",
         "color": "#555555"
       },
       {
@@ -110,7 +110,7 @@
         "text": "23h 5m",
         "hours": 23,
         "minutes": 5,
-        "percent": 3.52,
+        "percent": 3.51,
         "digital": "23:05:11",
         "color": "#000080"
       },
@@ -120,7 +120,7 @@
         "text": "22h 49m",
         "hours": 22,
         "minutes": 49,
-        "percent": 3.48,
+        "percent": 3.47,
         "digital": "22:49:21",
         "color": "#00ADD8"
       },
@@ -140,7 +140,7 @@
         "text": "16h 47m",
         "hours": 16,
         "minutes": 47,
-        "percent": 2.56,
+        "percent": 2.55,
         "digital": "16:47:01",
         "color": "#888888"
       },
@@ -196,12 +196,12 @@
       },
       {
         "name": "XML",
-        "total_seconds": 40076,
-        "text": "11h 7m",
+        "total_seconds": 40236,
+        "text": "11h 10m",
         "hours": 11,
-        "minutes": 7,
+        "minutes": 10,
         "percent": 1.7,
-        "digital": "11:07:56",
+        "digital": "11:10:36",
         "color": "#0060ac"
       },
       {
@@ -220,7 +220,7 @@
         "text": "9h 29m",
         "hours": 9,
         "minutes": 29,
-        "percent": 1.45,
+        "percent": 1.44,
         "digital": "09:29:33",
         "color": "#e34c26"
       },
