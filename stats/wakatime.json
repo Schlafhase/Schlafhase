@@ -5,13 +5,13 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-10-27T17:09:48Z",
-    "end": "2026-10-27T23:59:59Z",
+    "start": "2016-10-28T03:26:37Z",
+    "end": "2026-10-28T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 2365173,
+    "total_seconds": 2366265,
     "daily_average": 647,
-    "human_readable_total": "656h 59m 33s",
+    "human_readable_total": "657h 17m 45s",
     "human_readable_daily_average": "10m 47s",
     "languages": [
       {
@@ -20,18 +20,18 @@
         "text": "291h 29m",
         "hours": 291,
         "minutes": 29,
-        "percent": 44.37,
+        "percent": 44.35,
         "digital": "291:29:16",
         "color": "#7355dd"
       },
       {
         "name": "Markdown",
-        "total_seconds": 196819,
-        "text": "54h 40m",
+        "total_seconds": 197179,
+        "text": "54h 46m",
         "hours": 54,
-        "minutes": 40,
-        "percent": 8.32,
-        "digital": "54:40:19",
+        "minutes": 46,
+        "percent": 8.33,
+        "digital": "54:46:19",
         "color": "#083fa1"
       },
       {
@@ -60,7 +60,7 @@
         "text": "31h 26m",
         "hours": 31,
         "minutes": 26,
-        "percent": 4.79,
+        "percent": 4.78,
         "digital": "31:26:51",
         "color": "#3178c6"
       },
@@ -80,7 +80,7 @@
         "text": "27h 6m",
         "hours": 27,
         "minutes": 6,
-        "percent": 4.13,
+        "percent": 4.12,
         "digital": "27:06:34",
         "color": "#f1e05a"
       },
@@ -206,12 +206,12 @@
       },
       {
         "name": "Typst",
-        "total_seconds": 34278,
-        "text": "9h 31m",
+        "total_seconds": 35128,
+        "text": "9h 45m",
         "hours": 9,
-        "minutes": 31,
-        "percent": 1.45,
-        "digital": "09:31:18",
+        "minutes": 45,
+        "percent": 1.48,
+        "digital": "09:45:28",
         "color": "#239dad"
       },
       {
@@ -380,7 +380,7 @@
         "text": "3h 30m",
         "hours": 3,
         "minutes": 30,
-        "percent": 0.54,
+        "percent": 0.53,
         "digital": "03:30:58",
         "color": "#dea584"
       },
@@ -1335,7 +1335,7 @@
         "color": "#888888"
       }
     ],
-    "streak": 5
+    "streak": 0
   },
   "trust_factor": {
     "trust_level": "blue",
