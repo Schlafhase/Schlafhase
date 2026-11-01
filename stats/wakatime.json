@@ -5,13 +5,13 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-11-01T03:41:45Z",
+    "start": "2016-11-01T17:28:30Z",
     "end": "2026-11-01T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 2385195,
+    "total_seconds": 2385855,
     "daily_average": 653,
-    "human_readable_total": "662h 33m 15s",
+    "human_readable_total": "662h 44m 15s",
     "human_readable_daily_average": "10m 53s",
     "languages": [
       {
@@ -20,7 +20,7 @@
         "text": "291h 29m",
         "hours": 291,
         "minutes": 29,
-        "percent": 43.99,
+        "percent": 43.98,
         "digital": "291:29:16",
         "color": "#7355dd"
       },
@@ -30,18 +30,18 @@
         "text": "54h 46m",
         "hours": 54,
         "minutes": 46,
-        "percent": 8.27,
+        "percent": 8.26,
         "digital": "54:46:19",
         "color": "#083fa1"
       },
       {
         "name": "C",
-        "total_seconds": 144033,
-        "text": "40h",
+        "total_seconds": 144693,
+        "text": "40h 11m",
         "hours": 40,
-        "minutes": 0,
-        "percent": 6.04,
-        "digital": "40:00:33",
+        "minutes": 11,
+        "percent": 6.06,
+        "digital": "40:11:33",
         "color": "#555555"
       },
       {
