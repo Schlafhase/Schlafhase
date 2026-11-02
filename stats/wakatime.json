@@ -5,14 +5,14 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-11-01T17:28:30Z",
-    "end": "2026-11-01T23:59:59Z",
+    "start": "2016-11-02T03:46:49Z",
+    "end": "2026-11-02T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 2385855,
-    "daily_average": 653,
-    "human_readable_total": "662h 44m 15s",
-    "human_readable_daily_average": "10m 53s",
+    "total_seconds": 2388512,
+    "daily_average": 654,
+    "human_readable_total": "663h 28m 32s",
+    "human_readable_daily_average": "10m 54s",
     "languages": [
       {
         "name": "C#",
@@ -20,7 +20,7 @@
         "text": "291h 29m",
         "hours": 291,
         "minutes": 29,
-        "percent": 43.98,
+        "percent": 43.93,
         "digital": "291:29:16",
         "color": "#7355dd"
       },
@@ -36,12 +36,12 @@
       },
       {
         "name": "C",
-        "total_seconds": 144693,
-        "text": "40h 11m",
+        "total_seconds": 147350,
+        "text": "40h 55m",
         "hours": 40,
-        "minutes": 11,
-        "percent": 6.06,
-        "digital": "40:11:33",
+        "minutes": 55,
+        "percent": 6.17,
+        "digital": "40:55:50",
         "color": "#555555"
       },
       {
@@ -50,7 +50,7 @@
         "text": "31h 35m",
         "hours": 31,
         "minutes": 35,
-        "percent": 4.77,
+        "percent": 4.76,
         "digital": "31:35:47",
         "color": "#f34b7d"
       },
@@ -60,7 +60,7 @@
         "text": "31h 26m",
         "hours": 31,
         "minutes": 26,
-        "percent": 4.75,
+        "percent": 4.74,
         "digital": "31:26:51",
         "color": "#3178c6"
       },
@@ -90,7 +90,7 @@
         "text": "24h 57m",
         "hours": 24,
         "minutes": 57,
-        "percent": 3.77,
+        "percent": 3.76,
         "digital": "24:57:49",
         "color": "#888888"
       },
@@ -100,7 +100,7 @@
         "text": "24h 54m",
         "hours": 24,
         "minutes": 54,
-        "percent": 3.76,
+        "percent": 3.75,
         "digital": "24:54:33",
         "color": "#3572A5"
       },
@@ -200,7 +200,7 @@
         "text": "11h 10m",
         "hours": 11,
         "minutes": 10,
-        "percent": 1.69,
+        "percent": 1.68,
         "digital": "11:10:36",
         "color": "#0060ac"
       },
@@ -250,7 +250,7 @@
         "text": "8h 27m",
         "hours": 8,
         "minutes": 27,
-        "percent": 1.28,
+        "percent": 1.27,
         "digital": "08:27:31",
         "color": "#888888"
       },
@@ -276,12 +276,12 @@
       },
       {
         "name": "CMake",
-        "total_seconds": 24486,
-        "text": "6h 48m",
+        "total_seconds": 24611,
+        "text": "6h 50m",
         "hours": 6,
-        "minutes": 48,
+        "minutes": 50,
         "percent": 1.03,
-        "digital": "06:48:06",
+        "digital": "06:50:11",
         "color": "#DA3434"
       },
       {
@@ -430,7 +430,7 @@
         "text": "1h 45m",
         "hours": 1,
         "minutes": 45,
-        "percent": 0.27,
+        "percent": 0.26,
         "digital": "01:45:29",
         "color": "#888888"
       },
