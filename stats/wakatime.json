@@ -5,13 +5,13 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-11-12T05:14:53Z",
+    "start": "2016-11-12T19:23:37Z",
     "end": "2026-11-12T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 2404888,
+    "total_seconds": 2406036,
     "daily_average": 658,
-    "human_readable_total": "668h 1m 28s",
+    "human_readable_total": "668h 20m 36s",
     "human_readable_daily_average": "10m 58s",
     "languages": [
       {
@@ -20,7 +20,7 @@
         "text": "293h 28m",
         "hours": 293,
         "minutes": 28,
-        "percent": 43.93,
+        "percent": 43.91,
         "digital": "293:28:08",
         "color": "#7355dd"
       },
@@ -120,7 +120,7 @@
         "text": "22h 49m",
         "hours": 22,
         "minutes": 49,
-        "percent": 3.42,
+        "percent": 3.41,
         "digital": "22:49:21",
         "color": "#00ADD8"
       },
@@ -130,7 +130,7 @@
         "text": "20h 32m",
         "hours": 20,
         "minutes": 32,
-        "percent": 3.08,
+        "percent": 3.07,
         "digital": "20:32:56",
         "color": "#663399"
       },
@@ -146,12 +146,12 @@
       },
       {
         "name": "musubi-module",
-        "total_seconds": 54290,
-        "text": "15h 4m",
+        "total_seconds": 54483,
+        "text": "15h 8m",
         "hours": 15,
-        "minutes": 4,
+        "minutes": 8,
         "percent": 2.26,
-        "digital": "15:04:50",
+        "digital": "15:08:03",
         "color": "#888888"
       },
       {
@@ -185,6 +185,16 @@
         "color": "#d1dbe0"
       },
       {
+        "name": "Typst",
+        "total_seconds": 40944,
+        "text": "11h 22m",
+        "hours": 11,
+        "minutes": 22,
+        "percent": 1.7,
+        "digital": "11:22:24",
+        "color": "#239dad"
+      },
+      {
         "name": "JSON",
         "total_seconds": 40760,
         "text": "11h 19m",
@@ -203,16 +213,6 @@
         "percent": 1.67,
         "digital": "11:10:36",
         "color": "#0060ac"
-      },
-      {
-        "name": "Typst",
-        "total_seconds": 40212,
-        "text": "11h 10m",
-        "hours": 11,
-        "minutes": 10,
-        "percent": 1.67,
-        "digital": "11:10:12",
-        "color": "#239dad"
       },
       {
         "name": "HTML",
@@ -240,7 +240,7 @@
         "text": "8h 39m",
         "hours": 8,
         "minutes": 39,
-        "percent": 1.3,
+        "percent": 1.29,
         "digital": "08:39:18",
         "color": "#888888"
       },
@@ -316,12 +316,12 @@
       },
       {
         "name": "Nix",
-        "total_seconds": 17375,
-        "text": "4h 49m",
+        "total_seconds": 17550,
+        "text": "4h 52m",
         "hours": 4,
-        "minutes": 49,
-        "percent": 0.72,
-        "digital": "04:49:35",
+        "minutes": 52,
+        "percent": 0.73,
+        "digital": "04:52:30",
         "color": "#7e7eff"
       },
       {
@@ -335,6 +335,16 @@
         "color": "#244776"
       },
       {
+        "name": "Nushell",
+        "total_seconds": 15014,
+        "text": "4h 10m",
+        "hours": 4,
+        "minutes": 10,
+        "percent": 0.62,
+        "digital": "04:10:14",
+        "color": "#4E9906"
+      },
+      {
         "name": "SourceMap",
         "total_seconds": 14818,
         "text": "4h 6m",
@@ -343,16 +353,6 @@
         "percent": 0.62,
         "digital": "04:06:58",
         "color": "#888888"
-      },
-      {
-        "name": "Nushell",
-        "total_seconds": 14799,
-        "text": "4h 6m",
-        "hours": 4,
-        "minutes": 6,
-        "percent": 0.62,
-        "digital": "04:06:39",
-        "color": "#4E9906"
       },
       {
         "name": "Shell",
@@ -1355,7 +1355,7 @@
         "color": "#888888"
       }
     ],
-    "streak": 0
+    "streak": 1
   },
   "trust_factor": {
     "trust_level": "blue",
