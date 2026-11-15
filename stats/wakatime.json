@@ -5,13 +5,13 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-11-15T04:11:34Z",
+    "start": "2016-11-15T18:19:56Z",
     "end": "2026-11-15T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 2406977,
+    "total_seconds": 2407533,
     "daily_average": 659,
-    "human_readable_total": "668h 36m 17s",
+    "human_readable_total": "668h 45m 33s",
     "human_readable_daily_average": "10m 59s",
     "languages": [
       {
@@ -20,7 +20,7 @@
         "text": "293h 28m",
         "hours": 293,
         "minutes": 28,
-        "percent": 43.89,
+        "percent": 43.88,
         "digital": "293:28:08",
         "color": "#7355dd"
       },
@@ -30,7 +30,7 @@
         "text": "55h 56m",
         "hours": 55,
         "minutes": 56,
-        "percent": 8.37,
+        "percent": 8.36,
         "digital": "55:56:24",
         "color": "#083fa1"
       },
@@ -40,7 +40,7 @@
         "text": "41h 1m",
         "hours": 41,
         "minutes": 1,
-        "percent": 6.14,
+        "percent": 6.13,
         "digital": "41:01:30",
         "color": "#555555"
       },
@@ -50,7 +50,7 @@
         "text": "31h 35m",
         "hours": 31,
         "minutes": 35,
-        "percent": 4.73,
+        "percent": 4.72,
         "digital": "31:35:47",
         "color": "#f34b7d"
       },
@@ -100,7 +100,7 @@
         "text": "24h 54m",
         "hours": 24,
         "minutes": 54,
-        "percent": 3.73,
+        "percent": 3.72,
         "digital": "24:54:33",
         "color": "#3572A5"
       },
@@ -136,12 +136,12 @@
       },
       {
         "name": "Other",
-        "total_seconds": 60806,
-        "text": "16h 53m",
+        "total_seconds": 60926,
+        "text": "16h 55m",
         "hours": 16,
-        "minutes": 53,
+        "minutes": 55,
         "percent": 2.53,
-        "digital": "16:53:26",
+        "digital": "16:55:26",
         "color": "#888888"
       },
       {
@@ -316,12 +316,12 @@
       },
       {
         "name": "Nix",
-        "total_seconds": 18454,
-        "text": "5h 7m",
+        "total_seconds": 18985,
+        "text": "5h 16m",
         "hours": 5,
-        "minutes": 7,
-        "percent": 0.77,
-        "digital": "05:07:34",
+        "minutes": 16,
+        "percent": 0.79,
+        "digital": "05:16:25",
         "color": "#7e7eff"
       },
       {
