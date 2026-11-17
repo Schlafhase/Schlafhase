@@ -5,23 +5,23 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-11-17T05:57:53Z",
+    "start": "2016-11-17T20:18:11Z",
     "end": "2026-11-17T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 2424341,
-    "daily_average": 663,
-    "human_readable_total": "673h 25m 41s",
-    "human_readable_daily_average": "11m 3s",
+    "total_seconds": 2426770,
+    "daily_average": 664,
+    "human_readable_total": "674h 6m 10s",
+    "human_readable_daily_average": "11m 4s",
     "languages": [
       {
         "name": "C#",
-        "total_seconds": 1068017,
-        "text": "296h 40m",
-        "hours": 296,
-        "minutes": 40,
-        "percent": 44.05,
-        "digital": "296:40:17",
+        "total_seconds": 1070089,
+        "text": "297h 14m",
+        "hours": 297,
+        "minutes": 14,
+        "percent": 44.1,
+        "digital": "297:14:49",
         "color": "#7355dd"
       },
       {
@@ -30,7 +30,7 @@
         "text": "55h 56m",
         "hours": 55,
         "minutes": 56,
-        "percent": 8.31,
+        "percent": 8.3,
         "digital": "55:56:24",
         "color": "#083fa1"
       },
@@ -80,7 +80,7 @@
         "text": "27h 6m",
         "hours": 27,
         "minutes": 6,
-        "percent": 4.03,
+        "percent": 4.02,
         "digital": "27:06:34",
         "color": "#f1e05a"
       },
@@ -90,7 +90,7 @@
         "text": "24h 57m",
         "hours": 24,
         "minutes": 57,
-        "percent": 3.71,
+        "percent": 3.7,
         "digital": "24:57:49",
         "color": "#888888"
       },
@@ -106,12 +106,12 @@
       },
       {
         "name": "Lua",
-        "total_seconds": 84510,
-        "text": "23h 28m",
+        "total_seconds": 84663,
+        "text": "23h 31m",
         "hours": 23,
-        "minutes": 28,
+        "minutes": 31,
         "percent": 3.49,
-        "digital": "23:28:30",
+        "digital": "23:31:03",
         "color": "#000080"
       },
       {
@@ -196,12 +196,12 @@
       },
       {
         "name": "JSON",
-        "total_seconds": 40760,
-        "text": "11h 19m",
+        "total_seconds": 41094,
+        "text": "11h 24m",
         "hours": 11,
-        "minutes": 19,
-        "percent": 1.68,
-        "digital": "11:19:20",
+        "minutes": 24,
+        "percent": 1.69,
+        "digital": "11:24:54",
         "color": "#292929"
       },
       {
@@ -280,7 +280,7 @@
         "text": "6h 50m",
         "hours": 6,
         "minutes": 50,
-        "percent": 1.02,
+        "percent": 1.01,
         "digital": "06:50:11",
         "color": "#DA3434"
       },
@@ -1355,7 +1355,7 @@
         "color": "#888888"
       }
     ],
-    "streak": 2
+    "streak": 3
   },
   "trust_factor": {
     "trust_level": "blue",
