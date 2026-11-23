@@ -5,13 +5,13 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-11-22T18:53:57Z",
-    "end": "2026-11-22T23:59:59Z",
+    "start": "2016-11-23T05:04:55Z",
+    "end": "2026-11-23T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 2450557,
+    "total_seconds": 2451430,
     "daily_average": 671,
-    "human_readable_total": "680h 42m 37s",
+    "human_readable_total": "680h 57m 10s",
     "human_readable_daily_average": "11m 11s",
     "languages": [
       {
@@ -20,7 +20,7 @@
         "text": "303h 48m",
         "hours": 303,
         "minutes": 48,
-        "percent": 44.63,
+        "percent": 44.61,
         "digital": "303:48:04",
         "color": "#7355dd"
       },
@@ -40,7 +40,7 @@
         "text": "41h 1m",
         "hours": 41,
         "minutes": 1,
-        "percent": 6.03,
+        "percent": 6.02,
         "digital": "41:01:30",
         "color": "#555555"
       },
@@ -70,7 +70,7 @@
         "text": "29h 18m",
         "hours": 29,
         "minutes": 18,
-        "percent": 4.31,
+        "percent": 4.3,
         "digital": "29:18:25",
         "color": "#512be4"
       },
@@ -106,12 +106,12 @@
       },
       {
         "name": "Lua",
-        "total_seconds": 84819,
-        "text": "23h 33m",
+        "total_seconds": 85544,
+        "text": "23h 45m",
         "hours": 23,
-        "minutes": 33,
-        "percent": 3.46,
-        "digital": "23:33:39",
+        "minutes": 45,
+        "percent": 3.49,
+        "digital": "23:45:44",
         "color": "#000080"
       },
       {
@@ -230,7 +230,7 @@
         "text": "9h 1m",
         "hours": 9,
         "minutes": 1,
-        "percent": 1.33,
+        "percent": 1.32,
         "digital": "09:01:13",
         "color": "#cb171e"
       },
@@ -336,12 +336,12 @@
       },
       {
         "name": "Nushell",
-        "total_seconds": 15058,
-        "text": "4h 10m",
+        "total_seconds": 15206,
+        "text": "4h 13m",
         "hours": 4,
-        "minutes": 10,
-        "percent": 0.61,
-        "digital": "04:10:58",
+        "minutes": 13,
+        "percent": 0.62,
+        "digital": "04:13:26",
         "color": "#4E9906"
       },
       {
