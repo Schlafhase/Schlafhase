@@ -5,23 +5,23 @@
     "is_coding_activity_visible": true,
     "is_other_usage_visible": true,
     "status": "ok",
-    "start": "2016-11-27T20:31:25Z",
-    "end": "2026-11-27T23:59:59Z",
+    "start": "2016-11-28T05:47:52Z",
+    "end": "2026-11-28T23:59:59Z",
     "range": "all_time",
     "human_readable_range": "All Time",
-    "total_seconds": 2464162,
+    "total_seconds": 2464685,
     "daily_average": 674,
-    "human_readable_total": "684h 29m 22s",
+    "human_readable_total": "684h 38m 5s",
     "human_readable_daily_average": "11m 14s",
     "languages": [
       {
         "name": "C#",
-        "total_seconds": 1105283,
-        "text": "307h 1m",
+        "total_seconds": 1105806,
+        "text": "307h 10m",
         "hours": 307,
-        "minutes": 1,
-        "percent": 44.85,
-        "digital": "307:01:23",
+        "minutes": 10,
+        "percent": 44.87,
+        "digital": "307:10:06",
         "color": "#7355dd"
       },
       {
@@ -30,7 +30,7 @@
         "text": "56h 1m",
         "hours": 56,
         "minutes": 1,
-        "percent": 8.19,
+        "percent": 8.18,
         "digital": "56:01:45",
         "color": "#083fa1"
       },
@@ -1355,7 +1355,7 @@
         "color": "#888888"
       }
     ],
-    "streak": 2
+    "streak": 0
   },
   "trust_factor": {
     "trust_level": "blue",
